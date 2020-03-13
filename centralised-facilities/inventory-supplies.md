@@ -20,12 +20,14 @@ The following inventories are to be present at the CCC.
 8. Syringes
 9. Glucometer
 10. Waste Disposal System
-11. 
+11. Hand Sanitisers \(small and filling pouches\)
+12. BP Apparatus
+
 Medical Inventory  
   
 **Office Inventory**
 
-1. Printers with INK Catridges/Laser Printers
+1. Printers with INK Cartridges/Laser Printers
 2. Glue/Sticky Notes/
 3. Whiteboards with markers
 4. ID Cards 
