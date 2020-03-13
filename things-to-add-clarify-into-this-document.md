@@ -2,7 +2,7 @@
 description: These are things that are to be flushed out.
 ---
 
-# Things to add/Clarify into this document
+# Things to Clarify
 
 **In Patient Management**  
   

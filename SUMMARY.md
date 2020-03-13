@@ -17,7 +17,7 @@
 * [Inventory Supplies](centralised-facilities/inventory-supplies.md)
 * [Ambulance Network](centralised-facilities/ambulance-network.md)
 * [Waste Disposal](centralised-facilities/waste-disposal.md)
-* [Things to add/Clarify into this document](things-to-add-clarify-into-this-document.md)
+* [Things to Clarify](things-to-add-clarify-into-this-document.md)
 
 ## FAQ
 
