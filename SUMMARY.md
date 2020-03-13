@@ -6,8 +6,8 @@
 
 * [Capacity Modelling](how-to-convert-an-institution-into-a-ccc/capacity-modelling.md)
 * [Organisation Structure](how-to-convert-an-institution-into-a-ccc/organisation-structure.md)
-* [Patient Management](how-to-convert-an-institution-into-a-ccc/patient-management-1.md)
 * [Volunteer Registration](how-to-convert-an-institution-into-a-ccc/volunteer-registration.md)
+* [Patient Management](how-to-convert-an-institution-into-a-ccc/patient-management-1.md)
 
 ## Centralised Facilities
 
