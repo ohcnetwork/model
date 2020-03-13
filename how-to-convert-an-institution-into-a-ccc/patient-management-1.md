@@ -44,7 +44,8 @@ Once the patient is admitted the following parameters are to be monitored every 
 
 1. Fever
 2. Cough and Breathing difficulty
-3. Any other illness \(status of diabetes/hypertension\)
+3. Any other illness \(status of diabetes/hypertension\)  Treatment: Once a person has cough, we give him clean hot water to gargle in a very comforting and lovely service. This division will be headed by Sharath Krishnan who will ensure everyone is happy during their time at the school.  We have to ensure that the virus doesnt reach the lungs. If it does, we have to boost immunity naturally and sweat it out with the virus.  We encourage all people to observe fasting based on their individual styles. 
+4. Our Medical doctors are 100% confident of the plan.
 
 **Criteria for Discharge or Transfer to Hospital**
 
