@@ -11,7 +11,16 @@ People following the CCC \(lets say in the Alumni Network\) should get real-time
 The following inventories are to be present at the CCC.
 
 1. Handheld Thermal Sensors \(Decide the number later\)
-2. 
+2. Gloves
+3. Masks
+4. Protective Gear \(gowns\)
+5. Medicines
+6. IV Fluids
+7. IV Sets
+8. Syringes
+9. Glucometer
+10. Waste Disposal System
+11. 
 Medical Inventory  
   
 **Office Inventory**
