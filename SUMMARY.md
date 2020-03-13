@@ -15,6 +15,7 @@
 * [Training Module for CCC](centralised-facilities/training-module-for-ccc.md)
 * [Inventory Supplies](centralised-facilities/inventory-supplies.md)
 * [Ambulance Network](centralised-facilities/ambulance-network.md)
+* [Things to add/Clarify into this document](things-to-add-clarify-into-this-document.md)
 
 ## FAQ
 

@@ -8,7 +8,10 @@ The training modules created will be
 
 1. Aim/Mission of the Center
 2. Physical Capacity and Structure of the Center
-3. Individual Roles and Responsibilities of Individuals
-4. Do's and Dont's to be taken once in the center
-5. Inventory Available in the Center
+3. General Operating Guidelines at time of crisis.
+4. Individual Roles and Responsibilities of Individuals
+5. Do's and Dont's to be taken once in the center
+6. Inventory Available in the Center
+
+
 

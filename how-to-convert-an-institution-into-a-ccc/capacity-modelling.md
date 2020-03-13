@@ -20,7 +20,10 @@ $ The rule of thumb is that each person needs 8Ft*4Ft area to sit and lie down.
 
  The system will give a capacity that can be then created at that center. Loyola has 36 classrooms where 1000 students study and 3 large exam halls.  
   
-The School can then accomodate 
+The School can then split the capacity into two parts.  
+  
+1. Inpatient comes in  
+2. 
 
 {% code title="hello.sh" %}
 ```bash
