@@ -12,6 +12,7 @@
 
 ## Centralised Facilities
 
+* [Waste Disposal](centralised-facilities/waste-disposal.md)
 * [Technology Center](centralised-facilities/technology-center.md)
 * [Training Module for CCC](centralised-facilities/training-module-for-ccc.md)
 * [Inventory Supplies](centralised-facilities/inventory-supplies.md)

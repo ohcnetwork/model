@@ -29,6 +29,7 @@ Medical Inventory
 2. Glue/Sticky Notes/
 3. Whiteboards with markers
 4. ID Cards 
+5. Waste Disposal Equipments
 
 
 
