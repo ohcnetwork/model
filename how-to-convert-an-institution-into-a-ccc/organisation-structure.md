@@ -84,7 +84,7 @@ description: >-
     </tr>
     <tr>
       <td style="text-align:left">6</td>
-      <td style="text-align:left">Counselling</td>
+      <td style="text-align:left">5 Counselling</td>
       <td style="text-align:left">Emotional Support to Patients. This will be mostly done by Volunteers</td>
       <td
       style="text-align:left"></td>
