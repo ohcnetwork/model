@@ -25,7 +25,8 @@ I. **Medical Inventory**
 11. Hand Sanitisers \(small and filling pouches\)
 12. BP Apparatus
 13. Beds/Mattresses - \(Ramettan needs to fix a count\)
-
+14. Bedsheets, Pillows
+15. 
   
   
 II. **Office Inventory**
