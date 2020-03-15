@@ -7,7 +7,9 @@ description: >-
 
 # Organisation Structure
 
-The Corona Care staff system would operate in shifts of 12 or 24 hours depending on the roles outlined below.
+The Corona Care staff system would operate in shifts of 12 or 24 hours depending on the roles outlined below in two shift times.  
+  
+Morning Shift 8am to 8pm and  Night Shift 8pm to 8am.
 
 <table>
   <thead>
@@ -84,7 +86,7 @@ The Corona Care staff system would operate in shifts of 12 or 24 hours depending
         <p>Inventory management becomes an issue as well if we have to manage supplies
           to 1000&apos;s of CCC.</p>
         <p></p>
-        <p>6 people in 12 hours shifts would be working.</p>
+        <p>6 people work-in in 12 hours shifts</p>
       </td>
     </tr>
     <tr>
@@ -103,7 +105,7 @@ The Corona Care staff system would operate in shifts of 12 or 24 hours depending
     </tr>
     <tr>
       <td style="text-align:left">5</td>
-      <td style="text-align:left">2 Data Management</td>
+      <td style="text-align:left">2 Data Engineers</td>
       <td style="text-align:left">Ensuring that correct data is quickly entered into the system so that
         the master database is populated accurately.</td>
       <td style="text-align:left">
@@ -114,22 +116,28 @@ The Corona Care staff system would operate in shifts of 12 or 24 hours depending
           enter data online at www.coronasafe.com platform is also a right person
           for this role.</p>
         <p></p>
-        <p>2 * 12 hour shifts would be given.</p>
+        <p>2 people work in 12 hour shifts</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">6</td>
-      <td style="text-align:left">5 Counselling</td>
+      <td style="text-align:left">6 Counselling</td>
       <td style="text-align:left">Emotional Support to Patients. This will be mostly done by Volunteers</td>
       <td
-      style="text-align:left"></td>
+      style="text-align:left">3 people work in 12 hour shifts.</td>
     </tr>
     <tr>
       <td style="text-align:left">7</td>
       <td style="text-align:left">4 people for Entry and Exit Management</td>
       <td style="text-align:left">Ensuring that the right people enter and the right people exit through
         the right physical map of the buildings.</td>
-      <td style="text-align:left">Google Map Locations can be send to patients before they start from home.</td>
+      <td style="text-align:left">
+        <p>2 people at the Main Entry Gate
+          <br />2 people at the assessment center.
+          <br />
+        </p>
+        <p>Google Map Locations can be send to patients before they start from home.</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">8</td>
