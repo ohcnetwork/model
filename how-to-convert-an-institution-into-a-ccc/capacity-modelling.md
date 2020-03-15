@@ -6,6 +6,8 @@ description: >-
 
 # Capacity Modelling
 
+In Loyola School, we start with the Indoor Stadium which can accomodate large number of people. 
+
 ## Rules of Thumb
 
 * [ ] Enter the total number of students in the institution
