@@ -1,12 +1,13 @@
 ---
 description: >-
-  This is where the details of personnel required to man the CCC is given. This
-  will have the Roles and Responsibilities of each person.
+  Each Corona Care Center is a 24 hour facility which has to be manned by X no
+  of people. This section outlines the roles and responsibilities of the
+  personnel.
 ---
 
 # Organisation Structure
 
-
+The Corona Care staff system would operate in shifts of 12 or 24 hours depending on the roles outlined below.
 
 <table>
   <thead>
@@ -24,8 +25,7 @@ description: >-
   <tbody>
     <tr>
       <td style="text-align:left">1</td>
-      <td style="text-align:left">Administrative Authority/
-        <br />CEO in Charge
+      <td style="text-align:left">1 Center Head
         <br />
         <br />
         <br />
@@ -37,29 +37,55 @@ description: >-
           <br />Food and Water Supplies
           <br />Medical Supplies
           <br />Electricity</p>
-        <p>Ambulance
-          <br />
-        </p>
+        <p>Ambulance (Land and Air)</p>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">A non-medical person who can ensure that right number of people, supplies
+        and can co-ordinate with the government that things are running smoothly.
+        <br
+        />
+        <br />This person is the Administrative Authority/CEO in Charge of the Corona
+        Care Center.</td>
     </tr>
     <tr>
       <td style="text-align:left">2</td>
-      <td style="text-align:left">2 Doctors</td>
-      <td style="text-align:left">Overall in charge of the medical decisions at the center</td>
-      <td style="text-align:left">2*12 hour shifts</td>
+      <td style="text-align:left">2 Doctors round the clock</td>
+      <td style="text-align:left">
+        <p>Overall in charge of the medical decisions at the corona care center</p>
+        <p></p>
+        <p>Final Year/House Surgeoncy students can volunteer here.</p>
+      </td>
+      <td style="text-align:left">
+        <p>Doctors works in shifts which each center can decide as to be
+          <br />Two twelve hour shifts or</p>
+        <p>One twenty four hour shifts.</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">3</td>
-      <td style="text-align:left">12 Nursing/Paramedical Personnel</td>
       <td style="text-align:left">
-        <p>To support the doctors</p>
-        <p>Lab Technicians
-          <br />Pharmacists
-          <br />
-        </p>
+        <p>12 Nursing/</p>
+        <p>Paramedicals</p>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Will do nearly the same job in assisting doctors for patient care.
+        <br
+        />
+        <br />Injection are to be kept to minimum.
+        <br />
+        <br />Nurses/Nursing Students
+        <br />Lab Technicians
+        <br />Pharmacists
+        <br />Medical Students
+        <br />
+      </td>
+      <td style="text-align:left">
+        <p>People who need round the clock injections is more sick and needs to be
+          taken to a hospital from the CCC.</p>
+        <p></p>
+        <p>Inventory management becomes an issue as well if we have to manage supplies
+          to 1000&apos;s of CCC.</p>
+        <p></p>
+        <p>6 people in 12 hours shifts would be working.</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">4</td>
@@ -67,20 +93,29 @@ description: >-
         <br />
         <br />
       </td>
-      <td style="text-align:left">Waste generated is disposed properly.
+      <td style="text-align:left">Support, Patient Management work amongst the patients
         <br />
-        <br />Counselling
+        <br />Ensuring Utilities like Power and Water at the center.
         <br />
-        <br />
-      </td>
-      <td style="text-align:left"></td>
+        <br />Waste generated is disposed properly through the Waste Management Unit.</td>
+      <td
+      style="text-align:left">Anyone who volunteers can become a support staff at a CCC.</td>
     </tr>
     <tr>
       <td style="text-align:left">5</td>
-      <td style="text-align:left">Data Management</td>
+      <td style="text-align:left">2 Data Management</td>
       <td style="text-align:left">Ensuring that correct data is quickly entered into the system so that
         the master database is populated accurately.</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>Ideally an engineering student who is interested in computer science and
+          data modelling is the best person for this role.</p>
+        <p></p>
+        <p>If such a student is not available, Anyone who can use a computer and
+          enter data online at www.coronasafe.com platform is also a right person
+          for this role.</p>
+        <p></p>
+        <p>2 * 12 hour shifts would be given.</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">6</td>
