@@ -1,8 +1,8 @@
 ---
 description: >-
   This page describes how to setup an Ambulance Network which connects Public
-  and Private Ambulances in a State so that a CCC can reach out to the closest
-  ambulance that is free.
+  and Private Ambulances as well as Air Ambulances so that a CCC can reach out
+  to the closest ambulance in the shortest time.
 ---
 
 # Ambulance Network
