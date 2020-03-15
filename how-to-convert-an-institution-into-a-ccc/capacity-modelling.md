@@ -27,10 +27,7 @@ $ The rule of thumb is that each person needs 8Ft*4Ft area to sit and lie down.
 The Loyola Old Boys Association \(LOBA\) Executive Committee Members are the co-ordination team. There are 15 members who are playing the following roles.  
   
 1. Alumni Communication  
-2. Volunteer Co-ordination  
-
-
- 
+2. Volunteer Co-ordination
 
  The patient comes the School main entrance Gate where he is welcomed with a hand sanitiser and given directions as to where he/she should go.  
   
@@ -44,14 +41,5 @@ If the patient has to be admitted, he/she is shown the way down to the Indoor St
   
 If the patient has to be send to Hospital, he/she is immediately given information about the latest status of free ambulance and the expected time of pick up and which would be the possible destination hospital where he/she would go.  
   
-If the patient requires AIR Ambulance, he/she moves up to the Football Ground where air ambulance has a landing facilty. up would come.
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
-
+If the patient requires AIR Ambulance, he/she moves up to the Football Ground where air ambulance has a landing facility would come.
 
