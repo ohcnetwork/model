@@ -8,7 +8,9 @@ description: >-
 
 ## Why do we need a CCC?
 
-India has a hospital capacity of 650,000 hospital beds. Kerala has a capacity of X beds. If the pandemic spreads rapidly through the population and people rush to the hospital for treatment, it will burden the healthcare system under a load that it cannot handle.  
+India has a hospital capacity of 650,000 hospital beds. Out that Kerala has a capacity of 100,000 beds. However, the problem is that approximately 90% of it would be occupied.   
+  
+Thus, if the pandemic spreads rapidly through the population and people rush to the hospital for treatment, it will burden the healthcare system under a load that it cannot handle.  
   
 The CCC is a system being created to soften the impact on Hospitals and for everyone who is affected to co-ordinate on how to approach the pandemic so that the maximum possible healthcare is being given without the system collapsing completely leading the maximum lives being saved.
 
