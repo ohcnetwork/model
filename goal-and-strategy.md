@@ -21,15 +21,15 @@ We are translating this entire knowledge from WHO into Malayalam on Gitbook unli
 
 Once citizens learn, there is a quiz for citizens to take and ensure that each one has the required knowledge. This is also bring translated into Malayalam.
 
-#### Work in Progress: [https://app.coronasafe.in/](https://app.coronasafe.in/)
+#### Work in Progress: [https://quiz.coronasafe.in/](https://quiz.coronasafe.in/)
 
-### Step\#2: Corona Care Network: A full network of educational institutions will be transformed into individual corana care centers.\(CCC\)
+### Step\#2: Corona Care Network: A full network of educational institutions will be transformed into individual Corona Care Centers.\(CCC\)
 
-a. People who fall sick will go to the center first where they can get quarantine/be treated for mild illnesses.
+a. People who fall sick will go to the center first where they can get quarantined/be treated for mild illnesses.
 
 b. People who fall critical will be transported by State wide Ambulance Network to nearest hospital which has the capacity.
 
-#### III. We are now gathered preliminary requirements for creating a model CCC and plan to test this is one school \([https://en.wikipedia.org/wiki/Loyola\_School,\_Thiruvananthapuram](https://en.wikipedia.org/wiki/Loyola_School,_Thiruvananthapuram)\) and test the full physical + software system
+#### III. We are now gathered preliminary requirements for creating a model CCC and plan to test this is one school \([https://en.wikipedia.org/wiki/Loyola\_School,\_Thiruvananthapuram](https://en.wikipedia.org/wiki/Loyola_School,_Thiruvananthapuram)\) and test the full physical + software system.
 
 ### IV. Once the software system is live - it will have features for
 
@@ -49,9 +49,12 @@ Edit Permissions: [https://app.gitbook.com/invite/coronasafe?invite=-M2J7SfjFHJ3
 
 Github Organization: [https://github.com/coronasafe/](https://github.com/coronasafe/) CCC Model: [https://github.com/coronasafe/model](https://github.com/coronasafe/model)
 
-Our Contributors [https://github.com/coronasafe/coronasafe.in/graphs/contributors](https://github.com/coronasafe/coronasafe.in/graphs/contributors) [https://github.com/coronasafe/awareness/graphs/contributors](https://github.com/coronasafe/awareness/graphs/contributors)
+Our Contributors  
+[https://github.com/coronasafe/coronasafe.in/graphs/contributors](https://github.com/coronasafe/coronasafe.in/graphs/contributors) [https://github.com/coronasafe/awareness/graphs/contributors](https://github.com/coronasafe/awareness/graphs/contributors)
 
 ## VI. Offensive Strategy: 
 
 #### Once the vaccine has been developed by scientists in parallel, our war strategy moves into offensive gear where we fight out the vaccine with active Corona Virus immunisation programmes.
+
+We dont know the exact time estimate for this and estimates range from 6 months - 18 months \(Sept 2020 to Sept 2021\) so we need to plan ahead to ensure the self, family, state and nation is safe.
 
