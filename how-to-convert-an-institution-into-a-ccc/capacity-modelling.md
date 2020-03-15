@@ -24,7 +24,7 @@ $ The rule of thumb is that each person needs 8Ft*4Ft area to sit and lie down.
 
  The patient comes the School main entrance Gate where he is welcomed with a hand sanitiser and given directions as to where he/she should go.  
   
-The road comes straight to the canteen where we have setup a space for meeting people to assess what the condition is and deciding where to send them  
+The road comes straight to the canteen where we have setup an Assessment Area for meeting people to assess what the condition is and deciding where to send them  
   
 1. Home  
 2. Admit at CCC  

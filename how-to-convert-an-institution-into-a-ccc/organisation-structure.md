@@ -1,6 +1,6 @@
 ---
 description: >-
-  Each Corona Care Center is a 24 hour facility which has to be manned by X no
+  Each Corona Care Center is a 24 hour facility which has to be manned by 42 no
   of people. This section outlines the roles and responsibilities of the
   personnel.
 ---
@@ -133,7 +133,7 @@ Morning Shift 8am to 8pm and  Night Shift 8pm to 8am.
         the right physical map of the buildings.</td>
       <td style="text-align:left">
         <p>2 people at the Main Entry Gate
-          <br />2 people at the assessment center.
+          <br />2 people at the Assessment Area.
           <br />
         </p>
         <p>Google Map Locations can be send to patients before they start from home.</p>
@@ -143,8 +143,12 @@ Morning Shift 8am to 8pm and  Night Shift 8pm to 8am.
       <td style="text-align:left">8</td>
       <td style="text-align:left">5 Reserve Strength</td>
       <td style="text-align:left">For contingencies</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">These can be volunteers who can be deployed at any position from Roles
+        #3 to #7.</td>
     </tr>
   </tbody>
-</table>
+</table>For the first week of the center we need 42 volunteers.   
+The Center Head also plans for 42 additional people as well who will be ready to step in in Week\#2.
+
+
 
