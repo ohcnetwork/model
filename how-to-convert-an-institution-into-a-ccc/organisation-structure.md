@@ -99,6 +99,8 @@ Morning Shift 8am to 8pm and  Night Shift 8pm to 8am.
         <br />
         <br />Ensuring Utilities like Power and Water at the center.
         <br />
+        <br />Inventory Management of the Center
+        <br />
         <br />Waste generated is disposed properly through the Waste Management Unit.</td>
       <td
       style="text-align:left">Anyone who volunteers can become a support staff at a CCC.</td>
