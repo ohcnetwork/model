@@ -6,9 +6,7 @@ description: >-
 
 # Organisation Structure
 
-The Corona Care staff system would operate in in two shifts of 12 or 24 hours depending on the roles outlined below.   
-  
-Morning Shift 8am to 8pm and  Night Shift 8pm to 8am.
+The Corona Care staff system would operate in in two shifts of 12 hours with Morning Shift 8am to 8pm and  Night Shift 8pm to 8am.
 
 <table>
   <thead>
@@ -49,17 +47,13 @@ Morning Shift 8am to 8pm and  Night Shift 8pm to 8am.
     </tr>
     <tr>
       <td style="text-align:left">2</td>
-      <td style="text-align:left">2 Doctors round the clock</td>
+      <td style="text-align:left">4 Doctors round the clock</td>
       <td style="text-align:left">
         <p>Overall in charge of the medical decisions at the corona care center</p>
         <p></p>
         <p>Final Year/House Surgeoncy students can volunteer here.</p>
       </td>
-      <td style="text-align:left">
-        <p>Doctors works in shifts which each center can decide as to be
-          <br />Two twelve hour shifts or</p>
-        <p>One twenty four hour shifts.</p>
-      </td>
+      <td style="text-align:left">Doctors works in twelve hour shifts</td>
     </tr>
     <tr>
       <td style="text-align:left">3</td>
@@ -102,11 +96,15 @@ Morning Shift 8am to 8pm and  Night Shift 8pm to 8am.
         <br />
         <br />Waste generated is disposed properly through the Waste Management Unit.</td>
       <td
-      style="text-align:left">Anyone who volunteers can become a support staff at a CCC.</td>
+      style="text-align:left">
+        <p>10 volunteers can become a support staff at a CCC.</p>
+        <p></p>
+        <p>5 people work-in in 12 hours shifts</p>
+        </td>
     </tr>
     <tr>
       <td style="text-align:left">5</td>
-      <td style="text-align:left">2 Data Engineers</td>
+      <td style="text-align:left">4 Data Engineers</td>
       <td style="text-align:left">Ensuring that correct data is quickly entered into the system so that
         the master database is populated accurately.</td>
       <td style="text-align:left">
@@ -129,7 +127,7 @@ Morning Shift 8am to 8pm and  Night Shift 8pm to 8am.
     </tr>
     <tr>
       <td style="text-align:left">7</td>
-      <td style="text-align:left">4 people for Entry and Exit Management</td>
+      <td style="text-align:left">8 people for Entry and Exit Management</td>
       <td style="text-align:left">Ensuring that the right people enter and the right people exit through
         the right physical map of the buildings.</td>
       <td style="text-align:left">
@@ -148,8 +146,8 @@ Morning Shift 8am to 8pm and  Night Shift 8pm to 8am.
         #3 to #7.</td>
     </tr>
   </tbody>
-</table>For the first week of the center we need 42 volunteers.   
-The Center Head also plans for 42 additional people as well who will be ready to step in in Week\#2.
+</table>For the first week of the center we need 50 volunteers.   
+The Center Head also plans for 50 additional people as well who will be ready to step in in Week\#2.
 
 
 
