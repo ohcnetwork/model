@@ -1,8 +1,8 @@
 ---
-description: This page describes the waste disposal plan for the CCC
+description: This page describes the waste management plan for the CCC
 ---
 
-# Waste Disposal
+# Waste Management
 
 ## **Medical Waste Disposal**
 
