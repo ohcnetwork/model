@@ -7,9 +7,9 @@ description: >-
 
 # Goal and Strategy
 
-## I. Defending against corona - The Kerala Model
+## I. War against Corona - The Kerala Model
 
-Goal for everyone in the state: Prevent the healthcare system from collapsing&gt;
+The Goal for each citizen of the world living in the state of Kerala is to prevent the healthcare system from collapsing.
 
 ### II. Two step strategy:
 
