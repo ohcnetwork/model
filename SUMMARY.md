@@ -10,6 +10,7 @@
 * [Volunteer Registration](how-to-convert-an-institution-into-a-ccc/volunteer-registration.md)
 * [Patient Management](how-to-convert-an-institution-into-a-ccc/patient-management-1.md)
 * [Food Management](how-to-convert-an-institution-into-a-ccc/food-management.md)
+* [Public Elected Officials](how-to-convert-an-institution-into-a-ccc/public-elected-officials.md)
 * [Waste Management](how-to-convert-an-institution-into-a-ccc/waste-disposal.md)
 
 ## Centralised Facilities
