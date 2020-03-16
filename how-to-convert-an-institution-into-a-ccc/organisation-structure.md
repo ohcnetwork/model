@@ -1,13 +1,12 @@
 ---
 description: >-
-  Each Corona Care Center is a 24 hour facility which has to be manned by 42 no
-  of people. This section outlines the roles and responsibilities of the
-  personnel.
+  Each Corona Care Center is a 24 hour facility which has to be manned by 42
+  people. This section outlines the roles and responsibilities of the personnel.
 ---
 
 # Organisation Structure
 
-The Corona Care staff system would operate in shifts of 12 or 24 hours depending on the roles outlined below in two shift times.  
+The Corona Care staff system would operate in in two shifts of 12 or 24 hours depending on the roles outlined below.   
   
 Morning Shift 8am to 8pm and  Night Shift 8pm to 8am.
 
