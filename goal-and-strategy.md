@@ -17,7 +17,7 @@ The Goal for each citizen of the world living in the state of Kerala is to preve
 
 We are translating this entire knowledge from WHO into Malayalam on Gitbook unlike the official site of Department of Health Services which has PDF's and not easy for the lay internet user. \([http://dhs.kerala.gov.in/](http://dhs.kerala.gov.in/)\)
 
-[https://ml.coronasafe.in/](https://ml.coronasafe.in/) : Working is going on in parallel by small army of volunteers to translate content into something that every Malayalee can send in whatsapp. Critically, it a section for preventing fake news/myths as well.
+[https://ml.coronasafe.in/](https://ml.coronasafe.in/) : Working is going on in parallel by small army of volunteers to translate content into something that every Malayalee can send in whatsapp. Critically, it will have a section for preventing fake news/myths as well.
 
 Once citizens learn, there is a quiz for citizens to take and ensure that each one has the required knowledge. This is also bring translated into Malayalam.
 
