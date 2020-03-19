@@ -16,6 +16,7 @@
 ## Centralised Facilities
 
 * [Technology Center](centralised-facilities/technology-center.md)
+* [FabLabs/Maker Labs](centralised-facilities/fablabs-maker-labs.md)
 * [Training Module for CCC](centralised-facilities/training-module-for-ccc.md)
 * [Inventory Supplies](centralised-facilities/inventory-supplies.md)
 * [Ambulance Network](centralised-facilities/ambulance-network.md)
