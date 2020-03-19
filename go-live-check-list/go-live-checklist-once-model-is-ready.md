@@ -9,7 +9,7 @@ description: >-
 
 
 
-There are 9 steps to make a center **Go Live**
+There are 10 steps to make a center **Go Live**
 
 | 1 | Get approval from Head of Institution |
 | :--- | :--- |
