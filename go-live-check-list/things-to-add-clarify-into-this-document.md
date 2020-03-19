@@ -15,7 +15,8 @@ description: These are things that are to be flushed out.
 * [ ] Mention in a note that each center has to adapt the model to their own individual situation, requirements and available facilities.
 * [ ] Sanjay to talk to Usha Madam to talk to CET to start one in government sector.
 * [ ] Tompson to add the food and water plan for the center
-
+* [ ] Setup the operating processes for the CCC - from making a center Go Live to accepting patients
+* [ ] 
 
 
 
