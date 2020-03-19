@@ -13,7 +13,12 @@ description: >-
 2. For the first model center, the Loyola Old Boys Association \(LOBA\) Executive Committee Members are the co-ordination team. 
 
 3. There are 15 members who are playing the following roles.  
+
+
   
-1. Alumni Communication  
-2. Volunteer Co-ordination
+
+
+|  |
+| :--- |
+|  |
 
