@@ -1,4 +1,11 @@
-# Go Live Checklist once model is ready
+---
+description: >-
+  This is the process flow that is assisted by the Corona Safe network software
+  to make a physical center "Go Live" and become a part of the Corona Care
+  Network.
+---
+
+# CCC Go Live Checklist
 
 
 
