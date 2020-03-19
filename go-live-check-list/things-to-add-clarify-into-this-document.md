@@ -4,8 +4,7 @@ description: These are things that are to be flushed out.
 
 # Things to Clarify
 
-* [ ] Ram Mohan to talk to Rector and figure out the area
-* [ ] Ram Mohan to update the number of beds required.
+* [ ] * [ ] Ram Mohan to update the number of beds required.
 * [ ] Sanjay to give edit permission to Kichu
 * [ ] Ram Mohan to plan how to calculate this for another school so that it can be entered into a software which will predict the patient handling capacity.
 * [ ] The software has to create the inventory list automatically for a CCC once patient handling capacity is found out.

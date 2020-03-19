@@ -2,6 +2,7 @@
 
 * [Corona Care Center](README.md)
 * [Goal and Strategy](goal-and-strategy.md)
+* [Institute Resource Team](institute-resource-team.md)
 
 ## Transforming School to CCC <a id="how-to-convert-an-institution-into-a-ccc"></a>
 
@@ -21,11 +22,12 @@
 * [Inventory Supplies](centralised-facilities/inventory-supplies.md)
 * [Ambulance Network](centralised-facilities/ambulance-network.md)
 * [Waste Disposal](centralised-facilities/waste-disposal.md)
-* [Things to Clarify](things-to-add-clarify-into-this-document.md)
-
-## FAQ
 
 ## Go Live Check List
 
-* [Untitled](go-live-check-list/untitled.md)
+* [CCC V1.0 GoLive Checklist](go-live-check-list/golive.md)
+* [Things to Clarify](go-live-check-list/things-to-add-clarify-into-this-document.md)
+* [Features for CCC V1.1](go-live-check-list/features-for-ccc-v1.1.md)
+
+## FAQ
 

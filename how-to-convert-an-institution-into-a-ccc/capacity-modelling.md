@@ -22,12 +22,7 @@ Location Map:[ https://goo.gl/maps/WPhhCEe4mSKoF62t6](https://goo.gl/maps/WPhhCE
 $ The rule of thumb is that each person needs 8Ft*4Ft area to sit and lie down.
 ```
 
-**Alumni Co-ordination Team**  
-  
-The Loyola Old Boys Association \(LOBA\) Executive Committee Members are the co-ordination team. There are 15 members who are playing the following roles.  
-  
-1. Alumni Communication  
-2. Volunteer Co-ordination
+\*\*\*\*
 
  The patient comes the School main entrance Gate where he is welcomed with a hand sanitiser and given directions as to where he/she should go.  
   
