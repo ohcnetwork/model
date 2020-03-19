@@ -1,4 +1,4 @@
-# CCC V1.0 GoLive Checklist
+# Model CCC GoLive Checklist
 
 * [x] The School/College/Univeristy Head has to agree to setup a CCC
 * [ ] Letter issued from Department of Health Approving the Center
