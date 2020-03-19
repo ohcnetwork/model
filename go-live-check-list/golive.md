@@ -10,6 +10,7 @@ description: >-
 * [x] The School/College/Univeristy Head has to agree to setup a CCC
 * [ ] Letter issued from Department of Health Approving the Center
 * [ ] CM issues call for Volunteers for the Centralised Technology Center
+* [ ] CM writes to Defence Minister/DGCA for Air Ambulance Support
 * [x] Room Dimensions and entered into the CCC software to calculate bed capacity as per - [https://model.coronasafe.network/how-to-convert-an-institution-into-a-ccc/capacity-modelling](https://model.coronasafe.network/how-to-convert-an-institution-into-a-ccc/capacity-modelling)
 * [ ] Institute has to setup a resource team to co-ordinate the setting up of first Model CCC
 * [ ] Institute has to send out call for volunteers to man the center as per -[https://model.coronasafe.network/how-to-convert-an-institution-into-a-ccc/organisation-structure](https://model.coronasafe.network/how-to-convert-an-institution-into-a-ccc/organisation-structure)
