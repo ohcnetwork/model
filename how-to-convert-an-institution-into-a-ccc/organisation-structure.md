@@ -8,6 +8,8 @@ description: >-
 
 The Corona Care staff system would operate in in two shifts of 12 hours with Morning Shift 8am to 8pm and  Night Shift 8pm to 8am.
 
+The center is headed by a person appointed by the State Government just like how flood relief centers are setup at institutions and managed by the State Government.
+
 <table>
   <thead>
     <tr>
@@ -31,8 +33,8 @@ The Corona Care staff system would operate in in two shifts of 12 hours with Mor
         <br />
       </td>
       <td style="text-align:left">
-        <p>Ensure that the center runs.
-          <br />Government Coordination
+        <p>Ensure that the center runs smoothly by ordinating with various government
+          agencies for things like
           <br />Food and Water Supplies
           <br />Medical Supplies
           <br />Electricity</p>
@@ -47,6 +49,18 @@ The Corona Care staff system would operate in in two shifts of 12 hours with Mor
     </tr>
     <tr>
       <td style="text-align:left">2</td>
+      <td style="text-align:left">1 PRO</td>
+      <td style="text-align:left">
+        <p>Oversee Public Relations such as media and general public.</p>
+        <p></p>
+        <p>Assist the Center Head in co-ordination with Government Agencies.</p>
+      </td>
+      <td style="text-align:left">This person is a general volunteer.
+        <br />
+        <br />This person can be someone with government/public sector experience.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">3</td>
       <td style="text-align:left">4 Doctors round the clock</td>
       <td style="text-align:left">
         <p>Overall in charge of the medical decisions at the corona care center</p>
@@ -56,7 +70,7 @@ The Corona Care staff system would operate in in two shifts of 12 hours with Mor
       <td style="text-align:left">Doctors works in twelve hour shifts</td>
     </tr>
     <tr>
-      <td style="text-align:left">3</td>
+      <td style="text-align:left">4</td>
       <td style="text-align:left">
         <p>12 Nursing/</p>
         <p>Paramedicals</p>
@@ -83,7 +97,7 @@ The Corona Care staff system would operate in in two shifts of 12 hours with Mor
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">4</td>
+      <td style="text-align:left">5</td>
       <td style="text-align:left">10 Support Staff
         <br />
         <br />
@@ -103,7 +117,7 @@ The Corona Care staff system would operate in in two shifts of 12 hours with Mor
         </td>
     </tr>
     <tr>
-      <td style="text-align:left">5</td>
+      <td style="text-align:left">6</td>
       <td style="text-align:left">4 Data Engineers</td>
       <td style="text-align:left">Ensuring that correct data is quickly entered into the system so that
         the master database is populated accurately.</td>
@@ -119,14 +133,14 @@ The Corona Care staff system would operate in in two shifts of 12 hours with Mor
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">6</td>
+      <td style="text-align:left">7</td>
       <td style="text-align:left">6 Counselling</td>
       <td style="text-align:left">Emotional Support to Patients. This will be mostly done by Volunteers</td>
       <td
       style="text-align:left">3 people work in 12 hour shifts.</td>
     </tr>
     <tr>
-      <td style="text-align:left">7</td>
+      <td style="text-align:left">8</td>
       <td style="text-align:left">8 people for Entry and Exit Management</td>
       <td style="text-align:left">Ensuring that the right people enter and the right people exit through
         the right physical map of the buildings.</td>
@@ -139,7 +153,7 @@ The Corona Care staff system would operate in in two shifts of 12 hours with Mor
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">8</td>
+      <td style="text-align:left">9</td>
       <td style="text-align:left">5 Reserve Strength</td>
       <td style="text-align:left">For contingencies</td>
       <td style="text-align:left">These can be volunteers who can be deployed at any position from Roles
