@@ -61,7 +61,7 @@ The center is headed by a person appointed by the State Government just like how
     </tr>
     <tr>
       <td style="text-align:left">3</td>
-      <td style="text-align:left">4 Doctors round the clock</td>
+      <td style="text-align:left">2 Doctors round the clock</td>
       <td style="text-align:left">
         <p>Overall in charge of the medical decisions at the corona care center</p>
         <p></p>
