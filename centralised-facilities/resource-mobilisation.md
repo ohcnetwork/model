@@ -13,7 +13,7 @@ description: >-
   
 **\#Priorities:**  
   
-\#1.We need to quickly get connected to know people who are Trustees in Educational Institutions so that the Corona Care Centers can be setup.  
+\#1. We need to quickly get connected to people in North Kerala to setup   
   
 \#2.Financial Resources to mobilise Material Resources  
   
