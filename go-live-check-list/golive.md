@@ -13,7 +13,7 @@ description: >-
 * [ ] CM issues call for Volunteers for the Centralised Technology Center
 * [ ] CM writes to Defence Minister/DGCA for Air Ambulance Support
 * [ ] Room Dimensions and entered into the CCC software to calculate bed capacity as per - [https://model.coronasafe.network/how-to-convert-an-institution-into-a-ccc/capacity-modelling](https://model.coronasafe.network/how-to-convert-an-institution-into-a-ccc/capacity-modelling)
-* [ ] Institute has to setup a resource team to co-ordinate the setting up of first Model CCC
+* [x] Institute has to setup a resource team to co-ordinate the setting up of first Model CCC
 * [ ] Institute has to send out call for volunteers to man the center as per -[https://model.coronasafe.network/how-to-convert-an-institution-into-a-ccc/organisation-structure](https://model.coronasafe.network/how-to-convert-an-institution-into-a-ccc/organisation-structure)
 * [ ] The volunteer team has to understand the overall war strategy and role of an individual CCC - [https://warstrategy.coronasafe.network/](https://warstrategy.coronasafe.network/)
 * [ ] Find from IMA the list of medical supplies required for the Model Center
