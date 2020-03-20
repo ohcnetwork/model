@@ -49,7 +49,7 @@ The center is headed by a person appointed by the State Government just like how
     </tr>
     <tr>
       <td style="text-align:left">2</td>
-      <td style="text-align:left">1 PRO</td>
+      <td style="text-align:left">1 Public Relations Officer</td>
       <td style="text-align:left">
         <p>Oversee Public Relations such as media and general public.</p>
         <p></p>
