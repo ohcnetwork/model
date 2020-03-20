@@ -1,6 +1,6 @@
 ---
 description: >-
-  There are 16 Steps to Go live of which we have completed two steps. We need to
+  There are 22 Steps to Go live of which we have completed two steps. We need to
   fix a deadline for completion of each step by the concerned person to figure
   out the exact date of Go Live.
 ---
