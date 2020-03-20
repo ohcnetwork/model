@@ -141,6 +141,13 @@ The center is headed by a person appointed by the State Government just like how
     </tr>
     <tr>
       <td style="text-align:left">8</td>
+      <td style="text-align:left">1 Inventory Manager</td>
+      <td style="text-align:left">Plan and co-ordinate inventory sourcing, stocking and releasing for the
+        center</td>
+      <td style="text-align:left">This is a general volunteer.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">9</td>
       <td style="text-align:left">8 people for Entry and Exit Management</td>
       <td style="text-align:left">Ensuring that the right people enter and the right people exit through
         the right physical map of the buildings.</td>
@@ -153,7 +160,7 @@ The center is headed by a person appointed by the State Government just like how
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">9</td>
+      <td style="text-align:left">10</td>
       <td style="text-align:left">5 Reserve Strength</td>
       <td style="text-align:left">For contingencies</td>
       <td style="text-align:left">These can be volunteers who can be deployed at any position from Roles
