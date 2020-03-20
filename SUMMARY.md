@@ -23,6 +23,7 @@
 * [Medical Oxygen Supply](centralised-facilities/medical-oxygen-supply.md)
 * [Ambulance Network](centralised-facilities/ambulance-network.md)
 * [Waste Disposal](centralised-facilities/waste-disposal.md)
+* [Resource Mobilisation](centralised-facilities/resource-mobilisation.md)
 
 ## Go Live Check List
 
@@ -30,6 +31,4 @@
 * [CCC Go Live Checklist](go-live-check-list/go-live-checklist-once-model-is-ready.md)
 * [Things to Clarify](go-live-check-list/things-to-add-clarify-into-this-document.md)
 * [Features for CCC V1.1](go-live-check-list/features-for-ccc-v1.1.md)
-
-## FAQ
 

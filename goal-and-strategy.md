@@ -52,7 +52,7 @@ Github Organization: [https://github.com/coronasafe/](https://github.com/coronas
 Our Contributors  
 [https://github.com/coronasafe/coronasafe.in/graphs/contributors](https://github.com/coronasafe/coronasafe.in/graphs/contributors) [https://github.com/coronasafe/awareness/graphs/contributors](https://github.com/coronasafe/awareness/graphs/contributors)
 
-## VI. Offensive Strategy: 
+## VI. Offensive Strategy:
 
 #### Once the vaccine has been developed by scientists in parallel, our war strategy moves into offensive gear where we fight out the vaccine with active Corona Virus immunisation programmes.
 
