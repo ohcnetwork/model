@@ -8,7 +8,8 @@ description: >-
 # Model CCC GoLive Checklist
 
 * [x] The School/College/Univeristy Head has to agree to setup a CCC
-* [x] Letter issued from Department of Health Approving the Center
+* [x] Letter issued from National Health Mission - State Mission Director
+* [x] Principal/Head of Institution sends acceptance letter back to State Mission Director
 * [ ] CM issues call for Volunteers for the Centralised Technology Center
 * [ ] CM writes to Defence Minister/DGCA for Air Ambulance Support
 * [x] Room Dimensions and entered into the CCC software to calculate bed capacity as per - [https://model.coronasafe.network/how-to-convert-an-institution-into-a-ccc/capacity-modelling](https://model.coronasafe.network/how-to-convert-an-institution-into-a-ccc/capacity-modelling)
