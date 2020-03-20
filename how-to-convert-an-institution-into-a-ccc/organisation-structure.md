@@ -1,7 +1,8 @@
 ---
 description: >-
-  Each Corona Care Center is a 24 hour facility which has to be manned by 42
-  people. This section outlines the roles and responsibilities of the personnel.
+  Each Corona Care Center is a 24 hour facility which has to be manned by 50
+  people across 10 roles. This section outlines the roles and responsibilities
+  of the personnel.
 ---
 
 # Organisation Structure
