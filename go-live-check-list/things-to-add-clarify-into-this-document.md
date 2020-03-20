@@ -4,7 +4,8 @@ description: These are things that are to be flushed out.
 
 # Things to Clarify
 
-* [ ]  Ram Mohan to guide excom identify the roles
+* [ ] Ram Mohan to find from Deepa who from Govt setup the Flood Center 
+* [ ] Ram Mohan to guide excom identify the roles
 * [ ] Ram Mohan to update the number of beds required.
 * [ ] Ram Mohan to plan how to calculate this for another school so that it can be entered into a software which will predict the patient handling capacity.
 * [ ] The software has to create the inventory list automatically for a CCC once patient handling capacity is found out.
