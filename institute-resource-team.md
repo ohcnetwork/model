@@ -25,7 +25,6 @@ description: >-
 | 9 | Reseve | Reserve |  |  |  |
 | 10 | Reserve | Reserve |  |  |  |
 
-&lt;!--td {border: 1px solid \#ccc;}br {mso-data-placement:same-cell;}--&gt;
 
   
 
