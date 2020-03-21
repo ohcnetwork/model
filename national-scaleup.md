@@ -7,7 +7,9 @@ description: >-
 
 # National Scaleup
 
-## The model being built by Kerala is rapidly advancing and it may make sense to study this in detail for other states to replicate.
+## The model being built by Kerala is rapidly advancing and it may make sense to study is in detail for other states to replicate. A team under Ministry of Health and Family Welfare is currently studying this model.
+
+Last updated: 12:24pm 21 March 2020
 
 
 
