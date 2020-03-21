@@ -7,3 +7,7 @@ description: >-
 
 # National Scaleup
 
+## The model being built by Kerala is rapidly advancing and it may make sense to study this in detail for other states to replicate.
+
+
+
