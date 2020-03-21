@@ -45,5 +45,5 @@ To to deal with these caveats, we've tailored the user experience in such a way 
 
 ### Assets Dashboard
 
-![Asset tracker dashboard - Lists all available assets and admins can place requests for any asset class](../.gitbook/assets/screenshot-2020-03-21-at-10.05.18-pm.jpg)
+![](../.gitbook/assets/screenshot-2020-03-21-at-10.05.18-pm.jpg)
 
