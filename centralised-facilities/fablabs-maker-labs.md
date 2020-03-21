@@ -19,13 +19,9 @@ A mechanical respirator
 
 **2. N95 Masks  
   
-We are now trying to create a prototype modelling with limited resources**   
+We are now trying to create a prototype modelling with limited resources   
   
-
-
-  
-  
-**Resource** **Overview: Equipments and People**  
+Resource** **Overview: Equipments and People**  
   
 
 
