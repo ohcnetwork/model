@@ -17,3 +17,7 @@ description: >-
 
 This is still work in progress.
 
+There is an alternate source of oxygen supply that we are looking at through suppliers through the Health Department.  
+  
+
+
