@@ -18,16 +18,16 @@ COVID-19 cases will soon explode into unprecedented levels and we need to flatte
 
 ## Tentative Task List
 
-* [ ] Create evolution curves for COVID-19 cases with confidence intervals
+* [ ] Create \(overall and by segment\) evolution curves for COVID-19 cases with confidence intervals
   * [ ] By Geographical sub-regions of the state
     * [ ] North
     * [ ] Middle
     * [ ] South
-  * [ ] Based on Severity 
+  * [ ] By Case severity
     * [ ] Needs ICU \(Critical\)
     * [ ] Needs Hospitalization \(Moderate\)
     * [ ] Stay at Home\(Mild\)
-  * [ ] Based on age group
+  * [ ] By age group
     * [ ] &lt;50 yrs
     * [ ] 50 - 80 yrs
     * [ ]  &gt; 80 yrs
@@ -40,11 +40,28 @@ COVID-19 cases will soon explode into unprecedented levels and we need to flatte
 * [ ] Predict when COVID-19 cases peak and start receding
 * [ ] Identify current phase of the outbreak
 
+### Dataset Specification
+
+Requirements for data collection from each location for modelling purpose
+
+1. Current Hospital Capacity Data
+   1. Require current available hostpital beds in each location
+   2. Require current available ICU capacity for each location
+2. Require the estimate of supplies needed to treat **one** person in
+   1. Critical condition who needs an ICU bed
+   2. Moderate condition who needs a hospital bed
+   3. Mild or Stay-at-home condition
+3. Patient Data to be collected while admitting
+   1. Day of occurence of symptoms
+   2. Admission date
+   3. Severity of condition - Critical/Moderate/Mild
+
 ### TODO
 
 * [ ] We need first to create prediction models with Data Scientists
 * [ ] We need to issue call for Data Scientists
-* [ ] Then we need to identify appropriate data and collate to fit the model
+* [ ] We need to collect dataset of reported cases
+* [ ] We need to identify appropriate data for the model
 * [ ] Apply this to a spatial data set and visulize future projections 
 * [ ] Hypotheses testing of "what-if" scenarios
 
