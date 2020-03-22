@@ -8,7 +8,7 @@ description: >-
 
 **Goal:** To create a decision-making framework for public authorities to actively intervene and manage the spread of COVID19 outbreak.
 
-COVID-19 cases will soon explode into unprecedented levels and we need to fltatten the       data to facilitate decision making for public health department to respond effectively.
+COVID-19 cases will soon explode into unprecedented levels and we need to fltatten the evolution curve to reduce the burden on our current healthcare system.
 
 ![Source: Carl Bergstrom, UW &amp; Esther Kim](.gitbook/assets/modelling_strategy.png)
 
