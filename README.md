@@ -22,22 +22,25 @@ This is created by converting Educational Institutions like Schools and Colleges
   
 
 
-## Roles and Responsibilities
+## There are 6 Responsibilities split between Private and Public Sector.
 
   
 **Private Partner \(Educational Institution\)**  
   
-1\) Providing a suitable location for the model center 
+1\) Providing a suitable location and infrastructure for the model center 
 
 2\) Helping to bring together a team of volunteers to help the center head run the center 
 
-3\) Coordinate with the Centre Head to run the centre smoothly 
+3\) Coordinate with the Centre Head to run the centre smoothly   
 
-4\) Collating the expertise to create the manuals and use them to train our volunteers at the center  
-  
-5\) Drafting the SOPs for activities at the center.
 
 **Public \(State Government\)**
+
+1\) Appoint an Official Center Head to manage the CCC   
+  
+2\) Ensuring Inventory Supplies and other Centralised Facilities for Technology Backbone, Training for Volunteers, Inventory Supplies, Ambulance Network, Food Management, and Waste Disposal
+
+3\) Liaison with the State Police, Local Self Government / Village Panchayat Members for ensuring smooth operation of the Corona Care Center.
 
   
 ****

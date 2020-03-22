@@ -11,7 +11,6 @@
 * [Organisation Structure](how-to-convert-an-institution-into-a-ccc/organisation-structure.md)
 * [Volunteer Registration](how-to-convert-an-institution-into-a-ccc/volunteer-registration.md)
 * [Patient Management](how-to-convert-an-institution-into-a-ccc/patient-management-1.md)
-* [Food Management](how-to-convert-an-institution-into-a-ccc/food-management.md)
 * [Public Elected Officials](how-to-convert-an-institution-into-a-ccc/public-elected-officials.md)
 * [Waste Management](how-to-convert-an-institution-into-a-ccc/waste-disposal.md)
 
@@ -23,6 +22,7 @@
 * [Inventory Supplies](centralised-facilities/inventory-supplies.md)
 * [Medical Oxygen Supply](centralised-facilities/medical-oxygen-supply.md)
 * [Ambulance Network](centralised-facilities/ambulance-network.md)
+* [Food Management](centralised-facilities/food-management.md)
 * [Waste Disposal](centralised-facilities/waste-disposal.md)
 * [Resource Mobilisation](centralised-facilities/resource-mobilisation.md)
 
