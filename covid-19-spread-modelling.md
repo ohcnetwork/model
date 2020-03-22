@@ -6,11 +6,15 @@ description: >-
 
 # Covid 19 Spread Modelling
 
-**Goal:** Our goal is to identify appropriate spatial prediction models of Corona Spread in data deficient environments.  
-  
+**Goal:**Our goals are 
 
+.
 
+* [ ] To identify appropriate spatial prediction models of Corona Spread in data deficient environments
 * [ ] We need to predict when the hospital ICU capacity in the state will be breached.
+
+
+
 * [ ] We need first to create prediction models with Data Scientists
 * [ ] We need to issue call for Data Scientists
 * [ ] Then we need to identify appropriate data and collate to fit the model
