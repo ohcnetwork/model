@@ -45,8 +45,8 @@ COVID-19 cases will soon explode into unprecedented levels and we need to fltatt
 * [ ] We need first to create prediction models with Data Scientists
 * [ ] We need to issue call for Data Scientists
 * [ ] Then we need to identify appropriate data and collate to fit the model
-* [ ] Apply this to a spatial data set and build scenarios
-* [https://www.biology.washington.edu/news/news/1583854200-1591803000/carl-bergstrom-sars-cov-2-coronavirus-misinformation](https://www.biology.washington.edu/news/news/1583854200-1591803000/carl-bergstrom-sars-cov-2-coronavirus-misinformation)
+* [ ] Apply this to a spatial data set and visulize future projections 
+* [ ] Hypotheses testing of "what-if" scenarios
 
 \*\*\*\*
 
