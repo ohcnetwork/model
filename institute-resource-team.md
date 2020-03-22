@@ -16,16 +16,13 @@ description: >-
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | Rector Loyola Institutions | Granting Approval to setup the Center | Fr. Sunny Kunnapallil | - | Member of Society of Jesus |
 | 2 | Principal Loyola School | Getting Approval of Management | Fr Devassy Paul |  | Member of Society of Jesus |
-| 3 | President of Alumni Association | Take Leadership in bringing together the people required for making the center Go Live | Dr.Ram Mohan | 1985 | Doctor at Cosmopolitan Hospital |
+| 3 | President of Alumni Association | Take Leadership in bringing together the people required for making the center Go Live | Dr.Ram Mohan | 1985 | Doctor  |
 | 4 | Facilities Supervision | Physical Verification of the facility to ensure compliance to standards | Ar. Anand  | 1996 | Architect |
-| 5 | Inventory Management | Charge of Inventories |  |  |  |
-| 6 | Volunteer Management | Charge of Volunteers |  |  |  |
-| 7 | Government Co-ordinator | Co-ordination with Government Agencies |  |  |  |
-| 8 | Reserve | Reserve |  |  |  |
-| 9 | Reseve | Reserve |  |  |  |
-| 10 | Reserve | Reserve |  |  |  |
+| 5 | Inventory Management | Charge of Inventories | Tomson Sabu | 1985 | Entreprenuer |
+| 6 | Volunteer Management | Charge of Volunteers | Sharath Krishnan | 2000 | Social Work |
+| 7 | Operations Management | Ensure that the processes setup at for high quality standards in the context of health | Pradeep Sudan | 1985 | Advertising |
 
 |  |
 | :--- |
-|  |
+
 
