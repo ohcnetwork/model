@@ -8,7 +8,7 @@ description: >-
 
 **Goal:** To create a data driven decision-making framework for public authorities to actively intervene and manage the spread of COVID19 outbreak.
 
-COVID-19 cases will soon explode into unprecedented levels and we need to flatten the epidemic curve to reduce the burden on our current healthcare system through aggressive public health responses. In order to facilitate effective response, we require our data-science volunteers to help us model the epidemic curve.
+COVID-19 cases will soon explode into unprecedented levels and we need to flatten the epidemic curve to reduce the burden on our current healthcare system. In order to facilitate effective response, we require our data-science volunteers to help us model the epidemic curve for COVID-19.
 
 ![Source: Carl Bergstrom, UW &amp; Esther Kim](.gitbook/assets/modelling_strategy.png)
 
