@@ -2,7 +2,7 @@
 description: >-
   This page describes the strategy for national scale up of the Kerala Model.
   You will find this information useful only if you have understood the war
-  strategyhttps://beginnersguide.coronasafe.network
+  strategy https://beginnersguide.coronasafe.network
 ---
 
 # National Scaleup
@@ -14,7 +14,7 @@ Last updated: 12:24pm 21 March 2020
 
 
 * [ ] Priyanka to flesh out the task list
-* [ ] Priyanka
+* [ ] Rueben to read the war strategy and document the work in kerala for national scale up and others to understand better at PMO/Niti Ayog.
 
 
 
