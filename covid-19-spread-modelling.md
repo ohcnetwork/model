@@ -10,7 +10,9 @@ description: >-
   
 
 
+* [ ] We need to predict when the hospital ICU capacity in the state will be breached.
 * [ ] We need first to create prediction models with Data Scientists
+* [ ] We need to issue call for Data Scientists
 * [ ] Then we need to identify appropriate data and collate to fit the model
 * [ ] Apply this to a spatial data set and build scenarios
 
