@@ -10,7 +10,7 @@ description: >-
 
 COVID-19 cases will soon explode into unprecedented levels and we need to flatten the epidemic curve to reduce the burden on our current healthcare system. In order to facilitate effective response, we require our data-science volunteers to help us model the epidemic curve for COVID-19.
 
-![Source: Carl Bergstrom, UW &amp; Esther Kim](.gitbook/assets/modelling_strategy.png)
+![Source: Carl Bergstrom, UW &amp; Esther Kim](../.gitbook/assets/modelling_strategy.png)
 
 > "To minimize the impact of the coming pandemic, we need to slow its spread and thereby keep our healthcare systems from being overwhelmed. Through aggressive measures we can flatten out the epidemic curve, keeping the number of people simultaneously infected at a low enough level to be manageable." - **Carl Bergstorm, Professor of Biology, University of Washington**
 
@@ -46,15 +46,7 @@ COVID-19 cases will soon explode into unprecedented levels and we need to flatte
 
 Requirements for data collection from each location for modelling purpose
 
-1. Current Hospital Capacity Data
-   1. Require current available hostpital beds in each location
-   2. Require current available ICU capacity for each location
-2. Estimate of supplies needed to treat **one** person in
-   1. Critical condition who needs an ICU bed
-   2. Moderate condition who needs a hospital bed
-   3. Mild or Stay-at-home condition
-   4. List of items require to treat a person
-3. Mandatory Patient Data to be collected while admitting
+1. Mandatory Patient Data to be collected while admitting 
    1. Day of occurence of symptoms
    2. Admission date
    3. Dates of exposure / infection
@@ -63,9 +55,24 @@ Requirements for data collection from each location for modelling purpose
    6. Metadata on patient: age, gender, location, occupation, etc
    7. Contact data: exposure \(who infected you?\) and Contact tracing \(who could you have infected?\)
 
+### For Modelling Epidemic Curve
+
+* Data collection need to be done in this format
+
+1. Current Hospital Capacity Data
+   1. Require current available hostpital beds in each location
+   2. Require current available ICU capacity for each location
+2. Estimate of supplies needed to treat **one** person in
+   1. Critical condition who needs an ICU bed
+   2. Moderate condition who needs a hospital bed
+   3. Mild or Stay-at-home condition
+   4. List of items require to treat a person
+
 ## Data Scientist Reading Resources \(In Progress\)
 
 * [https://www.reconlearn.org](https://www.reconlearn.org/)
+* [https://www.reconlearn.org/slides/projections/projections.pdf](https://www.reconlearn.org/slides/projections/projections.pdf)
+* [http://hplgit.github.io/prog4comp/doc/pub/.\_p4c-solarized-Python021.html](http://hplgit.github.io/prog4comp/doc/pub/._p4c-solarized-Python021.html)
 * [https://www.kaggle.com/volpatto/covid-19-study-with-epidemiology-models/data](https://www.kaggle.com/volpatto/covid-19-study-with-epidemiology-models/data)
 * [https://www.kaggle.com/lisphilar/covid-19-data-with-sir-model\#Introduction](https://www.kaggle.com/lisphilar/covid-19-data-with-sir-model#Introduction)
 
