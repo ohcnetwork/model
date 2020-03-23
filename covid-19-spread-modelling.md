@@ -16,7 +16,7 @@ COVID-19 cases will soon explode into unprecedented levels and we need to flatte
 
 > “If you look at the curves of outbreaks, they go big peaks, and then come down. What we need to do is flatten that down.” - **Anthony Fauci, Director of the National Institute of Allergy and Infectious Diseases**
 
-## Tentative Task List
+## Tentative Modelling Task List
 
 * [ ] Create \(overall and by segment\) evolution curves for COVID-19 cases with confidence intervals
   * [ ] By Geographical sub-regions of state
@@ -63,10 +63,11 @@ Requirements for data collection from each location for modelling purpose
    6. Metadata on patient: age, gender, location, occupation, etc
    7. Contact data: exposure \(who infected you?\) and Contact tracing \(who could you have infected?\)
 
-## Data Scientist Learning Resources \(In Progress\)
+## Data Scientist Reading Resources \(In Progress\)
 
-* [https://www.reconlearn.org/](https://www.reconlearn.org/)
-* [How to install R and R-Studio](https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924/)
+* [https://www.reconlearn.org](https://www.reconlearn.org/)
+* [https://www.kaggle.com/volpatto/covid-19-study-with-epidemiology-models/data](https://www.kaggle.com/volpatto/covid-19-study-with-epidemiology-models/data)
+* [https://www.kaggle.com/lisphilar/covid-19-data-with-sir-model\#Introduction](https://www.kaggle.com/lisphilar/covid-19-data-with-sir-model#Introduction)
 
 ## TODO
 
