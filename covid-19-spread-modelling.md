@@ -73,6 +73,7 @@ Requirements for data collection from each location for modelling purpose
 
 * [x] We need to issue call for Data Scientists
 * [ ] We need to collect dataset of reported cases
+* [ ] Need to create a format for dataset and a central repository which can be accessed publically
 * [ ] We need to identify appropriate dataset to be passed to multiple teams for modelling
 * [ ] Consult with SME to identify suitable geographical granularity at which epidemic curves needs to be created
 * [ ] Create predictive models with Data Scientists
