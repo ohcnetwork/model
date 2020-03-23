@@ -19,7 +19,7 @@ COVID-19 cases will soon explode into unprecedented levels and we need to flatte
 ## Tentative Task List
 
 * [ ] Create \(overall and by segment\) evolution curves for COVID-19 cases with confidence intervals
-  * [ ] By Geographical sub-regions of the state
+  * [ ] By Geographical sub-regions of state
     * [ ] North
     * [ ] Middle
     * [ ] South
@@ -36,11 +36,13 @@ COVID-19 cases will soon explode into unprecedented levels and we need to flatte
     * [ ] ICU Capacity
     * [ ] Hospital Beds
     * [ ] Medical supplies
+  * [ ] How fast is COVID-19 outbreak growing?
+  * [ ] How many cases should we expect in next days/weeks?
 * [ ] Plan the prioritization of hospital supplies/facilities to diffuse crowding
 * [ ] Predict when COVID-19 cases peak and start receding
 * [ ] Identify current phase of the outbreak
 
-## Dataset Specification
+## Dataset Specs \(In Progress\)
 
 Requirements for data collection from each location for modelling purpose
 
@@ -55,17 +57,24 @@ Requirements for data collection from each location for modelling purpose
 3. Mandatory Patient Data to be collected while admitting
    1. Day of occurence of symptoms
    2. Admission date
-   3. Severity of condition - Critical/Moderate/Mild
-   4. Date of demise \(if it occurs\)
-   5. Date of discharge
+   3. Dates of exposure / infection
+   4. Severity of condition - Critical/Moderate/Mild
+   5. Dates of outcome: death / recovery
+   6. Metadata on patient: age, gender, location, occupation, etc
+   7. Contact data: exposure \(who infected you?\) and Contact tracing \(who could you have infected?\)
+
+## Data Scientist Learning Resources \(In Progress\)
+
+* [https://www.reconlearn.org/](https://www.reconlearn.org/)
+* [How to install R and R-Studio](https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924/)
 
 ## TODO
 
-* [ ] We need first to create prediction models with Data Scientists
-* [ ] We need to issue call for Data Scientists
+* [x] We need to issue call for Data Scientists
 * [ ] We need to collect dataset of reported cases
-* [ ] We need to identify appropriate data for the model
-* [ ] Consult with SME to identify suitable geographical granularity at which supplies/transportation can be arranged
+* [ ] We need to identify appropriate dataset to be passed to multiple teams for modelling
+* [ ] Consult with SME to identify suitable geographical granularity at which epidemic curves needs to be created
+* [ ] Create predictive models with Data Scientists
 * [ ] Apply this to a spatial data set and visulize future projections 
 * [ ] Hypotheses testing of "what-if" scenarios
 
