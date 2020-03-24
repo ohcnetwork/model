@@ -6,5 +6,5 @@ description: >-
 
 # Technology Center
 
-TC 
+The technology platform is Open Source and is managed by a team of 100+ Software engineers.
 
