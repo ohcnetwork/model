@@ -47,12 +47,9 @@ For details contact Mr. Tom Thomas tom@startupmission.in
 
 The first proto of mechanical respirator is over. Working on second prototype. The model is to provide an automatic activation of Ambu bags so that it can probbaly be used for patients who need oxygen supply but have to be kept outside a proper ICU
 
-The project to make N95 type of masks is currently ongoing and we need to find out local materials for   
-  
-1\)Spun bound polypropylene with hydrophilic plastic coating \(with active component 2%citric acid\)   
-2. Cellulose/Plaric treated with metal ions \(copper 1.6%,zinc1,6% to ensure dielectric property to neutralise virus/bacteria\)   
-3. Melt blown polypropylene   
-4. Normal spun bound polypropylene.   
-  
-Please ENSURE that volunteer is having good knowledge of the field. As almost all these are imported now the sustainable model is only to make equivalents with similar properties
+## **Urgent Local Materials are required to be supplied at Kerala Technology Innovation Zone, Kalamasserry**
+
+####   **1\)Spun bound polypropylene with hydrophilic plastic coating \(with active component 2%citric acid\)  2. Cellulose/Plaric treated with metal ions \(copper 1.6%,zinc1,6% to ensure dielectric property to neutralise virus/bacteria\)  3. Melt blown polypropylene  4. Normal spun bound polypropylene.   Please ENSURE that volunteers are having good knowledge of the field as this could make a difference between life and death.**
+
+#### \*\*\*\*
 
