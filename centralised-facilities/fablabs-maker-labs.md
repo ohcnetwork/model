@@ -7,6 +7,14 @@ description: >-
 
 # SuperFab Labs
 
+## **Urgent Local Materials are required to be supplied at Kerala Technology Innovation Zone, Kalamasserry**
+
+#### **1\)Spun bound polypropylene with hydrophilic plastic coating \(with active component 2%citric acid\)  2. Cellulose/Plaric treated with metal ions \(copper 1.6%,zinc1,6% to ensure dielectric property to neutralise virus/bacteria\)  3. Melt blown polypropylene  4. Normal spun bound polypropylene.   Please ENSURE that volunteers are having good knowledge of the field as this could make a difference between life and death.**
+
+Contact Person: Tom \(+91 88863 84499\)  
+  
+  
+**Context:**  
 At the SuperFab Labs, we are planning to make things that are critical yet but short supply in the global market.
 
 We are not sure the actual equipment that will be required but we are preparing ourselves as a team to work quickly and deliver products that we feel would be required.
@@ -47,9 +55,7 @@ For details contact Mr. Tom Thomas tom@startupmission.in
 
 The first proto of mechanical respirator is over. Working on second prototype. The model is to provide an automatic activation of Ambu bags so that it can probbaly be used for patients who need oxygen supply but have to be kept outside a proper ICU
 
-## **Urgent Local Materials are required to be supplied at Kerala Technology Innovation Zone, Kalamasserry**
-
-####   **1\)Spun bound polypropylene with hydrophilic plastic coating \(with active component 2%citric acid\)  2. Cellulose/Plaric treated with metal ions \(copper 1.6%,zinc1,6% to ensure dielectric property to neutralise virus/bacteria\)  3. Melt blown polypropylene  4. Normal spun bound polypropylene.   Please ENSURE that volunteers are having good knowledge of the field as this could make a difference between life and death.**
+## \*\*\*\*
 
 #### \*\*\*\*
 
