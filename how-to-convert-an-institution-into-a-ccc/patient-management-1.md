@@ -6,6 +6,8 @@ description: >-
 
 # Patient Management
 
+## Step 1 - Registration. 
+
 1. A patient who physically comes to the CCC first comes to the Registration Desk.  
 2. From there the following details have to be collected and added to a centralised Patient Registry. 
 3. This patient registry should collect the following details either by Patient Self Registration or Assisted Registration.
@@ -14,9 +16,18 @@ Name, Age, Sex, Aadhar Number, Mobile Number.
 Known contacts with Patient with Corona virus \(Yes/No\)  
 If Yes - Details  
 Significant Medical History  
-Are you suffering from any chronic diseases like Diabetes \(Sugar\), Hypertension, Kidney or Heart diseases. If yes, what are the medicines that you are currently taking.  
-  
-4. Once Registration is over a decision should be taken by the doctor on the severity of the condition of the person and then decided as to
+Are you suffering from any chronic diseases like Diabetes \(Sugar\), Hypertension, Kidney or Heart diseases. If yes, what are the medicines that you are currently taking.
+
+### Step 2 - Primary Assessment  
+
+Once Registration is over, the person moves to the Primary assessment Area. The following staff are required: 
+
+* 1 Doctor
+* 3 Support staff
+* 2 Paramedical staff
+* 1 Data programmer
+
+decision should be taken by the doctor on the severity of the condition of the person and then decided as to
 
 1. Send the person back home
 2. Admit the person into the CCC 
