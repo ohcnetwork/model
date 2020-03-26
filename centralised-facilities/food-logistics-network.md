@@ -77,3 +77,19 @@ d. Vehicle type - to understand the number of foods packets he/she can distribut
 
 ## **4.Super Admin Console**  Super admins will be able to see this data across the entire system.
 
+## **5. Estimate Need for Calculation for One Panchayat**
+
+1. Estimate population for a panchayat is 25,000 on average
+
+2. Daily wage workers, elderly individuals/couple staying who usually have someone coming for them to make food.  
+  
+3. People who are in quarantine and needs food.  
+  
+We are guess estimating based on pure field experience a minimum of 1000 people per panchayat.  
+  
+In Eranakulam District, there are 82 Village Panchayats, 13 Municipalities and 1 Corporation. \(  
+  
+Municipalities and Corporations will have more people who need food.   
+  
+~100,000 food packets will be required for one mean in Ernakulam District. 
+
