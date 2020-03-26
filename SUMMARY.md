@@ -23,7 +23,7 @@
 * [Inventory Supplies](centralised-facilities/inventory-supplies.md)
 * [Medical Oxygen Supply](centralised-facilities/medical-oxygen-supply.md)
 * [Ambulance Network](centralised-facilities/ambulance-network.md)
-* [Food Logistics Network](centralised-facilities/food-management.md)
+* [Food Logistics Network](centralised-facilities/food-logistics-network.md)
 * [Waste Disposal](centralised-facilities/waste-disposal.md)
 * [Call Center](centralised-facilities/call-center.md)
 * [Resource Mobilisation](centralised-facilities/resource-mobilisation.md)
