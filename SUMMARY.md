@@ -4,6 +4,7 @@
 * [Goal and Strategy](goal-and-strategy.md)
 * [Resource Coordination Team](institute-resource-team.md)
 * [National Scaleup](national-scaleup.md)
+* [International Coalition.](international-coalition..md)
 
 ## Transforming School to CCC <a id="how-to-convert-an-institution-into-a-ccc"></a>
 
@@ -22,8 +23,9 @@
 * [Inventory Supplies](centralised-facilities/inventory-supplies.md)
 * [Medical Oxygen Supply](centralised-facilities/medical-oxygen-supply.md)
 * [Ambulance Network](centralised-facilities/ambulance-network.md)
-* [Food Management](centralised-facilities/food-management.md)
+* [Food Logistics Network](centralised-facilities/food-management.md)
 * [Waste Disposal](centralised-facilities/waste-disposal.md)
+* [Call Center](centralised-facilities/call-center.md)
 * [Resource Mobilisation](centralised-facilities/resource-mobilisation.md)
 
 ## Go Live Check List
