@@ -55,7 +55,11 @@ For details contact Mr. Tom Thomas tom@startupmission.in
 
 The first proto of mechanical respirator is over. Working on second prototype. The model is to provide an automatic activation of Ambu bags so that it can probbaly be used for patients who need oxygen supply but have to be kept outside a proper ICU
 
-## \*\*\*\*
+## **The final ready to make model for Mechanical respirator from Super Fab Lab**
 
-#### \*\*\*\*
+![Final design of portable respirator design with adjustable tidal volume](../.gitbook/assets/image%20%281%29.png)
+
+#### **The  next steps : a pilot manufacturing will be done in next 3-4 days to fine tune the production design.   Will get into full fledged production after that.**
+
+#### **Need support in making Ambubags in numbers**  
 
