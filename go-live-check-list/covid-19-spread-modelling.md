@@ -87,6 +87,12 @@ Requirements for data collection from each location for modelling purpose
 * [ ] Apply this to a spatial data set and visulize future projections 
 * [ ] Hypotheses testing of "what-if" scenarios
 
+## **Suggestions:**
+
+* [ ] Model to predict when elective surgeries can start.
+
+\*\*\*\*
+
 \*\*\*\*
 
 
