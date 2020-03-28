@@ -25,7 +25,7 @@
 * [Ambulance Network](centralised-facilities/ambulance-network.md)
 * [Food Logistics Network](centralised-facilities/food-logistics-network.md)
 * [Waste Disposal](centralised-facilities/waste-disposal.md)
-* [Call Center](centralised-facilities/call-center.md)
+* [TeleMedicine Network](centralised-facilities/call-center.md)
 * [Resource Mobilisation](centralised-facilities/resource-mobilisation.md)
 
 ## Go Live Check List
