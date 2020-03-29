@@ -10,10 +10,15 @@ description: >-
 
 **Background:** A person who had coronavirus disease has died. There are protocols that have to be strictly followed at the Hospital, District Administration and by family of the deceased.  
   
+**The following guidelines issued by Government of Kerala has to be fully understood by everyone.** 
+
+{% file src="../.gitbook/assets/goi-dead-body-guidelines-15.3-1.pdf" caption="Guidelines for Cremation of Dead Body" %}
+
+  
 The main steps for giving a dignified funeral for the deceased are given below.  
 
 
-1. All Staff at the Hospital have to be aware of the Dead Body Management Protocols that have been issued by the Government of Kerala.  This is available in the link &lt;put link here&gt; 
+1. All Staff at the Hospital have to be aware of the Dead Body Management Protocols that have been issued by the Government of Kerala. 
 2. The Main Relative of the person who will receive the body has to be identified and registered into the Hospital Care System \(Name/Mobile Number/Relationship of the deceased\). 
 3. The Main Relative has to be counselled in the precautions to be taken. This is also available in the same link &lt;Put link here&gt;. 
 4. The main relative has also to be provided with necessary gloves,masks and hand sanitisers as given the Kerala Government Guidelines. 
