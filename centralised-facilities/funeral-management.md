@@ -20,8 +20,8 @@ The main steps for giving a dignified funeral for the deceased are given below.
 
 1. All Staff at the Hospital have to be aware of the Dead Body Management Protocols that have been issued by the Government of Kerala. 
 2. The Main Relative of the person who will receive the body has to be identified and registered into the Hospital Care System \(Name/Mobile Number/Relationship of the deceased\). 
-3. The Main Relative has to be counselled in the precautions to be taken. This is also available in the same link &lt;Put link here&gt;. 
-4. The main relative has also to be provided with necessary gloves,masks and hand sanitisers as given the Kerala Government Guidelines. 
+3. The Main Relative has to be counselled in the precautions to be taken. This is also available in the same link. 
+4. The main relative has also to be provided with necessary gloves, masks and hand sanitisers as given the Kerala Government Guidelines. 
 5. The Hospital Care System has to inform the Local Public Health Authority at the Primary Health Center or Corporation that a person has passed away. 
 6. The Hospital Care  System also needs to inform representatives of District Administration \(Tahasildar\).  
 7. The dead body has to be packed in a triple layer of body bag as per guideline and handed over to the Relative. 
