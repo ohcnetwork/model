@@ -26,6 +26,7 @@
 * [Food Logistics Network](centralised-facilities/food-logistics-network.md)
 * [Waste Disposal](centralised-facilities/waste-disposal.md)
 * [TeleMedicine Network](centralised-facilities/telemedicine.md)
+* [Funeral Management](centralised-facilities/funeral-management.md)
 * [Resource Mobilisation](centralised-facilities/resource-mobilisation.md)
 
 ## Go Live Check List
