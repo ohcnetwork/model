@@ -3,6 +3,7 @@
 * [Corona Care Center](README.md)
 * [Goal and Strategy](goal-and-strategy.md)
 * [Resource Coordination Team](institute-resource-team.md)
+* [Classification of Healthcare Institutions](classification-of-healthcare-institutions.md)
 * [National Scaleup](national-scaleup.md)
 * [International Coalition.](international-coalition..md)
 
