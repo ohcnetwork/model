@@ -1,8 +1,7 @@
 ---
 description: >-
-  This page describes the categorisation of healthcare institutions and
-  guidelines for healthcare institutions for isolation, transfer and shifting as
-  per emergency response plan.
+  This page describes the categorisation of healthcare institutions, patients
+  and emergency response plan on how to isolate/transfer suspects/patients.
 ---
 
 # Classification of Healthcare Institutions
