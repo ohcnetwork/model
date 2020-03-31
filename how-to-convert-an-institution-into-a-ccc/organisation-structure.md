@@ -127,7 +127,7 @@ The center is headed by a person appointed by the State Government just like how
           data modelling is the best person for this role.</p>
         <p></p>
         <p>If such a student is not available, Anyone who can use a computer and
-          enter data online at www.coronasafe.com platform is also a right person
+          enter data online at www.coronasafe.in platform is also a right person
           for this role.</p>
         <p></p>
         <p>2 people work in 12 hour shifts</p>
