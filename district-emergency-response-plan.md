@@ -4,7 +4,7 @@ description: >-
   and emergency response plan on how to isolate/transfer suspects/patients.
 ---
 
-# Classification of Healthcare Institutions
+# District Emergency Response Plan
 
 ## **Categorisation of Health Care Institutions  for Covid Response Plan \(Ernakulam District\)** 
 
