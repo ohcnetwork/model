@@ -1,39 +1,44 @@
 ---
 description: >-
-  This page describes the template for augmenting hospital capacity through
-  Corona Care Centers (CCC).
+  This page describes the primary treatment centers being setup for treatment of
+  Corona at the Panchayat Level.
 ---
 
-# Augmenting Capacity - Corona Care Centers
+# Primary Treatment Center for Corona \(Panchayat Level\)
 
-## Why do we need a CCC?
+## Why do we need a Primary Treatment Center.
 
-The total hospital bed capacity of a district is fixed. For Ernakulam the live data is here.  
+The load of patients who need primary care for corona treatment is anticipated to be much higher than the overall healthcare capacity of the district.   
   
-Thus, if the pandemic spreads rapidly through the population and people rush to the hospital for treatment, it will burden the healthcare system under a load that it cannot handle.
-
-## What is a CCC? 
-
-A Corona Care Center is a temporary facility created to augment the healthcare system.  
+70-80% of the patients are either asymptomatic \(no symptoms\) or have mild symptoms \(dry cough/runny nose/diarrhoea\).   
   
-This facility is created by converting Educational Institutions like School, Colleges, Panchayat Community Halls etc into centers where patients in the locality can reach out for help.  
-
-
-## **Ernakulam Model CCC**
-
-**Background:**  
+Such patients require minimal medical care and can be managed at the primary treatment center setup at the Village Panchayat Level.  
   
-1. There are 82 gram panchayats, 13 Municipalities and 1 Corporation in Ernakulam District.  
+If we set this model up, even if the pandemic spreads rapidly through the population, it will create a system that ensures patients get treatment as well as avoids an overload of the healthcare system at hospitals.
+
+## What is a Primary Treatment Center for Corona.
+
+A Primary Treatment Center is a temporary facility created to augment the healthcare system of the district and provide care for 70-80% of patients.  
   
-2. For managing Corona suspect and Corona positive patients, Corona Care facilities will be setup at panchayat/municipality level under the leadership of PHC/LSG Leadership
+This facility is created by converting existing facilities like Community Halls in local panchayats into Treatment centers where patients in the locality can reach out for care.  
 
-3. The Medical/Clinical Leadership of the CCC is by Medical Officer of PHC
 
-4. The Community Leadership is responsible by LSG President and Secretary
+## **Background Context of Ernakulam District**
 
-5. The CCC will also take support from the Police Department and Revenue Department \(Village Officer\) within the Panchayat.
+  
+1. In Ernakulam District, there are 82 village panchayats, 13 Municipalities and 1 Corporation.
 
-6. We need to set up 1 Model CCC in a panchayat initially. Then based on requirements, we scale up the model quickly.  
+2. The average population residing in a village  panchayat is 30,000 citizens.  
+  
+3. The Primary Treatment Center  will be setup at panchayat/municipality/corporation level under the leadership of Primary Health Center and Local Self Government leadership.
+
+4. The Medical/Clinical Leadership of the Primary Treatment Center is to be provided by the Medical Officer, Primary Health Center.
+
+5. The Leadership responsibility for interacting with community is with the Local Self Government President and Secretary. 
+
+6. The Primary Treatment Center will also take support from the Police Department and Revenue Department \(Village Officer\) within the Panchayat for support in its operations.
+
+7. At Ernakulam district, we aim to setup one Model Primary Treatment Center and then create the processes which can guide other Village Panchayats/Municipalities/Corporation to rapidly setup these centers based on requirement.   
 
 
 **At each CCC, there needs to be three main and separate facilities to be setup**  

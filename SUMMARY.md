@@ -2,9 +2,9 @@
 
 * [Goal and Strategy](README.md)
 * [District Emergency Response Plan](district-emergency-response-plan.md)
-* [Augmenting Capacity - Corona Care Centers](corona-care-center.md)
+* [Primary Treatment Center for Corona \(Panchayat Level\)](corona-care-center.md)
 * [Scaling from 1 to 720 Districts](national-scaleup.md)
-* [Short Stay Homes](short-stay-homes.md)
+* [Augmenting Quarantine capacity - Short Stay Homes](short-stay-homes.md)
 * [International Coalition.](international-coalition..md)
 
 ## Transforming School to CCC <a id="how-to-convert-an-institution-into-a-ccc"></a>
