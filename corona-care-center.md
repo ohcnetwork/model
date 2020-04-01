@@ -58,41 +58,13 @@ If the patient oxygen level Oxygen Saturation level falls below a threshold, the
   
   
 For the corporation with 600,000 citizens, the model is based on a  need 600,000/30,000 -&gt; 20 Panchayats.  
-  
 
 
-Organisation Structure \(Team\)  
-  
-Panchayat Secretary has the charge of the Corona Care Center  
-  
-1 Modern medicine doctors from PHC
-
-Ayurveda doctors
-
-Homeo Doctors  
-Volunteer doctors in the panchayat  
-  
-1 nurse from PHC
-
-Volunteer nurses in the panchat  
-  
-Volunteer Pharmacists in the panchayat
-
   
   
-Centralised Training  
   
-At each panchayat, we can train modern medicine, ayurveda and homeo doctors and other nurses to ensure that the clinical management protocols are maintained in the three facilities.
-
   
-Training will be on  
-  
-1. How to take Swap  
-2. How to treat Asymptomatic
-
-3. How to treat Symptomatic patients  
-  
-We need to just train the team on the protocols.  
+We need to just train the team on these three protocols.  
 
 
 Inventory Ready  
