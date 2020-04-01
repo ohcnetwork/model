@@ -62,5 +62,7 @@ Our Contributors
 
 #### Once the vaccine has been developed by scientists in parallel, our war strategy moves into offensive gear where we fight out the vaccine with active Corona Virus immunisation programmes.
 
-We dont know the exact time estimate for this and estimates range from 6 months - 18 months \(Sept 2020 to Sept 2021\) so we need to plan ahead to ensure the self, family, state and nation is safe.
+We dont know the exact time estimate for this and estimates range from 6 months - 18 months \(Sept 2020 to Sept 2021\) so we need to plan ahead to ensure the self, family, state and nation is safe.  
+  
+A detailed beginners guide for understanding the minute details of this War Strategy is available at[ https://beginnersguide.coronasafe.network](%20https://beginnersguide.coronasafe.network)
 

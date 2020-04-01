@@ -1,14 +1,14 @@
 # Table of contents
 
 * [Goal and Strategy](README.md)
-* [Corona Care Center](corona-care-center.md)
-* [Resource Coordination Team](institute-resource-team.md)
 * [District Emergency Response Plan](district-emergency-response-plan.md)
-* [National Scaleup](national-scaleup.md)
+* [Augmenting Capacity - Corona Care Centers](corona-care-center.md)
+* [Scaling from 1 to 720 Districts](national-scaleup.md)
 * [International Coalition.](international-coalition..md)
 
 ## Transforming School to CCC <a id="how-to-convert-an-institution-into-a-ccc"></a>
 
+* [Resource Coordination Team](how-to-convert-an-institution-into-a-ccc/institute-resource-team.md)
 * [Capacity Modelling](how-to-convert-an-institution-into-a-ccc/capacity-modelling.md)
 * [Organisation Structure](how-to-convert-an-institution-into-a-ccc/organisation-structure.md)
 * [Volunteer Registration](how-to-convert-an-institution-into-a-ccc/volunteer-registration.md)

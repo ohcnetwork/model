@@ -2,7 +2,7 @@
 description: Template for augmenting hospital capacity through Corona Care Centers (CCC)
 ---
 
-# Corona Care Center
+# Augmenting Capacity - Corona Care Centers
 
 ## Why do we need a CCC?
 
