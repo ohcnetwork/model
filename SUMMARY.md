@@ -11,10 +11,9 @@
 * [Resource Coordination Team](how-to-convert-an-institution-into-a-ccc/institute-resource-team.md)
 * [Capacity Modelling](how-to-convert-an-institution-into-a-ccc/capacity-modelling.md)
 * [Organisation Structure](how-to-convert-an-institution-into-a-ccc/organisation-structure.md)
-* [Volunteer Registration](how-to-convert-an-institution-into-a-ccc/volunteer-registration.md)
 * [Patient Management](how-to-convert-an-institution-into-a-ccc/patient-management-1.md)
 * [Public Elected Officials](how-to-convert-an-institution-into-a-ccc/public-elected-officials.md)
-* [Waste Management](how-to-convert-an-institution-into-a-ccc/waste-disposal.md)
+* [Local Waste Management](how-to-convert-an-institution-into-a-ccc/waste-disposal.md)
 
 ## Centralised Facilities
 
@@ -24,6 +23,7 @@
 * [Inventory Supplies](centralised-facilities/inventory-supplies.md)
 * [Medical Oxygen Supply](centralised-facilities/medical-oxygen-supply.md)
 * [Ambulance Network](centralised-facilities/ambulance-network.md)
+* [Volunteer Registration](centralised-facilities/volunteer-registration.md)
 * [Food Logistics Network](centralised-facilities/food-logistics-network.md)
 * [Waste Disposal](centralised-facilities/waste-disposal.md)
 * [TeleMedicine Network](centralised-facilities/telemedicine.md)

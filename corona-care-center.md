@@ -34,12 +34,12 @@ This facility is created by converting Educational Institutions like School, Col
 6. We need to set up 1 Model CCC in a panchayat initially. Then based on requirements, we scale up the model quickly.  
 
 
-At each CCC, there needs to be three main and separate facilities to be setup  
+**At each CCC, there needs to be three main and separate facilities to be setup**  
 
 
-1. Testing Facility for taking Swap - &gt; This is is for taking swab from patients who are corona suspects  
-2. Facility for Caring for Positive Asymptomatic Patients  - These patients don't need much medical help for Corona. They need to be given food, recreation and other general medicines which they have been taking \(if any\).  There will be a medical nurse at the center to whom patients can report if they have any medical problems/difficulty.  Swabs collected will be taken to the centralised testing center which will be one testing center for 3-4 panchayats.  
-3. Facility for Caring for Positive Symptomatic Patients \(Fever/Cough/Throat Pain/Runny Nose\). - These patients are also in cohorts/groups. The main difference in treatment of this facility is that medical help has to be higher. There needs to be 24 hours doctors/nurses at the facility who are working in three shifts.  
+1. **Testing Facility for taking Swab**  This is is for taking swab from patients who are corona suspects. 
+2. **Facility for Caring for Positive Asymptomatic Patients**   These patients don't need much medical help for Corona. They need to be given food, recreation and other general medicines which they have been taking \(if any\).  There will be a medical nurse at the center to whom patients can report if they have any medical problems/difficulty.  Swabs collected will be taken to the centralised testing center which will be one testing center for 3-4 panchayats. 
+3. **Facility for Caring for Positive Symptomatic Patients \(Fever/Cough/Throat Pain/Runny Nose\).**   These patients are also in cohorts/groups. The main difference in treatment of this facility is that medical help has to be higher. There needs to be 24 hours doctors/nurses at the facility who are working in three shifts.
 
 We need to develop a clinical management protocol to take care of these patients.  
   

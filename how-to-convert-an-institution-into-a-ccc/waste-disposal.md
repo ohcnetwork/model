@@ -2,7 +2,7 @@
 description: This page describes the waste management plan for the CCC
 ---
 
-# Waste Management
+# Local Waste Management
 
 ## **Medical Waste Disposal**
 
