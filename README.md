@@ -1,49 +1,60 @@
 ---
 description: >-
-  Template for Converting an Educational Institution into a Corona Care Center
-  (CCC)
+  Our Goal is to defend the state from attack of the corona virus by protecting
+  our medical system by avoiding its crumbling down with an overload of
+  patients.
 ---
 
-# Corona Care Center
+# Goal and Strategy
 
-## Why do we need a CCC?
+## I. War against Corona - The Kerala Model
 
-India has a hospital capacity of 650,000 hospital beds. Out that Kerala has a capacity of 100,000 beds. However, the problem is that approximately 90% of it would be occupied.   
-  
-Thus, if the pandemic spreads rapidly through the population and people rush to the hospital for treatment, it will burden the healthcare system under a load that it cannot handle.  
-  
-The CCC is a public-private partnership system being created to soften the impact on Hospitals and for everyone who is affected to co-ordinate on how to approach the pandemic so that the maximum possible healthcare is being given without the system collapsing completely leading the maximum lives being saved.
+The Goal for each citizen of the world living in the state of Kerala is to prevent the healthcare system from collapsing.
 
-## What is a CCC? 
+### II. Two step strategy:
 
-A Corona Care Center is a temporary facility created to augment the healthcare system of the state and country in anticipation to a wide-spread pandemic.   
-  
-This is created by converting Educational Institutions like Schools and Colleges into centers where patients in the locality can reach out for help.  
-  
+### Step \#1. Corona Literacy Mission: WHO has brilliant content but in english.
 
+We are translating this entire knowledge from WHO into Malayalam on Gitbook unlike the official site of Department of Health Services which has PDF's and not easy for the lay internet user. \([http://dhs.kerala.gov.in/](http://dhs.kerala.gov.in/)\)
 
-## There are 6 Responsibilities split between Private and Public Sector.
+[https://ml.coronasafe.in/](https://ml.coronasafe.in/) : Working is going on in parallel by small army of volunteers to translate content into something that every Malayalee can send in whatsapp. Critically, it will have a section for preventing fake news/myths as well.
 
-  
-**Private Partner \(Educational Institution\)**  
-  
-1\) Providing a suitable location and infrastructure for the model center 
+Once citizens learn, there is a quiz for citizens to take and ensure that each one has the required knowledge. This is also bring translated into Malayalam.
 
-2\) Helping to bring together a team of volunteers to help the center head run the center 
+#### Work in Progress: [https://quiz.coronasafe.in/](https://quiz.coronasafe.in/)
 
-3\) Coordinate with the Centre Head to run the centre smoothly   
+### Step\#2: Corona Care Network: A full network of educational institutions will be transformed into individual Corona Care Centers.\(CCC\)
 
+a. People who fall sick will go to the center first where they can get quarantined/be treated for mild illnesses.
 
-**Public \(State Government\)**
+b. People who fall critical will be transported by State wide Ambulance Network to nearest hospital which has the capacity.
 
-1\) Appoint an Official Center Head to manage the CCC   
-  
-2\) Ensuring Inventory Supplies and other Centralised Facilities for Technology Backbone, Training for Volunteers, Inventory Supplies, Ambulance Network, Food Management, and Waste Disposal
+#### III. We are now gathered preliminary requirements for creating a model CCC and plan to test this is one school \([https://en.wikipedia.org/wiki/Loyola\_School,\_Thiruvananthapuram](https://en.wikipedia.org/wiki/Loyola_School,_Thiruvananthapuram)\) and test the full physical + software system.
 
-3\) Liaison with the State Police, Local Self Government / Village Panchayat Members for ensuring smooth operation of the Corona Care Center.
+### IV. Once the software system is live - it will have features for
 
-  
-****
+#### A. Individual Corona Care Center
 
-## 
+Capacity Modelling -&gt; Organisation Structure -&gt; Volunteer Registration-&gt; Patient Management -&gt; Waste Management
+
+#### B. Centralised Reporting and Dashboards for
+
+Technology Development -&gt; Training of Volunteers-&gt; Inventory Supplies-&gt; Ambulance Network -&gt; Centralised Waste Disposal
+
+Current Status: Requirement gathering and process document complete at [https://model.coronasafe.in/](https://model.coronasafe.in/)
+
+Edit Permissions: [https://app.gitbook.com/invite/coronasafe?invite=-M2J7SfjFHJ3nNGe\_VHC](https://app.gitbook.com/invite/coronasafe?invite=-M2J7SfjFHJ3nNGe_VHC)
+
+### Source Code Links:
+
+Github Organization: [https://github.com/coronasafe/](https://github.com/coronasafe/) CCC Model: [https://github.com/coronasafe/model](https://github.com/coronasafe/model)
+
+Our Contributors  
+[https://github.com/coronasafe/coronasafe.in/graphs/contributors](https://github.com/coronasafe/coronasafe.in/graphs/contributors) [https://github.com/coronasafe/awareness/graphs/contributors](https://github.com/coronasafe/awareness/graphs/contributors)
+
+## VI. Offensive Strategy:
+
+#### Once the vaccine has been developed by scientists in parallel, our war strategy moves into offensive gear where we fight out the vaccine with active Corona Virus immunisation programmes.
+
+We dont know the exact time estimate for this and estimates range from 6 months - 18 months \(Sept 2020 to Sept 2021\) so we need to plan ahead to ensure the self, family, state and nation is safe.
 

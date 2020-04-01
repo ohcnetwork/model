@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Corona Care Center](README.md)
-* [Goal and Strategy](goal-and-strategy.md)
+* [Goal and Strategy](README.md)
+* [Corona Care Center](corona-care-center.md)
 * [Resource Coordination Team](institute-resource-team.md)
 * [District Emergency Response Plan](district-emergency-response-plan.md)
 * [National Scaleup](national-scaleup.md)
