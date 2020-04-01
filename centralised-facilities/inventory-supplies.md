@@ -8,7 +8,7 @@ description: Everyone should be available what is available and what is not avai
 | :--- |
 
 
-| SL NO | ITEM |  QTY | UNIT | CATEGORY |  Unit cost |  APPROX. COST |
+| ITEM |  QTY | UNIT | CATEGORY |  Unit cost |  APPROX. COST |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | Mattresses |  25 | Nos | Essential |  300.00 |  7,500.00 |
 | 2 | Foldable Cots |  25 | Nos | Essential |  1,000.00 |  25,000.00 |
@@ -64,34 +64,30 @@ description: Everyone should be available what is available and what is not avai
 | 52 | IV Sets |  5 | Sets | Essential |  20.00 |  100.00 |
 | 53 | IV Cannula |  5 | Nos | Essential |  100.00 |  500.00 |
 | 54 | IV Stand |  5 | Set | Essential |  500.00 |  2,500.00 |
-| 55 | Ambulance |  1 | No | Essential |  |  - |
-| 56 | First aid |  1 | No | Essential |  1,000.00 |  1,000.00 |
-| 57 | Rooms for Volunteers |  2 | Nos | Essential |  - |  - |
-| 58 | Food Waste |  - |  | Essential |  - |  - |
-| 59 | Other Waste |  - |  | Essential |  |  - |
-| 60 | Garbage bags, bins |  1 | Nos | Good to Have |  5,000.00 |  5,000.00 |
-| 61 | Medical Waste |  - |  | Essential |  |  - |
-| 62 | Drinking Water+ Dispenser \(4\) |  2 | Lit | Essential |  67,500.00 |  135,000.00 |
-| 63 | Cleaning items |  1 | Set | Essential |  10,000.00 |  10,000.00 |
-| 64 | Laundry \(Detergents\) |  1 | No | Essential |  |  - |
-| 65 | Fire extinguisher |  1 | No | Essential |  6,000.00 |  6,000.00 |
-| 66 | Refrigerator - smallest |  1 | No | Good to Have |  - |  - |
-| 67 | E Toilet |  - |  | Good to Have |  - |  - |
-| 68 | Electrician / Plumber |  - |  | Good to Have |  |  - |
-| 69 | Genset / Back up |  1 | No | Good to Have |  |  - |
-| 70 | Whistle |  2 | Nos | Good to Have |  25.00 |  50.00 |
-| 71 | Tool set - basic |  1 | No | Good to Have |  |  - |
-| 72 | Television with Cable Connection |  1 |  | Essential |  |  - |
-| 73 | Registration details - sticker/printer |  1 | No | Good to Have |  2,000.00 |  2,000.00 |
-| 74 | Mosquito Repellent |  10 | Nos | Good to Have |  50.00 |  500.00 |
-| 75 | Internet access |  |  | Essential |  |  |
-|  |  |  |  |  |  **Total** |  **369,732.50** |
+| 55 | Shelf for Personal Items |  25 | Nos | Essential |  200.00 |  5,000.00 |
+| 56 | Screens for Privacy |  4 | Nos | Essential |  1,000.00 |  4,000.00 |
+| 57 | Ambulance |  1 | No | Essential |  |  - |
+| 58 | First aid |  1 | No | Essential |  1,000.00 |  1,000.00 |
+| 59 | Rooms for Volunteers |  2 | Nos | Essential |  - |  - |
+| 60 | Food Waste |  - |  | Essential |  - |  - |
+| 61 | Other Waste |  - |  | Essential |  |  - |
+| 62 | Garbage bags, bins |  1 | Nos | Good to Have |  5,000.00 |  5,000.00 |
+| 63 | Medical Waste |  - |  | Essential |  |  - |
+| 64 | Drinking Water+ Dispenser \(4\) |  2 | Lit | Essential |  67,500.00 |  135,000.00 |
+| 65 | Cleaning items |  1 | Set | Essential |  10,000.00 |  10,000.00 |
+| 66 | Laundry \(Detergents\) |  1 | No | Essential |  |  - |
+| 67 | Fire extinguisher |  1 | No | Essential |  6,000.00 |  6,000.00 |
+| 68 | Refrigerator - smallest |  1 | No | Good to Have |  - |  - |
+| 69 | E Toilet |  - |  | Good to Have |  - |  - |
+| 70 | Electrician / Plumber |  - |  | Good to Have |  |  - |
+| 71 | Genset / Back up |  1 | No | Good to Have |  |  - |
+| 72 | Whistle |  2 | Nos | Good to Have |  25.00 |  50.00 |
+| 73 | Tool set - basic |  1 | No | Good to Have |  |  - |
+| 74 | Television with Cable Connection |  1 |  | Essential |  |  - |
+| 75 | Registration details - sticker/printer |  1 | No | Good to Have |  2,000.00 |  2,000.00 |
+| 76 | Mosquito Repellent |  10 | Nos | Good to Have |  50.00 |  500.00 |
+| 77 | Internet access |  |  | Essential |  |  |
+|  |  |  |  |  |  Total |  378,732.50 |
 
-There has to be features where government/volunteers are able to see the status and bring required material to each center.  
-  
-People following the CCC \(lets say in the Alumni Network\) should get real-time updates of the inventory on email/whatsapp/sms/website so that they can ensure the center is fully stocked up.
-
-
-
-
+There has to be features where government/volunteers are able to see the status and bring required material to each center
 

@@ -45,19 +45,7 @@ This facility is created by converting existing facilities like Community Halls 
 
 ## The details of Organisation Structure, Operating Model, Patient Management, Waste Management, Inventory Management and Training are described separately.
 
-\*\*\*\*
-
   
-  
-Every bed should have Stand for giving IV Fluids, Shelf and Medicines for symptomatic treatment \( Cough, Runny nose, throat pain\) and Pulse Oximeter for measuring oxygen saturation level.  
-  
-A center which has 30 beds should have 2 pulse oximeters ideally \(one as main and one as backup in case the first fails\)  
-  
-If the patient oxygen level Oxygen Saturation level falls below a threshold, then the the patient should be transferred via Ambulance to the Secondary Treatment Center for Corona at the Taluk Level.  
-  
-  
-  
-For the corporation with 600,000 citizens, the model is based on a  need 600,000/30,000 -&gt; 20 Panchayats.  
 
 
   
