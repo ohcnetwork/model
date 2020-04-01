@@ -6,7 +6,7 @@ description: >-
 
 # Primary Treatment Center for Corona \(Panchayat Level\)
 
-## Why do we need a Primary Treatment Center.
+## 1. Why do we need a Primary Treatment Center.
 
 The load of patients who need primary care for corona treatment is anticipated to be much higher than the overall healthcare capacity of the district.   
   
@@ -16,14 +16,14 @@ Such patients require minimal medical care and can be managed at the primary tre
   
 If we set this model up, even if the pandemic spreads rapidly through the population, it will create a system that ensures patients get treatment as well as avoids an overload of the healthcare system at hospitals.
 
-## What is a Primary Treatment Center for Corona.
+## 2. What is a Primary Treatment Center for Corona.
 
 A Primary Treatment Center is a temporary facility created to augment the healthcare system of the district and provide care for 70-80% of patients.  
   
 This facility is created by converting existing facilities like Community Halls in local panchayats into Treatment centers where patients in the locality can reach out for care.  
 
 
-## **Background Context of Ernakulam District**
+## **3. Background Context of Ernakulam District**
 
   
 1. In Ernakulam District, there are 82 village panchayats, 13 Municipalities and 1 Corporation.
@@ -41,6 +41,10 @@ This facility is created by converting existing facilities like Community Halls 
 7. At Ernakulam district, we aim to setup one Model Primary Treatment Center and then create the processes which can guide other Village Panchayats/Municipalities/Corporation to rapidly setup these centers based on requirement.   
 
 
+## **Operating Model of a Primary Treatment Center**
+
+**Assumption:** Reverse Transcriptase Polymerise Chain Reaction Test  \(RTPCR Test\) results capacity is available and results would be available within 24 hours.  
+  
 **At each CCC, there needs to be three main and separate facilities to be setup**  
 
 
