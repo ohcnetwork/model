@@ -1,7 +1,7 @@
 ---
 description: >-
   Each Primary Treatment Center is a 24 hour facility which has to be manned by
-  35 people across 10 roles. This section outlines the roles and
+  37 people across 10 roles. This section outlines the roles and
   responsibilities of the personnel.
 ---
 
@@ -161,6 +161,12 @@ The center is headed by the Village Panchayat Secretary.
     </tr>
     <tr>
       <td style="text-align:left">10</td>
+      <td style="text-align:left">2 people for Cleaning</td>
+      <td style="text-align:left">Ensuring that the center is clean and tidy</td>
+      <td style="text-align:left">Support of Kudumbasree Members may be sought.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">11</td>
       <td style="text-align:left">6 people Reserve Strength</td>
       <td style="text-align:left">For contingencies</td>
       <td style="text-align:left">
@@ -171,9 +177,9 @@ The center is headed by the Village Panchayat Secretary.
       </td>
     </tr>
   </tbody>
-</table>For the first week of the center we need 35 volunteers.   
+</table>For the first week of the center we need 37 volunteers.   
   
-The Center Head also plans for 35 additional people as well who will be ready to step in in Week\#2.  
+The Center Head also plans for 37 additional people as well who will be ready to step in in Week\#2.  
   
 For Week\#3, the week\#1 team will come back.
 
