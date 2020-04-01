@@ -1,5 +1,7 @@
 ---
-description: Template for augmenting hospital capacity through Corona Care Centers (CCC)
+description: >-
+  This page describes the template for augmenting hospital capacity through
+  Corona Care Centers (CCC).
 ---
 
 # Augmenting Capacity - Corona Care Centers
