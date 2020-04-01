@@ -12,10 +12,11 @@ description: >-
 1. The Goal for each citizen living under a particular nation/state/district/village is to prevent the overall healthcare system from collapsing due to overload of patients who might catch fever at the same time. 
 2. It is important to understand that the time given under lockdown is for district administrations to ramp up their healthcare capacities and buy time to prepare the population on what is the emergency response plan. 
 3. It is after the emergency of 1978 that district collectors have been put in charge of entire administration of the country.  
-4. This Ernakulam \(Kochi\) District administration along with Government of Kerala and support from civil society has setup a Emergency Response Plan for the District that is run on a powerful technology backend.  
-5. This Emergency Response Plan that is integrated into a technology framework is called the **Corona Wars - Kochi Experience** and is being put out in general public as information for other district collectors/ state administrators/national government authorities to learn from and take what can be useful for implementation in other districts.
-6. We are purposefully **NOT** calling this a _"Model"_ to avoid blind copy-paste of what happened in Ernakulam/Kochi District as challenges in each district will be different. 
-7. Individuals with Leadership experience are required to support District Collectors to use the base technology framework and systems that has been created in Ernakulam but then create their own Emergency Response Plans.
+4. The **Ernakulam \(Kochi\) District administration** along with Government of Kerala and support from civil society has setup an **Emergency Response Plan for the District** that is run on a powerful technology backend.  
+5. This Emergency Response Plan that is integrated into a technology framework is called the **Corona Wars - Kochi Experience** and is being put out in general public as information for other district collectors/ state administrators/national government authorities to learn from and take what can be useful for implementation in other districts. 
+6. We are purposefully **NOT** calling this a _"Model"_ to avoid blind copy-paste of what happened in Ernakulam/Kochi District to other districts.  
+7. This is because the challenges in each district will be different. 
+8. Individuals with Leadership experience are required to support District Collectors to use the base technology framework and systems that has been created in Ernakulam but then create their own Emergency Response Plans.
 
 ### II. Two step strategy:
 
