@@ -1,15 +1,15 @@
 ---
 description: >-
-  Each Corona Care Center is a 24 hour facility which has to be manned by 50
-  people across 10 roles. This section outlines the roles and responsibilities
-  of the personnel.
+  Each Primary Treatment Center is a 24 hour facility which has to be manned by
+  35 people across 10 roles. This section outlines the roles and
+  responsibilities of the personnel.
 ---
 
 # Organisation Structure
 
-The Corona Care staff system would operate in in two shifts of 12 hours with Morning Shift 8am to 8pm and  Night Shift 8pm to 8am.
+The Corona Care staff system would operate in in three shifts of 8 hours with Morning Shift 8am to 4pm, Evening Shift from 4pm to 12am and  Night Shift 12am to 8am.
 
-The center is headed by a person appointed by the State Government just like how flood relief centers are setup at institutions and managed by the State Government.
+The center is headed by the Village Panchayat Secretary.
 
 <table>
   <thead>
@@ -45,8 +45,7 @@ The center is headed by a person appointed by the State Government just like how
         and can co-ordinate with the government that things are running smoothly.
         <br
         />
-        <br />This person is the Administrative Authority/CEO in Charge of the Corona
-        Care Center.</td>
+        <br />This person is the Administrative Authority/CEO in Charge</td>
     </tr>
     <tr>
       <td style="text-align:left">2</td>
@@ -54,11 +53,11 @@ The center is headed by a person appointed by the State Government just like how
       <td style="text-align:left">
         <p>Oversee Public Relations such as media and general public.</p>
         <p></p>
-        <p>Assist the Center Head in co-ordination with Government Agencies.</p>
+        <p>Assist the Center Head in co-ordination with Government Agencies and Volunteers</p>
       </td>
-      <td style="text-align:left">This person is a general volunteer.
+      <td style="text-align:left">Ward Member
         <br />
-        <br />This person can be someone with government/public sector experience.</td>
+        <br />.</td>
     </tr>
     <tr>
       <td style="text-align:left">3</td>
@@ -66,14 +65,15 @@ The center is headed by a person appointed by the State Government just like how
       <td style="text-align:left">
         <p>Overall in charge of the medical decisions at the corona care center</p>
         <p></p>
-        <p>Final Year/House Surgeoncy students can volunteer here.</p>
+        <p>Final Year/Medical Internship students can volunteer here.</p>
       </td>
-      <td style="text-align:left">Doctors works in twelve hour shifts</td>
+      <td style="text-align:left"><b>Doctors works in twelve hour shifts </b>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">4</td>
       <td style="text-align:left">
-        <p>12 Nursing/</p>
+        <p>6 Nursing/</p>
         <p>Paramedicals</p>
       </td>
       <td style="text-align:left">Will do nearly the same job in assisting doctors for patient care.
@@ -88,18 +88,15 @@ The center is headed by a person appointed by the State Government just like how
         <br />
       </td>
       <td style="text-align:left">
-        <p>People who need round the clock injections is more sick and needs to be
-          taken to a hospital from the CCC.</p>
+        <p>People who need round the clock injections are more sick and needs to
+          be taken to a hospital and not treated at the PTC</p>
         <p></p>
-        <p>Inventory management becomes an issue as well if we have to manage supplies
-          to 1000&apos;s of CCC.</p>
-        <p></p>
-        <p>6 people work-in in 12 hours shifts</p>
+        <p>2 people work-in 8 hours shifts</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">5</td>
-      <td style="text-align:left">10 Support Staff
+      <td style="text-align:left">6 Support Staff
         <br />
         <br />
       </td>
@@ -112,14 +109,14 @@ The center is headed by a person appointed by the State Government just like how
         <br />Waste generated is disposed properly through the Waste Management Unit.</td>
       <td
       style="text-align:left">
-        <p>10 volunteers can become a support staff at a CCC.</p>
+        <p>General volunteers can become a support staff</p>
         <p></p>
-        <p>5 people work-in in 12 hours shifts</p>
+        <p>2 people work-in 8 hours shifts</p>
         </td>
     </tr>
     <tr>
       <td style="text-align:left">6</td>
-      <td style="text-align:left">4 Data Engineers</td>
+      <td style="text-align:left">3 Data Engineers</td>
       <td style="text-align:left">Ensuring that correct data is quickly entered into the system so that
         the master database is populated accurately.</td>
       <td style="text-align:left">
@@ -130,15 +127,14 @@ The center is headed by a person appointed by the State Government just like how
           enter data online at www.coronasafe.in platform is also a right person
           for this role.</p>
         <p></p>
-        <p>2 people work in 12 hour shifts</p>
+        <p>1 people work in 8 hour shifts</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">7</td>
-      <td style="text-align:left">6 Counselling</td>
-      <td style="text-align:left">Emotional Support to Patients. This will be mostly done by Volunteers</td>
-      <td
-      style="text-align:left">3 people work in 12 hour shifts.</td>
+      <td style="text-align:left">3 Counselling</td>
+      <td style="text-align:left">Emotional Support to Patients.</td>
+      <td style="text-align:left">This will be mostly done by Volunteers or students who are in MSW/Psychology.</td>
     </tr>
     <tr>
       <td style="text-align:left">8</td>
@@ -149,12 +145,12 @@ The center is headed by a person appointed by the State Government just like how
     </tr>
     <tr>
       <td style="text-align:left">9</td>
-      <td style="text-align:left">8 people for Entry and Exit Management</td>
+      <td style="text-align:left">6 people for Entry and Exit Management</td>
       <td style="text-align:left">Ensuring that the right people enter and the right people exit through
         the right physical map of the buildings.</td>
       <td style="text-align:left">
-        <p>2 people at the Main Entry Gate
-          <br />2 people at the Assessment Area.
+        <p>1 person at the Main Entry Gate
+          <br />1 person at the Assessment Area.
           <br />
         </p>
         <p>Google Map Locations can be send to patients before they start from home.</p>
@@ -162,14 +158,21 @@ The center is headed by a person appointed by the State Government just like how
     </tr>
     <tr>
       <td style="text-align:left">10</td>
-      <td style="text-align:left">5 Reserve Strength</td>
+      <td style="text-align:left">6 people Reserve Strength</td>
       <td style="text-align:left">For contingencies</td>
-      <td style="text-align:left">These can be volunteers who can be deployed at any position from Roles
-        #3 to #7.</td>
+      <td style="text-align:left">
+        <p>These can be volunteers who can be deployed at any position from Roles
+          #3 to #7.</p>
+        <p></p>
+        <p>2 people stay reserve in every 8 hours shift.</p>
+      </td>
     </tr>
   </tbody>
-</table>For the first week of the center we need 50 volunteers.   
-The Center Head also plans for 50 additional people as well who will be ready to step in in Week\#2.
+</table>For the first week of the center we need 35 volunteers.   
+  
+The Center Head also plans for 35 additional people as well who will be ready to step in in Week\#2.  
+  
+For Week\#3, the week\#1 team will come back.
 
 
 

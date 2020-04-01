@@ -43,13 +43,11 @@ This facility is created by converting existing facilities like Community Halls 
 8. Once we learn the processes to create a center, these can be used to guide other Village Panchayats/Municipalities/Corporation to rapidly setup these centers based on requirements.   
 
 
-## The details of Organisation Structure, Operating Model, Patient Management, Waste Management and Inventory Management are described separately.
+## The details of Organisation Structure, Operating Model, Patient Management, Waste Management, Inventory Management and Training are described separately.
 
 \*\*\*\*
 
-
-
-We need to develop a clinical management protocol to take care of these patients.  
+  
   
 Every bed should have Stand for giving IV Fluids, Shelf and Medicines for symptomatic treatment \( Cough, Runny nose, throat pain\) and Pulse Oximeter for measuring oxygen saturation level.  
   
