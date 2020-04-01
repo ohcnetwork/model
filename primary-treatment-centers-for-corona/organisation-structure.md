@@ -61,13 +61,16 @@ The center is headed by the Village Panchayat Secretary.
     </tr>
     <tr>
       <td style="text-align:left">3</td>
-      <td style="text-align:left">2 Doctors round the clock</td>
+      <td style="text-align:left">3 Doctors round the clock</td>
       <td style="text-align:left">
         <p>Overall in charge of the medical decisions at the corona care center</p>
         <p></p>
         <p>Final Year/Medical Internship students can volunteer here.</p>
       </td>
-      <td style="text-align:left"><b>Doctors works in twelve hour shifts </b>
+      <td style="text-align:left">
+        <p><b>Doctors works in twelve hour shifts </b>
+        </p>
+        <p>2 Doctors in the morning and 1 doctor for night duty.</p>
       </td>
     </tr>
     <tr>
