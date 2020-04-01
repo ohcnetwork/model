@@ -8,9 +8,7 @@ description: Template for augmenting hospital capacity through Corona Care Cente
 
 The total hospital bed capacity of a district is fixed. For Ernakulam the live data is here.  
   
-Thus, if the pandemic spreads rapidly through the population and people rush to the hospital for treatment, it will burden the healthcare system under a load that it cannot handle.  
-  
-The CCC is a public-private partnership system being created to soften the impact on Hospitals and for everyone who is affected to co-ordinate on how to approach the pandemic so that the maximum possible healthcare is being given without the system collapsing completely leading the maximum lives being saved.
+Thus, if the pandemic spreads rapidly through the population and people rush to the hospital for treatment, it will burden the healthcare system under a load that it cannot handle.
 
 ## What is a CCC? 
 
