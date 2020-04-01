@@ -56,8 +56,10 @@ This facility is created by converting existing facilities like Community Halls 
 
   
 
-2. **A Facility for providing healthcare for Corona Positive Asymptomatic Patients**   These patients are having Corona but they dont show any symptoms. Thus, they also dont need much medical help as their immune systems are strong.   These patients how ever could spread Corona to others and this is the reason why they need to stay away from the general population for a small period of time to avoid the spread of virus.  Patients will need to be given food, recreation and other general medicines which they have already been taking \(if any\).  There will be a medical nurse at the center to whom patients can report if they have any medical problems or difficulty.  A doctor on call facility is also available at this Primary Treatment Center. 
+2. **A Facility for providing healthcare for Corona Positive Asymptomatic Patients**   These patients are having Corona but they dont show any symptoms. Thus, they also dont need much medical help as their immune systems are strong.   These patients how ever could spread Corona to others and this is the reason why they need to stay away from the general population for a small period of time to avoid the spread of virus.  Patients will need to be given food, recreation and other general medicines which they have already been taking \(if any\).  There will be a medical nurse at the center to whom patients can report if they have any medical problems or difficulty.  A doctor on call facility is also available at this Primary Treatment Center.  There will be one ambulance at each Panchayat for emergency response in shortest time. 
 3. **A Facility for providing Healthcare for Corona Positive Patients with mild symptoms \(Fever/Cough/Throat Pain/Runny Nose\).**   These patients are also treated in cohorts or groups at the Primary Treatment Center.  The main difference in treatment of this facility is that medical help has to be higher. There needs to be 24 hours doctors/nurses at the facility who are working in three shifts.
+
+
 
 We need to develop a clinical management protocol to take care of these patients.  
   
@@ -65,13 +67,9 @@ Every bed should have Stand for giving IV Fluids, Shelf and Medicines for sympto
   
 A center which has 30 beds should have 2 pulse oximeters ideally \(one as main and one as backup in case the first fails\)  
   
-If the patient oxygen level Oxygen Saturation level falls below a threshold, then the the patient should be transferred via Ambulance to the next level Corona Treatment center.  
+If the patient oxygen level Oxygen Saturation level falls below a threshold, then the the patient should be transferred via Ambulance to the Secondary Treatment Center for Corona at the Taluk Level.  
   
-We need to keep one ambulance at each facility.  
   
-Swabs collected will be taken to the centralised testing center which will be one testing center for 3-4 panchayats.  
-  
--  
   
 For the corporation with 600,000 citizens, the model is based on a  need 600,000/30,000 -&gt; 20 Panchayats.  
   
