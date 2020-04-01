@@ -168,127 +168,95 @@ C. Patients in Government sector healthcare institutions who wish to transfer th
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Ward Level Core Team</b>
-      </td>
-      <td style="text-align:left"><b>ASHA supported by JHI/JPHN</b>
-      </td>
-      <td style="text-align:left"><b>ASHA</b>
-      </td>
-      <td style="text-align:left"><b>Inform Medical Officer if any body in Isolation has any symptoms including mild</b>
-      </td>
-      <td style="text-align:left"><b>Training of all ASHAs</b>
-      </td>
+      <td style="text-align:left">Ward Level Core Team</td>
+      <td style="text-align:left">ASHA supported by JHI/JPHN</td>
+      <td style="text-align:left">ASHA</td>
+      <td style="text-align:left">Inform Medical Officer if any body in Isolation has any symptoms including
+        mild</td>
+      <td style="text-align:left">Training of all ASHAs</td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <p><b>Panchayat/</b>
-        </p>
-        <p><b>Municipality</b>
-        </p>
+        <p>Panchayat/</p>
+        <p>Municipality</p>
       </td>
       <td style="text-align:left">
-        <p><b>(Private/Retired staff to be pooled)</b>
-        </p>
-        <p><b>10 Doctors</b>
-        </p>
-        <p><b> 4 Nurses</b>
-        </p>
-        <p><b> 2 Lab Technicians</b>
-        </p>
-        <p><b>2 Pharmacists</b>
-        </p>
-        <p><b>1 Palliative Care Nurse</b>
-        </p>
+        <p>(Private/Retired staff to be pooled)</p>
+        <p>10 Doctors</p>
+        <p>4 Nurses</p>
+        <p>2 Lab Technicians</p>
+        <p>2 Pharmacists</p>
+        <p>1 Palliative Care Nurse</p>
       </td>
-      <td style="text-align:left"><b>Medical Officer PHC</b>
+      <td style="text-align:left">Medical Officer PHC</td>
+      <td style="text-align:left">
+        <p>Tele Consultation for Anybody with Respiratory Symptoms</p>
+        <p>Tele Consultation for Anybody in Quarantine</p>
+        <p>Essential Lab Tests/ Medicines for People in Quarantine</p>
       </td>
       <td style="text-align:left">
-        <p><b>Tele Consultation for Anybody with Respiratory Symptoms</b>
+        <p>Tele consultation Facility at PHC</p>
+        <p>
+          <br />Training for Field Clinical Team
+          <br />
+          <br />
         </p>
-        <p><b>Tele Consultation for Anybody in Quarantine</b>
+        <p>&#xB7; Publishing Phone Numbers of Tele-consultation facility and Doctors/Nurses
+          and informing each and every households
+          <br />
+          <br />
         </p>
-        <p><b>Essential Lab Tests/ Medicines for People in Quarantine</b>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p><b>Tele consultation Facility at PHC</b>
-        </p>
-        <p><b><br />Training for Field Clinical Team<br /><br /></b>
-        </p>
-        <p><b>&#xB7;   Publishing Phone Numbers of Tele-consultation facility and Doctors/Nurses and informing each and every households<br /><br /></b>
-        </p>
-        <p><b>2 Vehicle (Own) for Movement of Field Clinical Team in Emergency with PPE Kits.</b>
-        </p>
+        <p>2 Vehicle (Own) for Movement of Field Clinical Team in Emergency with
+          PPE Kits.</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Short Stay Homes</b>
+      <td style="text-align:left">Short Stay Homes</td>
+      <td style="text-align:left">Doctor on Call/ JHI</td>
+      <td style="text-align:left">JHI</td>
+      <td style="text-align:left">Inform Medical Officer if anybody in Isolation has any symptoms including
+        mild</td>
+      <td style="text-align:left">Training of all staff</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">First Line Treatment Centres</td>
+      <td style="text-align:left">Identified Hospitals (Taluk Hospitals, Private Hospitals)</td>
+      <td style="text-align:left">Nodal Officer at Each Institution</td>
+      <td style="text-align:left">
+        <p>Triage &amp; Manage Category B patients &amp; Category A patients without
+          facility for Home Isolation</p>
+        <p>Refer to Apex Treatment Centres based on Referral Protocol</p>
       </td>
-      <td style="text-align:left"><b>Doctor on Call/ JHI</b>
-      </td>
-      <td style="text-align:left"><b>JHI</b>
-      </td>
-      <td style="text-align:left"><b>Inform Medical Officer if anybody in Isolation has any symptoms including mild</b>
-      </td>
-      <td style="text-align:left"><b>Training of all staff</b>
+      <td style="text-align:left">
+        <p>Infrastructure, Protocols attached separately</p>
+        <p>4 Ordinary Ambulances (Double Chambered) &amp; 2 Critical Care Ambulances
+          (Need to increase based on need)</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>First Line Treatment Centres</b>
-      </td>
-      <td style="text-align:left"><b>Identified Hospitals (Taluk Hospitals, Private Hospitals)</b>
-      </td>
-      <td style="text-align:left"><b>Nodal Officer at Each Institution</b>
-      </td>
-      <td style="text-align:left">
-        <p><b>Triage &amp; Manage Category B patients &amp; Category A patients without facility for Home Isolation</b>
-        </p>
-        <p><b>Refer to Apex Treatment Centres based on Referral Protocol</b>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p><b>Infrastructure, Protocols attached separately</b>
-        </p>
-        <p><b>4 Ordinary Ambulances (Double Chambered) &amp; 2 Critical Care Ambulances (Need to increase based on need)</b>
-        </p>
-      </td>
+      <td style="text-align:left">Apex Treatment Centres</td>
+      <td style="text-align:left">Identified COVID Treatment Centres (Government &amp; Private)</td>
+      <td
+      style="text-align:left">Nodal Officer at Each Institution</td>
+        <td style="text-align:left">Manage Patients referred from First Line Treatment Centers / Field</td>
+        <td
+        style="text-align:left">Infrastructure, Protocols attached separately</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Apex Treatment Centres</b>
+      <td style="text-align:left">District Tele Health Help Line</td>
+      <td style="text-align:left">
+        <p>30 Trained Doctors</p>
+        <p>30 Social Workers</p>
       </td>
-      <td style="text-align:left"><b>Identified COVID Treatment Centres (Government &amp; Private)</b>
-      </td>
-      <td style="text-align:left"><b>Nodal Officer at Each Institution</b>
-      </td>
-      <td style="text-align:left"><b>Manage Patients referred from First Line Treatment Centers / Field</b>
-      </td>
-      <td style="text-align:left"><b>Infrastructure, Protocols attached separately</b>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>District Tele Health Help Line</b>
+      <td style="text-align:left">Nodal Officer- Tele Health Helpline</td>
+      <td style="text-align:left">
+        <p>Provide Guidance to Doctors/ Nurses in the field on a case to case basis</p>
+        <p>Provide Tele Video consultation to patients referred by Doctors/Nurses</p>
+        <p>Coordinate Transfers among different institutions</p>
       </td>
       <td style="text-align:left">
-        <p><b>30 Trained Doctors</b>
-        </p>
-        <p><b>30 Social Workers</b>
-        </p>
-      </td>
-      <td style="text-align:left"><b>Nodal Officer- Tele Health Helpline</b>
-      </td>
-      <td style="text-align:left">
-        <p><b>Provide Guidance to Doctors/ Nurses in the field on a case to case basis</b>
-        </p>
-        <p><b>Provide Tele Video consultation to patients referred by Doctors/Nurses</b>
-        </p>
-        <p><b>Coordinate Transfers among different institutions</b>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p><b>24* 7 - 30 Phone Connections</b>
-        </p>
-        <p><b>Infrastructure, Protocols attached separately</b>
-        </p>
+        <p>24* 7 - 30 Phone Connections</p>
+        <p>Infrastructure, Protocols attached separately</p>
       </td>
     </tr>
   </tbody>
