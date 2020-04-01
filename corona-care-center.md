@@ -12,33 +12,26 @@ Thus, if the pandemic spreads rapidly through the population and people rush to 
 
 ## What is a CCC? 
 
-A Corona Care Center is a temporary facility created to augment the healthcare system of the state and country in anticipation to a wide-spread pandemic.   
+A Corona Care Center is a temporary facility created to augment the healthcare system.  
   
-This is created by converting Educational Institutions like School, Colleges, Panchayat Community Halls etc into centers where patients in the locality can reach out for help.  
+This facility is created by converting Educational Institutions like School, Colleges, Panchayat Community Halls etc into centers where patients in the locality can reach out for help.  
 
 
-**The Model Corona Care Center**   
-  
-Background:  
-  
-There are 82 gram panchayats, 3 Municipalities and 1 Corporation in EKM District.  
-  
-To take care of Facilities for managing corona suspect and positive patients will be setup at panchayat/municipality level under the leadership of PHC/LSG Leadership  
-  
-The Medical/Clinical Leadership is by Medical Officer of PHC  
-  
+## **Ernakulam Model CCC**
 
+**Background:**  
+  
+1. There are 82 gram panchayats, 13 Municipalities and 1 Corporation in Ernakulam District.  
+  
+2. For managing Corona suspect and Corona positive patients, Corona Care facilities will be setup at panchayat/municipality level under the leadership of PHC/LSG Leadership
 
-The Community Leadership is taken by LSG President and Secretary  
-  
+3. The Medical/Clinical Leadership of the CCC is by Medical Officer of PHC
 
+4. The Community Leadership is responsible by LSG President and Secretary
 
-The CCC will also take support from the Police Department and Revenue Department \(Village Officer\) within the Panchayat.  
-  
-We need to set up 3 centers in each panchayat initially. Then based on requirements, we scale up the model quickly.  
-  
-  
-  
+5. The CCC will also take support from the Police Department and Revenue Department \(Village Officer\) within the Panchayat.
+
+6. We need to set up 1 Model CCC in a panchayat initially. Then based on requirements, we scale up the model quickly.  
 
 
 At each CCC, there needs to be three main and separate facilities to be setup  
