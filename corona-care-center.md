@@ -45,48 +45,7 @@ This facility is created by converting existing facilities like Community Halls 
 
 ## The details of Organisation Structure, Operating Model, Patient Management, Waste Management, Inventory Management and Training are described separately.
 
-  
-
-
-  
-  
-  
-  
-We need to just train the team on these three protocols.  
-
-
-Inventory Ready  
-  
-1. Bed and Mattress at 1M distance
-
-  
-3. Small Shelf to keep personal items  
-4. Phone Charging Facility
-
-5. Books / TV  
-6. Music  
-7. Water / Food  
-  
-
-
-Waste Management System :  
-  
-  
-Medical Waste - IMA
-
-Food Waste - Deep burial in a location at the panchayat
-
-  
-Clothes Management
-
-Clothes are first dis-infected, washed and ironed. \(central facility\).
-
-  
-Dress Changing has to be thought out.  
-Bathroom \(either at the community halls\) or Bio- Toilets  
---  
-  
-
+--
 
 We keep the short stay homes ready and different from CCC’s.  
   

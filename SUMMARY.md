@@ -14,7 +14,7 @@
 * [Capacity Modelling](primary-treatment-centers-for-corona/capacity-modelling.md)
 * [Organisation Structure](primary-treatment-centers-for-corona/organisation-structure.md)
 * [Patient Management Flow](primary-treatment-centers-for-corona/patient-management-1.md)
-* [Local Waste Management](primary-treatment-centers-for-corona/waste-disposal.md)
+* [Hygiene Management](primary-treatment-centers-for-corona/waste-disposal.md)
 
 ## Centralised Facilities
 

@@ -1,19 +1,24 @@
 ---
-description: This page describes the waste management plan for the CCC
+description: This page describes the hygiene management plan for the CCC
 ---
 
-# Local Waste Management
+# Hygiene Management
 
 ## **Medical Waste Disposal**
 
 We need to connect to the IMA. 
 
-* Medical waste - IMAGE, thru IMA
-* Food waste- use the services of the councillor/ panchayat member to get the _kudumbashree_ units to handle it
+* Medical waste - IMAGE, through IMA
+* Food waste-  The cleaning staff to handle it by having deep burial in the campus itself.
 * Plastics- segregated and dealt with by the _kudumbashree_ units
-* Other waste- incinerator  We need to follow the process given by IMA and then IMA will collect the waste from the CCC daily.
+* Other waste- incinerator  
 
-## General Waste
 
-Food waste and non food waste has to be separated and collected.
+  We need to have four Large Bins at each Center for Medical Waste Disposal
+
+## Clothes Management
+
+Clothes are first dis-infected and washed.   
+There are four large bins that are required for keeping used clothes.  
+These would be then transported to a central facility for washing.
 
