@@ -5,7 +5,6 @@
 * [Primary Treatment Center for Corona \(Panchayat Level\)](primary-treatment-center.md)
 * [Scaling from 1 to 720 Districts](national-scaleup.md)
 * [Augmenting Quarantine capacity - Short Stay Homes](short-stay-homes.md)
-* [International Coalition.](international-coalition..md)
 
 ## Primary Treatment Centers for Corona
 
