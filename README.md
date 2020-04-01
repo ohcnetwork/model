@@ -20,7 +20,7 @@ description: >-
 
 ### II. Two step strategy:
 
-### Step \#1. Corona Literacy Mission: WHO has brilliant content but in english.
+### Step \#1. Corona Health Literacy Mission: WHO has brilliant content but in english.
 
 We are translating this entire knowledge from WHO into Malayalam on Gitbook unlike the official site of Department of Health Services which has PDF's and not easy for the lay internet user. \([http://dhs.kerala.gov.in/](http://dhs.kerala.gov.in/)\)
 
