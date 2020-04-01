@@ -2,7 +2,7 @@
 description: Everyone should be available what is available and what is not available
 ---
 
-# Inventory Supplies for Primary Treatment Centers
+# Inventory Supplies
 
 | \*\*\*\*[**PRIMARY TREATMENT CENTRE - INVENTORY LIST - 25 BED - For a month**](https://docs.google.com/spreadsheets/d/18Una-qxyYzdRw7zO6jPZCncY51O5ZocEurSXAMDBc3k/edit?usp=sharing) |
 | :--- |

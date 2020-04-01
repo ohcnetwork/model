@@ -20,8 +20,8 @@
 
 * [Technology Center](centralised-facilities/technology-center.md)
 * [SuperFab Labs](centralised-facilities/fablabs-maker-labs.md)
-* [CCC Training Academy](centralised-facilities/training-module-for-ccc.md)
-* [Inventory Supplies for Primary Treatment Centers](centralised-facilities/inventory-supplies.md)
+* [Training Academy](centralised-facilities/training-module-for-ccc.md)
+* [Inventory Supplies](centralised-facilities/inventory-supplies.md)
 * [Medical Oxygen Supply](centralised-facilities/medical-oxygen-supply.md)
 * [Ambulance Network](centralised-facilities/ambulance-network.md)
 * [Volunteer Registration](centralised-facilities/volunteer-registration.md)

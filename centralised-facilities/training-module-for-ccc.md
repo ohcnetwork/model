@@ -4,7 +4,7 @@ description: >-
   report to the physical center.
 ---
 
-# CCC Training Academy
+# Training Academy
 
 General training modules created will be
 
