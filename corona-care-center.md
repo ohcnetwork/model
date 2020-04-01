@@ -41,15 +41,20 @@ This facility is created by converting existing facilities like Community Halls 
 7. At Ernakulam district, we aim to setup one Model Primary Treatment Center and then create the processes which can guide other Village Panchayats/Municipalities/Corporation to rapidly setup these centers based on requirement.   
 
 
-## **Operating Model of a Primary Treatment Center**
+## **4. Operating Model of a Primary Treatment Center**
 
 **Assumption:** Reverse Transcriptase Polymerise Chain Reaction Test  \(RTPCR Test\) results capacity is available and results would be available within 24 hours.  
   
-**At each CCC, there needs to be three main and separate facilities to be setup**  
+**There are three sub-components to the Primary Treatment Center.**  
 
 
-1. **Testing Facility for taking Swab**  This is is for taking swab from patients who are corona suspects. 
-2. **Facility for Caring for Positive Asymptomatic Patients**   These patients don't need much medical help for Corona. They need to be given food, recreation and other general medicines which they have been taking \(if any\).  There will be a medical nurse at the center to whom patients can report if they have any medical problems/difficulty.  Swabs collected will be taken to the centralised testing center which will be one testing center for 3-4 panchayats. 
+1. **A Testing Facility for taking Swabs**  
+  
+   This facility is for taking swabs from patients who are suspected to have corona. Swabs collected will be taken to the centralised testing center which will be one testing center for 3-4 panchayats.
+
+  
+
+2. **A Facility for providing healthcare for Corona Positive Asymptomatic Patients**   These patients are having Corona but they dont show any symptoms. Thus, they also dont need much medical help as their immune systems are strong.   These patients how ever could spread Corona to others and this is the reason why they need to stay away from the general population for a small period of time to avoid the spread of virus.  Patients will need to be given food, recreation and other general medicines which they have already been taking \(if any\).  There will be a medical nurse at the center to whom patients can report if they have any medical problems or difficulty.  A doctor on call facility is also available at this Primary Treatment Center. 
 3. **Facility for Caring for Positive Symptomatic Patients \(Fever/Cough/Throat Pain/Runny Nose\).**   These patients are also in cohorts/groups. The main difference in treatment of this facility is that medical help has to be higher. There needs to be 24 hours doctors/nurses at the facility who are working in three shifts.
 
 We need to develop a clinical management protocol to take care of these patients.  
