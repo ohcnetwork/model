@@ -6,7 +6,7 @@ description: Template for augmenting hospital capacity through Corona Care Cente
 
 ## Why do we need a CCC?
 
-The total bed capacity of a district is fixed.   
+The total hospital bed capacity of a district is fixed. For Ernakulam the live data is here.  
   
 Thus, if the pandemic spreads rapidly through the population and people rush to the hospital for treatment, it will burden the healthcare system under a load that it cannot handle.  
   
@@ -16,42 +16,41 @@ The CCC is a public-private partnership system being created to soften the impac
 
 A Corona Care Center is a temporary facility created to augment the healthcare system of the state and country in anticipation to a wide-spread pandemic.   
   
-This is created by converting Educational Institutions like Schools and Colleges into centers where patients in the locality can reach out for help.  
-  
-**Corona Care Centers \(Loyola - Panchayat Model\)**
+This is created by converting Educational Institutions like School, Colleges, Panchayat Community Halls etc into centers where patients in the locality can reach out for help.  
 
+
+**The Model Corona Care Center**   
   
-  
-**Background:  
+Background:  
   
 There are 82 gram panchayats, 3 Municipalities and 1 Corporation in EKM District.  
   
 To take care of Facilities for managing corona suspect and positive patients will be setup at panchayat/municipality level under the leadership of PHC/LSG Leadership  
   
-The Medical/Clinical Leadership is by Medical Officer of PHC**  
+The Medical/Clinical Leadership is by Medical Officer of PHC  
   
 
 
-**The Community Leadership is taken by LSG President and Secretary**  
+The Community Leadership is taken by LSG President and Secretary  
   
 
 
-**The CCC will also take support from the Police Department and Revenue Department \(Village Officer\) within the Panchayat.  
+The CCC will also take support from the Police Department and Revenue Department \(Village Officer\) within the Panchayat.  
   
-We need to set up 3 centers in each panchayat initially. Then based on requirements, we scale up the model quickly.**  
+We need to set up 3 centers in each panchayat initially. Then based on requirements, we scale up the model quickly.  
   
   
   
 
 
-**At each CCC, there needs to be three main and separate facilities to be setup**  
+At each CCC, there needs to be three main and separate facilities to be setup  
 
 
-1. **Testing Facility for taking Swap - &gt; This is is for taking swab from patients who are corona suspects**  
-2. **Facility for Caring for Positive Asymptomatic Patients  - These patients don't need much medical help for Corona. They need to be given food, recreation and other general medicines which they have been taking \(if any\).  There will be a medical nurse at the center to whom patients can report if they have any medical problems/difficulty.  Swabs collected will be taken to the centralised testing center which will be one testing center for 3-4 panchayats.**  
-3. **Facility for Caring for Positive Symptomatic Patients \(Fever/Cough/Throat Pain/Runny Nose\). - These patients are also in cohorts/groups. The main difference in treatment of this facility is that medical help has to be higher. There needs to be 24 hours doctors/nurses at the facility who are working in three shifts.**  
+1. Testing Facility for taking Swap - &gt; This is is for taking swab from patients who are corona suspects  
+2. Facility for Caring for Positive Asymptomatic Patients  - These patients don't need much medical help for Corona. They need to be given food, recreation and other general medicines which they have been taking \(if any\).  There will be a medical nurse at the center to whom patients can report if they have any medical problems/difficulty.  Swabs collected will be taken to the centralised testing center which will be one testing center for 3-4 panchayats.  
+3. Facility for Caring for Positive Symptomatic Patients \(Fever/Cough/Throat Pain/Runny Nose\). - These patients are also in cohorts/groups. The main difference in treatment of this facility is that medical help has to be higher. There needs to be 24 hours doctors/nurses at the facility who are working in three shifts.  
 
-**We need to develop a clinical management protocol to take care of these patients.  
+We need to develop a clinical management protocol to take care of these patients.  
   
 Every bed should have Stand for giving IV Fluids, Shelf and Medicines for symptomatic treatment \( Cough, Runny nose, throat pain\) and Pulse Oximeter for measuring oxygen saturation level.  
   
@@ -65,82 +64,82 @@ Swabs collected will be taken to the centralised testing center which will be on
   
 -  
   
-For the corporation with 600,000 citizens, the model is based on a  need 600,000/30,000 -&gt; 20 Panchayats.**  
+For the corporation with 600,000 citizens, the model is based on a  need 600,000/30,000 -&gt; 20 Panchayats.  
   
 
 
-**Organisation Structure \(Team\)  
+Organisation Structure \(Team\)  
   
 Panchayat Secretary has the charge of the Corona Care Center  
   
-1 Modern medicine doctors from PHC**
+1 Modern medicine doctors from PHC
 
-**Ayurveda doctors**
+Ayurveda doctors
 
-**Homeo Doctors  
+Homeo Doctors  
 Volunteer doctors in the panchayat  
   
-1 nurse from PHC**
+1 nurse from PHC
 
-**Volunteer nurses in the panchat  
+Volunteer nurses in the panchat  
   
-Volunteer Pharmacists in the panchayat**
-
-  
-  
-**Centralised Training  
-  
-At each panchayat, we can train modern medicine, ayurveda and homeo doctors and other nurses to ensure that the clinical management protocols are maintained in the three facilities.**
+Volunteer Pharmacists in the panchayat
 
   
-**Training will be on  
+  
+Centralised Training  
+  
+At each panchayat, we can train modern medicine, ayurveda and homeo doctors and other nurses to ensure that the clinical management protocols are maintained in the three facilities.
+
+  
+Training will be on  
   
 1. How to take Swap  
-2. How to treat Asymptomatic**
+2. How to treat Asymptomatic
 
-**3. How to treat Symptomatic patients  
+3. How to treat Symptomatic patients  
   
-We need to just train the team on the protocols.**  
+We need to just train the team on the protocols.  
 
 
-**Inventory Ready  
+Inventory Ready  
   
-1. Bed and Mattress at 1M distance**
+1. Bed and Mattress at 1M distance
 
   
-**3. Small Shelf to keep personal items  
-4. Phone Charging Facility**
+3. Small Shelf to keep personal items  
+4. Phone Charging Facility
 
-**5. Books / TV  
+5. Books / TV  
 6. Music  
-7. Water / Food**  
+7. Water / Food  
   
 
 
-**Waste Management System :  
+Waste Management System :  
   
   
-Medical Waste - IMA**
+Medical Waste - IMA
 
-**Food Waste - Deep burial in a location at the panchayat**
-
-  
-**Clothes Management**
-
-**Clothes are first dis-infected, washed and ironed. \(central facility\).**
+Food Waste - Deep burial in a location at the panchayat
 
   
-**Dress Changing has to be thought out.  
+Clothes Management
+
+Clothes are first dis-infected, washed and ironed. \(central facility\).
+
+  
+Dress Changing has to be thought out.  
 Bathroom \(either at the community halls\) or Bio- Toilets  
---**  
+--  
   
 
 
-**We keep the short stay homes ready and different from CCC’s.  
+We keep the short stay homes ready and different from CCC’s.  
   
 Short Stay Homes - We cannot keep symptomatic patients here. These rooms are not visible. People who worsen can worsen quickly and thus the doctor/nurse should be able to watch.  
   
-This is for people who need isolation.**
+This is for people who need isolation.
 
 **\_  
   
