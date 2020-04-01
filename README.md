@@ -23,7 +23,7 @@ Once citizens learn, there is a quiz for citizens to take and ensure that each o
 
 #### Work in Progress: [https://quiz.coronasafe.in/](https://quiz.coronasafe.in/)
 
-### Step\#2: Corona Care Network: A full network of educational institutions will be transformed into individual Corona Care Centers.\(CCC\)
+### Step\#2: Corona Care Center Network: A full network of temporary facilities that are setup to augment the capacity of the healthcare system are called Corona Care Centers.\(CCC\)
 
 a. People who fall sick will go to the center first where they can get quarantined/be treated for mild illnesses.
 
