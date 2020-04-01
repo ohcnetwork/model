@@ -38,7 +38,9 @@ This facility is created by converting existing facilities like Community Halls 
 
 6. The Primary Treatment Center will also take support from the Police Department and Revenue Department \(Village Officer\) within the Panchayat for support in its operations.
 
-7. At Ernakulam district, we aim to setup one Model Primary Treatment Center and then create the processes which can guide other Village Panchayats/Municipalities/Corporation to rapidly setup these centers based on requirement.   
+7. At Ernakulam district, we aim to setup two Model Primary Treatment Center \(one for males and another for females and children\).  
+  
+8. Once we learn the processes to create a center, these can be used to guide other Village Panchayats/Municipalities/Corporation to rapidly setup these centers based on requirements.   
 
 
 ## **4. Operating Model of a Primary Treatment Center**
@@ -50,12 +52,12 @@ This facility is created by converting existing facilities like Community Halls 
 
 1. **A Testing Facility for taking Swabs**  
   
-   This facility is for taking swabs from patients who are suspected to have corona. Swabs collected will be taken to the centralised testing center which will be one testing center for 3-4 panchayats.
+   This facility is for taking swabs from patients who are suspected to have corona. Swabs collected will be taken to the centralised testing center which will be one testing center for 10 panchayats.
 
   
 
 2. **A Facility for providing healthcare for Corona Positive Asymptomatic Patients**   These patients are having Corona but they dont show any symptoms. Thus, they also dont need much medical help as their immune systems are strong.   These patients how ever could spread Corona to others and this is the reason why they need to stay away from the general population for a small period of time to avoid the spread of virus.  Patients will need to be given food, recreation and other general medicines which they have already been taking \(if any\).  There will be a medical nurse at the center to whom patients can report if they have any medical problems or difficulty.  A doctor on call facility is also available at this Primary Treatment Center. 
-3. **Facility for Caring for Positive Symptomatic Patients \(Fever/Cough/Throat Pain/Runny Nose\).**   These patients are also in cohorts/groups. The main difference in treatment of this facility is that medical help has to be higher. There needs to be 24 hours doctors/nurses at the facility who are working in three shifts.
+3. **A Facility for providing Healthcare for Corona Positive Patients with mild symptoms \(Fever/Cough/Throat Pain/Runny Nose\).**   These patients are also treated in cohorts or groups at the Primary Treatment Center.  The main difference in treatment of this facility is that medical help has to be higher. There needs to be 24 hours doctors/nurses at the facility who are working in three shifts.
 
 We need to develop a clinical management protocol to take care of these patients.  
   
