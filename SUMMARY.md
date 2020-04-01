@@ -7,14 +7,15 @@
 * [Augmenting Quarantine capacity - Short Stay Homes](short-stay-homes.md)
 * [International Coalition.](international-coalition..md)
 
-## Transforming School to CCC <a id="how-to-convert-an-institution-into-a-ccc"></a>
+## Primary Treatment Centers for Corona
 
-* [Resource Coordination Team](how-to-convert-an-institution-into-a-ccc/institute-resource-team.md)
-* [Capacity Modelling](how-to-convert-an-institution-into-a-ccc/capacity-modelling.md)
-* [Organisation Structure](how-to-convert-an-institution-into-a-ccc/organisation-structure.md)
-* [Patient Management](how-to-convert-an-institution-into-a-ccc/patient-management-1.md)
-* [Public Elected Officials](how-to-convert-an-institution-into-a-ccc/public-elected-officials.md)
-* [Local Waste Management](how-to-convert-an-institution-into-a-ccc/waste-disposal.md)
+* [Resource Coordination Team](primary-treatment-centers-for-corona/institute-resource-team.md)
+* [Operating Model of a Primary Treatment Center](primary-treatment-centers-for-corona/operating-model-of-a-primary-treatment-center.md)
+* [Capacity Modelling](primary-treatment-centers-for-corona/capacity-modelling.md)
+* [Organisation Structure](primary-treatment-centers-for-corona/organisation-structure.md)
+* [Patient Management](primary-treatment-centers-for-corona/patient-management-1.md)
+* [Public Elected Officials](primary-treatment-centers-for-corona/public-elected-officials.md)
+* [Local Waste Management](primary-treatment-centers-for-corona/waste-disposal.md)
 
 ## Centralised Facilities
 
