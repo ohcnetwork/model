@@ -33,11 +33,11 @@
 ## Go Live Check List
 
 * [Model CCC GoLive Checklist](go-live-check-list/golive.md)
-* [Brainstorming Notes](go-live-check-list/brainstorming-notes.md)
 * [CCC Go Live Checklist](go-live-check-list/go-live-checklist-once-model-is-ready.md)
 * [Things to Clarify](go-live-check-list/things-to-add-clarify-into-this-document.md)
 * [Features for CCC V1.1](go-live-check-list/features-for-ccc-v1.1.md)
 * [State Disaster Management Authority](go-live-check-list/state-disaster-management-authority.md)
 * [Covid 19 Spread Modelling](go-live-check-list/covid-19-spread-modelling.md)
 * [Emergency Evacuation Plan](emergency-evacuation-plan.md)
+* [Brainstorming Notes](brainstorming-notes.md)
 
