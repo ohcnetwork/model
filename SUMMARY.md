@@ -17,19 +17,19 @@
 
 ## Centralised Facilities
 
+* [Ambulance Network](centralised-facilities/ambulance-network.md)
+* [Community Pharmacy Network](centralised-facilities/community-pharmacy-network.md)
 * [Technology Center](centralised-facilities/technology-center.md)
 * [SuperFab Labs](centralised-facilities/fablabs-maker-labs.md)
 * [Training Academy](centralised-facilities/training-module-for-ccc.md)
 * [Inventory Supplies](centralised-facilities/inventory-supplies.md)
 * [Medical Oxygen Supply](centralised-facilities/medical-oxygen-supply.md)
-* [Ambulance Network](centralised-facilities/ambulance-network.md)
 * [Volunteer Registration](centralised-facilities/volunteer-registration.md)
 * [Food Logistics Network](centralised-facilities/food-logistics-network.md)
 * [Waste Disposal](centralised-facilities/waste-disposal.md)
 * [TeleMedicine Network](centralised-facilities/telemedicine.md)
-* [Funeral Management](centralised-facilities/funeral-management.md)
-* [Community Pharmacy Network](centralised-facilities/community-pharmacy-network.md)
 * [Resource Mobilisation](centralised-facilities/resource-mobilisation.md)
+* [Funeral Management](centralised-facilities/funeral-management.md)
 
 ## Go Live Check List
 
