@@ -28,6 +28,7 @@
 * [Waste Disposal](centralised-facilities/waste-disposal.md)
 * [TeleMedicine Network](centralised-facilities/telemedicine.md)
 * [Funeral Management](centralised-facilities/funeral-management.md)
+* [Community Pharmacy Network](centralised-facilities/community-pharmacy-network.md)
 * [Resource Mobilisation](centralised-facilities/resource-mobilisation.md)
 
 ## Go Live Check List
