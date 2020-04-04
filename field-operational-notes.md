@@ -61,8 +61,14 @@ We will make templates out of the following physical spaces.
 
 We have identified the following locations
 
-1. Community Halls - St James Church, Cheranellor
-2. Hostel with rooms that have attached bathrooms - Rajagiri Hostel
+  
+
+
+![Community Halls - St James Church, Cheranellor](.gitbook/assets/yacobian-hall-1.pdf)
+
+![Hostel with rooms that have attached bathrooms - Rajagiri Hostel](.gitbook/assets/floor-plans-rajagiri-short-stay-home.pdf)
+
+
 
 The goal is to develop the minimum viable product on the ground which can be easily replicable across all 19,000 wards in Kerala.  
 ****
