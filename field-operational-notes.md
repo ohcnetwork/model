@@ -64,9 +64,9 @@ We have identified the following locations
   
 
 
-![Community Halls - St James Church, Cheranellor](.gitbook/assets/yacobian-hall-1.pdf)
+![Yacobian Hall at St: James Church](.gitbook/assets/screenshot-2020-04-04-at-11.31.20-am.png)
 
-![Hostel with rooms that have attached bathrooms - Rajagiri Hostel](.gitbook/assets/floor-plans-rajagiri-short-stay-home.pdf)
+![Short Stay Homes at Rajagiri College](.gitbook/assets/screenshot-2020-04-04-at-11.31.47-am.png)
 
 
 
