@@ -2,12 +2,11 @@
 
 * [Mission and Strategy](README.md)
 * [District Emergency Response Plan](district-emergency-response-plan.md)
-* [Primary Treatment Center for Corona \(Panchayat Level\)](primary-treatment-center.md)
-* [Augmenting Quarantine capacity - Short Stay Homes](short-stay-homes.md)
 * [Scaling up Checklist from 1 to 14 Districts](national-scaleup.md)
 
 ## Primary Treatment Centers for Corona
 
+* [Primary Treatment Center for Corona \(Panchayat Level\)](primary-treatment-centers-for-corona/primary-treatment-center.md)
 * [Resource Coordination Team](primary-treatment-centers-for-corona/institute-resource-team.md)
 * [Operating Model of a Primary Treatment Center](primary-treatment-centers-for-corona/operating-model-of-a-primary-treatment-center.md)
 * [Capacity Modelling](primary-treatment-centers-for-corona/capacity-modelling.md)
