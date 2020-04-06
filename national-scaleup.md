@@ -82,8 +82,6 @@ description: >-
 * [ ] Have eight TV screens \(42/60inch\) setup on the walls with one laptop connected through HDMI cable
 * [ ] Contact the Knowledge and Support Team for WebLinks and UserName/Passwords to be displayed on each screen.
 
-\*\*\*\*
-
 ## **District Support Team**
 
 * [ ] For leadership guidance and knowledge for collectors: email knowledge@coronasafe.network
