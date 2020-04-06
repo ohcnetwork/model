@@ -50,11 +50,19 @@ description: >-
 
 ### 2. Checklist for setting up Human WorkForce Network
 
-* [ ] 
+* [ ] Assign one person for setting up human workforce network
+* [ ] Create a whatspp group of 50 healthcare influencers in the district 
+* [ ] Record a message from collector for healthcare workforce to register with the district administration
+* [ ] Share the registration link [https://healthforce.coronasafe.network/](https://healthforce.coronasafe.network/) 
+
 ### 3. Checklist for setting up Emergency Logistics Network
 
-### 4. Checklist for setting up First Line Treatment Centers
+* [ ] Assign one person for emergency logistics network
+* [ ] 
+### 4. Checklist for setting up Corona Primary Treatment Centers at Panchayats
 
+* [ ] Assign on person to lead the setting up of Primary Treatment Centers
+* [ ] 
 ### **5. Checklist for Connecting all Sub Systems into Digital War Room**
 
 * [ ] Have one large room where the entire team working on this sits
