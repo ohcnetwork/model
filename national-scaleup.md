@@ -54,18 +54,20 @@ description: >-
 * [ ] Create a whatspp group of 50 healthcare influencers in the district 
 * [ ] Record a message from collector for healthcare workforce to register with the district administration
 * [ ] Share the registration link [https://healthforce.coronasafe.network/](https://healthforce.coronasafe.network/) 
+* [ ] Contact the District Support Team for username/passwords to access to Data dashboard
 
 ### 3. Checklist for setting up Emergency Logistics Network
 
-* [ ] Assign one person for emergency logistics network
+* [ ] Assign two people for emergency logistics network
 * [ ] Collectors to widely publicise Call for Volunteers to setup the Emergency Logistics Network
 * [ ] Share the Emergency Logistics Network Volunteer Link &lt;Aisha to add a link that can be used across states with drop down of States-&gt;Districts-&gt;Village Panchayats
 * [ ] Share the SuperHero Mobile App to registered volunteers \([https://play.google.com/store/apps/details?id=kerala.superhero.app](https://play.google.com/store/apps/details?id=kerala.superhero.app)\)
+* [ ] The role of the people assigned initially is to follow up on phone with each person and get the systems live manually by assisting hospital administrators and ambulance drivers
 
 ### 4. Checklist for setting up Corona Primary Treatment Centers at Panchayats
 
 * [ ] Assign one person to lead the setting up of Primary Treatment Centers
-* [ ] This person to learn in detail about the Primary Treatment center and its operational documentation
+* [ ] This person to learn in detail about the Primary Treatment center and its operational documentation by going over all the links under the heading \(Primary Treatment Centers for Corona\)
 * [ ] Wait for instructions.
 
 ### 5. Checklist for setting up Covid 19 Sample Management System
@@ -82,10 +84,10 @@ description: >-
 
 \*\*\*\*
 
-## **District Onboarding and Support Team**
+## **District Support Team**
 
 * [ ] For leadership guidance and knowledge for collectors: email knowledge@coronasafe.network
-* [ ] For guidance and operational support: email support@coronasafe.network
+* [ ] For guidance and operational support: email support@coronasafe.network with subject line on Name of District - Subsystem for which support is required.
 
 
 
