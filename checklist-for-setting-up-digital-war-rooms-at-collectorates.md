@@ -80,6 +80,8 @@ description: >-
 
 * [ ] Have one large room where the entire team working on this sits
 * [ ] Have eight TV screens \(42/60inch\) setup on the walls with one laptop connected through HDMI cable
+* [ ] Setup two high speed internet connections from different providers
+* [ ] Setup a strong Wi Fi Router system that can support upto 50 wi fi connections
 * [ ] Contact the Knowledge and Support Team for WebLinks and UserName/Passwords to be displayed on each screen.
 
 ## **District Support Team**
