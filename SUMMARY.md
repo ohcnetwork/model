@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Goal and Strategy](README.md)
+* [Mission and Strategy](README.md)
 * [District Emergency Response Plan](district-emergency-response-plan.md)
 * [Primary Treatment Center for Corona \(Panchayat Level\)](primary-treatment-center.md)
 * [Augmenting Quarantine capacity - Short Stay Homes](short-stay-homes.md)

@@ -5,7 +5,7 @@ description: >-
   patients.
 ---
 
-# Goal and Strategy
+# Mission and Strategy
 
 ## I. Introduction to War Against Corona 
 
