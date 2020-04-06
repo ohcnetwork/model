@@ -4,7 +4,7 @@
 * [District Emergency Response Plan](district-emergency-response-plan.md)
 * [Primary Treatment Center for Corona \(Panchayat Level\)](primary-treatment-center.md)
 * [Augmenting Quarantine capacity - Short Stay Homes](short-stay-homes.md)
-* [Scaling from 1 to 720 Districts](national-scaleup.md)
+* [Scaling up Checklist from 1 to 14 Districts](national-scaleup.md)
 
 ## Primary Treatment Centers for Corona
 

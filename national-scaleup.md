@@ -4,7 +4,7 @@ description: >-
   to 14 (All Kerala) to 720 districts (India)
 ---
 
-# Scaling from 1 to 720 Districts
+# Scaling up Checklist from 1 to 14 Districts
 
 ## Quick Introduction to setting up Digital War Rooms at your district Collectorate.
 
@@ -76,7 +76,7 @@ description: >-
 * [ ] This system is tightly integrated into the Healthcare system so that subsystem has to go up first.
 * [ ] Contact District Onboarding and Support Team for username/password for your district and the training on how to use the systems.
 
-### **5. Checklist for Connecting all Sub Systems into Digital War Room**
+### **6. Checklist for Connecting all Sub Systems into Digital War Room**
 
 * [ ] Have one large room where the entire team working on this sits
 * [ ] Have eight TV screens \(42/60inch\) setup on the walls with one laptop connected through HDMI cable
