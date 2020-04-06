@@ -58,11 +58,16 @@ description: >-
 ### 3. Checklist for setting up Emergency Logistics Network
 
 * [ ] Assign one person for emergency logistics network
-* [ ] 
+* [ ] Collectors to widely publicise Call for Volunteers to setup the Emergency Logistics Network
+* [ ] Share the Emergency Logistics Network Volunteer Link &lt;Aisha to add a link that can be used across states with drop down of States-&gt;Districts-&gt;Village Panchayats
+* [ ] Share the SuperHero Mobile App to registered volunteers \([https://play.google.com/store/apps/details?id=kerala.superhero.app](https://play.google.com/store/apps/details?id=kerala.superhero.app)\)
+
 ### 4. Checklist for setting up Corona Primary Treatment Centers at Panchayats
 
-* [ ] Assign on person to lead the setting up of Primary Treatment Centers
-* [ ] 
+* [ ] Assign one person to lead the setting up of Primary Treatment Centers
+* [ ] This person to learn in detail about the Primary Treatment center and its operational documentation
+* [ ] Wait for instructions.
+
 ### **5. Checklist for Connecting all Sub Systems into Digital War Room**
 
 * [ ] Have one large room where the entire team working on this sits
