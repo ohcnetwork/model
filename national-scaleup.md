@@ -46,7 +46,7 @@ description: >-
 * [ ] RTO \(Enforcement\) to create a whatsapp group with all ambulances in the district
 * [ ] RTO \(Enforcement\) to send a personal video in the group for all ambulance drivers to register online \([https://care.coronasafe.network/](https://care.coronasafe.network/)\) as Ambulance and fill in details.
 * [ ] RTO \(Enforcement\) to share the SuperHero Mobile App Link \([https://play.google.com/store/apps/details?id=kerala.superhero.app](https://play.google.com/store/apps/details?id=kerala.superhero.app)\) for all Ambulance Drivers to install
-* [ ] The role of the three people assigned initially is to 
+* [ ] The role of the three people assigned initially is to follow up on phone with each person and get the systems live manually by assisting hospital administrators and ambulance drivers.
 
 ### 2. Checklist for setting up Human WorkForce Network
 
@@ -67,6 +67,12 @@ description: >-
 * [ ] Assign one person to lead the setting up of Primary Treatment Centers
 * [ ] This person to learn in detail about the Primary Treatment center and its operational documentation
 * [ ] Wait for instructions.
+
+### 5. Checklist for setting up Covid 19 Sample Management System
+
+* [ ] Assign one person to lead the Sample Management system \(in EKM this is the District Lab Supervisor\)
+* [ ] This system is tightly integrated into the Healthcare system so that subsystem has to go up first.
+* [ ] Contact District Onboarding and Support Team for username/password for your district and the training on how to use the systems.
 
 ### **5. Checklist for Connecting all Sub Systems into Digital War Room**
 
