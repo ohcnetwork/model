@@ -1,10 +1,10 @@
 ---
 description: >-
-  This page describes the checklist for scaling CoronaSafe Network from 1(Kochi)
-  to 14 (All Kerala) to 720 districts (India)
+  This page describes the checklist for setting up a digital war room at a
+  district collectorate
 ---
 
-# Scaling up Checklist from 1 to 14 Districts
+# Checklist for setting up Digital War Rooms at Collectorates
 
 ## Quick Introduction to setting up Digital War Rooms at your district Collectorate.
 

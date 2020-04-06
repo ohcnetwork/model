@@ -2,7 +2,7 @@
 
 * [Mission and Strategy](README.md)
 * [District Emergency Response Plan](district-emergency-response-plan.md)
-* [Scaling up Checklist from 1 to 14 Districts](national-scaleup.md)
+* [Checklist for setting up Digital War Rooms at Collectorates](checklist-for-setting-up-digital-war-rooms-at-collectorates.md)
 
 ## Primary Treatment Centers for Corona
 
