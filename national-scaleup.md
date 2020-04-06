@@ -83,6 +83,7 @@ description: >-
 
 
 
+Last updated: 9:00 am 6th April 2020  
 
 
 
@@ -92,12 +93,8 @@ description: >-
 
 
 
-Last updated: 12:24pm 21 March 2020  
   
 
-
-* [ ] Priyanka to flesh out the task list
-* [ ] Rueben to read the war strategy and document the work in kerala for national scale up and others to understand better at PMO/Niti Ayog.
 
 
 
