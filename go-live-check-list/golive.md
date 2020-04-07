@@ -9,6 +9,7 @@
 * [x] Create the Ambulance Network where we know the location of each ambulance
 * [x] Create the Hospital Network where we know nearest hospital that has a free bed available/ Availability of ICU with Ventilator based on the medical requirements for each individual.
 * [x] Figure out Food Management \(Centralised Kitchen- Decentralised Kitchens/Distribution\)
+* [ ] In Software Create a Facility ID for each First Line Treatment Center \(State\|District Code\| Panchayat Code\|Ward No\|Unit Number in Ward\) _Eg: KL-07-87-18-02_
 * [ ] Get Floor Plan of the Prototype Centers with the beds marked 
 * [ ] Co-ordinate with IMA/IMAGE for Medical Waste Management
 * [ ] Confirm if waste disposal pit is setup at the center.
