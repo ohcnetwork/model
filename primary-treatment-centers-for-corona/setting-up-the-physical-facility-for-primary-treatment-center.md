@@ -27,7 +27,13 @@ It is important to create and demonstrate a working model for all individuals to
 
 ![Yacobian Hall at St: James Church](../.gitbook/assets/screenshot-2020-04-04-at-11.31.20-am.png)
 
+![St: James Church, Cheranelloor Panchayat, Ernakulam](../.gitbook/assets/first-line-treatment-center-at-st-james-church-cheranelloor.jpeg)
+
+![First Line Treatment Center at Cheranelloor Panchayat, Ernakulam](../.gitbook/assets/first-line-treatment-center-setup-at-st-james-church.jpeg)
+
 ![Short Stay Homes at Rajagiri College](../.gitbook/assets/screenshot-2020-04-04-at-11.31.47-am.png)
+
+
 
 
 
