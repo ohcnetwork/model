@@ -4,7 +4,11 @@ description: >-
   and emergency response plan on how to isolate/transfer suspects/patients.
 ---
 
-# District Emergency Response Plan
+# Ernakulam District Emergency Response Plan
+
+## **The Comprehensive Emergency Response Plan at Ernakulam District can be downloaded from the link below.**
+
+{% file src=".gitbook/assets/covid19-ernakulam-emergency-response-plan-6th-april-2020.pdf" caption="District Emergency Response Plan" %}
 
 ## **Categorisation of Health Care Institutions  for Covid Response Plan \(Ernakulam District\)** 
 
