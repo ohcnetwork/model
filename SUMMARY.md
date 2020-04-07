@@ -6,12 +6,13 @@
 
 ## Primary Treatment Centers for Corona
 
-* [Primary Treatment Center for Corona \(Panchayat Level\)](primary-treatment-centers-for-corona/primary-treatment-center.md)
+* [First Line \(Primary\)Treatment Center for Corona  at Panchayat Level](primary-treatment-centers-for-corona/primary-treatment-center.md)
+* [Setting up the physical facility for Primary Treatment Center](primary-treatment-centers-for-corona/setting-up-the-physical-facility-for-primary-treatment-center.md)
 * [Resource Coordination Team](primary-treatment-centers-for-corona/institute-resource-team.md)
 * [Operating Model of a Primary Treatment Center](primary-treatment-centers-for-corona/operating-model-of-a-primary-treatment-center.md)
+* [Patient Management](primary-treatment-centers-for-corona/patient-management-1.md)
 * [Capacity Modelling](primary-treatment-centers-for-corona/capacity-modelling.md)
 * [Organisation Structure](primary-treatment-centers-for-corona/organisation-structure.md)
-* [Patient Management Flow](primary-treatment-centers-for-corona/patient-management-1.md)
 * [Hygiene Management](primary-treatment-centers-for-corona/waste-disposal.md)
 
 ## Centralised Facilities

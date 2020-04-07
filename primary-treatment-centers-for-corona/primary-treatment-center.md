@@ -4,7 +4,7 @@ description: >-
   Corona at the Panchayat Level.
 ---
 
-# Primary Treatment Center for Corona \(Panchayat Level\)
+# First Line \(Primary\)Treatment Center for Corona  at Panchayat Level
 
 ## 1. Why do we need a Primary Treatment Center.
 

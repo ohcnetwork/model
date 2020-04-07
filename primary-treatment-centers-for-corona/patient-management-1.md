@@ -4,11 +4,11 @@ description: >-
   use the system and exit the system.
 ---
 
-# Patient Management Flow
+# Patient Management
 
 ### Step 1: Patient Registration. 
 
-1. A patient who physically comes to the Primary Treatment Center first comes to the Registration Desk.  
+1. A patient who physically comes to the Primary Treatment Center first comes to the Registration Desk. 
 2. From there the patient is registered in the Corona HealthCare Network.
 
 ### Step 2 - OP Triage
@@ -20,13 +20,13 @@ description: >-
 * 1 Paramedical staff
 * 1 Data programmer
 
-2. Based on the severity of the condition, the doctor decides whether the patient has to be  of the 
+2. Based on the severity of the condition, the doctor decides whether the patient has to be
 
-1. Take Sample and Send back home
-2. Admit the person into the Primary Treatment Center 
+1. Send back home after taking a sample
+2. Admit the person into the Primary Treatment Center or
 3. Transfer to a Secondary or Tertiary Treatment Center
 
-3. If the person is admitted to the PTC,  then the system has to say which is the available bed for the person.\(desirable\).
+3. If the person is admitted to the Primary Treatment center,  then the system has to say which is the available bed for the patient \(desirable\).
 
 4. Each person will get an ID tag/ band to identify an inmate Directed to their allotted bed.
 
