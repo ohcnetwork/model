@@ -1,32 +1,24 @@
----
-description: >-
-  There are 22 Steps to Go live of which we have completed two steps. We need to
-  fix a deadline for completion of each step by the concerned person to figure
-  out the exact date of Go Live.
----
-
-# Model CCC GoLive Checklist
+# GoLive Checklist for BluePrint of First Line Treatment Center
 
 * [x] The School/College/Univeristy Head has to agree to setup a CCC
 * [x] Letter issued from National Health Mission - State Mission Director
 * [x] Principal/Head of Institution sends acceptance letter back to State Mission Director
 * [x] CM issues call for Volunteers for the Centralised Technology Center
-* [ ] CM writes to Defence Minister/DGCA for Air Ambulance Support
-* [ ] Room Dimensions and entered into the CCC software to calculate bed capacity as per - [https://model.coronasafe.network/how-to-convert-an-institution-into-a-ccc/capacity-modelling](https://model.coronasafe.network/how-to-convert-an-institution-into-a-ccc/capacity-modelling)
-* [x] Institute has to setup a resource team to co-ordinate the setting up of first Model CCC
-* [x] Institute has to send out call for volunteers to man the center as per -[https://model.coronasafe.network/how-to-convert-an-institution-into-a-ccc/organisation-structure](https://model.coronasafe.network/how-to-convert-an-institution-into-a-ccc/organisation-structure)
-* [ ] The volunteer team has to understand the overall war strategy and role of an individual CCC - [https://warstrategy.coronasafe.network/](https://warstrategy.coronasafe.network/)
-* [ ] Find from IMA the list of medical supplies required for the Model Center
-* [ ] Inventories have to be stocked up as per Inventory Supplies List - [https://model.coronasafe.network/centralised-facilities/inventory-supplies](https://model.coronasafe.network/centralised-facilities/inventory-supplies)
-* [ ] Create the Ambulance Network where we know the location of each ambulance
-* [ ] Create the Hospital Network where we know nearest hospital that has a free bed available/ Availability of ICU with Ventilator based on the medical requirements for each individual.
+* [x] Find from IMA the list of medical supplies required for the Model Center
+* [x] Inventories have to be stocked up as per Inventory Supplies List - [https://model.coronasafe.network/centralised-facilities/inventory-supplies](https://model.coronasafe.network/centralised-facilities/inventory-supplies)
+* [x] Create the Ambulance Network where we know the location of each ambulance
+* [x] Create the Hospital Network where we know nearest hospital that has a free bed available/ Availability of ICU with Ventilator based on the medical requirements for each individual.
+* [x] Figure out Food Management \(Centralised Kitchen- Decentralised Kitchens/Distribution\)
+* [ ] Get Floor Plan of the Prototype Centers with the beds marked 
 * [ ] Co-ordinate with IMA/IMAGE for Medical Waste Management
-* [ ] Co-ordinate with Kudumbashree/Suchithva mission for other waste management
-* [ ] Figure out Food Management \(Centralised Kitchen- Decentralised Kitchens/Distribution\)
+* [ ] Confirm if waste disposal pit is setup at the center.
+* [ ] Identify the Volunteer Team 
 * [ ] Create Training Module for the Volunteers through IMA \(Medical Support\) & Jinson \(Video Support\)
 * [ ] Train the volunteer team to man the Model Center.
+* [ ] We need a scheduling module for doctors/medical students to see which centers need doctors and the shifts that they need to plan.
+* [ ] The software has to have a inventory dashboard which can show people the type of inventory that is required and at what location. The inventory has to be stocked up always before it goes down so the confidence of people
 * [ ] Trial run the Facility for all the processes and eventualities like ambulance shifting, hospital shifting
 * [ ] Announce that the Model Center is now Live
 * [ ] Online War Room Dashboards Go live in parallel.
-* [ ] New Corona Care Centers can now be added to the network
+* [ ] More First Line Treatment Centers can now be added to the network
 

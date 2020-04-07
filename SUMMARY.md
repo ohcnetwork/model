@@ -33,7 +33,7 @@
 
 ## Go Live Check List
 
-* [Model CCC GoLive Checklist](go-live-check-list/golive.md)
+* [GoLive Checklist for BluePrint of First Line Treatment Center](go-live-check-list/golive.md)
 * [CCC Go Live Checklist](go-live-check-list/go-live-checklist-once-model-is-ready.md)
 * [Things to Clarify](go-live-check-list/things-to-add-clarify-into-this-document.md)
 * [Features for CCC V1.1](go-live-check-list/features-for-ccc-v1.1.md)

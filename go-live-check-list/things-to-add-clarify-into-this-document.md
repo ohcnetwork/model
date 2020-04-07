@@ -11,8 +11,7 @@ description: These are things that are to be flushed out.
 * [ ] Ram Mohan to plan how to calculate this for another school so that it can be entered into a software which will predict the patient handling capacity.
 * [ ] The software has to create the inventory list automatically for a CCC once patient handling capacity is found out.
 * [ ] Sanjay to Talk to AirForce to figure out how to setup a helicopter landing pad in the School Ground
-* [ ] The software has to have a inventory dashboard which can show people the type of inventory that is required and at what location. The inventory has to be stocked up always before it goes down so the confidence of people.
-* [ ] We need a scheduling module for doctors/medical students to see which centers need doctors and the shifts that they need to plan for. This data is also to be available to the police who should be able to quickly move doctors from point A \(home\) to point \(b\) - a CCC - at the fastest time possible so that all centers are well staffed in time.
+* [ ] . This data is also to be available to the police who should be able to quickly move doctors from point A \(home\) to point \(b\) - a CCC - at the fastest time possible so that all centers are well staffed in time.
 * [ ] Ramettan to talk to Rector for counselling
 * [ ] Mention in a note that each center has to adapt the model to their own individual situation, requirements and available facilities.
 * [ ] Sanjay to talk to Usha Madam to talk to CET to start one in government sector.
