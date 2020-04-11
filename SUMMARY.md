@@ -2,6 +2,7 @@
 
 * [Mission and Strategy](README.md)
 * [Ernakulam District Emergency Response Plan](district-emergency-response-plan.md)
+* [Load Balancing Corona Patients against healthcare facilities in a District](load-balancing-corona-patients-against-healthcare-facilities-in-a-district.md)
 * [Checklist for setting up Digital War Rooms at Collectorates](checklist-for-setting-up-digital-war-rooms-at-collectorates.md)
 
 ## Primary Treatment Centers for Corona
