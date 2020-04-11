@@ -148,23 +148,14 @@ description: >-
         be further decentralised from Panchayat to Ward Level.</td>
     </tr>
   </tbody>
-</table>**Things to do:**  
+</table>**Things to do: Protocol Videos which show both facility and procedure to be made on** 
 
-
-**Checklist has to be created on how to check for home isolation.**  
-
-
-**Protocol Videos which show both facility and procedure to be made on**   
-
-
-1. **How to do home isolation**
-   1. **Coordinating with Innocent** 
-2. **How to do isolation at Short Stay Homes**
-   1. **Dulquer Salman** 
-3. **How to do Triage at PHC, Private Clinic and Government Hospital**
-4. **How to setup Isolation Facility at Government and Private Hospital**
-5. **How to take Swab at Government and Private Hospital**
-6. **How to setup Covid Tertiary Care ICU**
-7. **How to setup a covid secondary care treatment center**
-8. **How to set up the Covoid Primary/First line treatment center.**
+* [ ] **How to do home isolation : Coordinating with Innocent** 
+* [ ] **How to do isolation at Short Stay Homes: Dulquer Salman** 
+* [ ] **How to do Triage at PHC, Private Clinic and Government Hospital**
+* [ ] **How to setup Isolation Facility at Government and Private Hospital**
+* [ ] **How to take Swab at Government and Private Hospital**
+* [ ] **How to setup Covid Tertiary Care ICU**
+* [ ] **How to setup a covid secondary care treatment center**
+* [ ] **How to set up the Covoid Primary/First line treatment center.**
 
