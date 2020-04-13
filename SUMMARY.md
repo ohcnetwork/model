@@ -4,6 +4,7 @@
 * [Ernakulam District Emergency Response Plan](district-emergency-response-plan.md)
 * [Load Balancing Corona Patients against healthcare facilities in a District](load-balancing-corona-patients-against-healthcare-facilities-in-a-district.md)
 * [Checklist for setting up Digital War Rooms at Collectorates](checklist-for-setting-up-digital-war-rooms-at-collectorates.md)
+* [Preparedness and Go Live Checklist for FLTC's.](go-live-checklist-once-model-is-ready.md)
 
 ## Primary Treatment Centers for Corona
 
@@ -34,7 +35,6 @@
 
 ## Go Live Check List
 
-* [Preparedness and Go Live Checklist for FLTC's.](go-live-check-list/go-live-checklist-once-model-is-ready.md)
 * [GoLive Checklist for BluePrint of First Line Treatment Center](go-live-check-list/golive.md)
 * [Things to Clarify](go-live-check-list/things-to-add-clarify-into-this-document.md)
 * [Features for CCC V1.1](go-live-check-list/features-for-ccc-v1.1.md)
