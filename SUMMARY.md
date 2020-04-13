@@ -3,6 +3,9 @@
 * [Mission and Strategy](README.md)
 * [Ernakulam District Emergency Response Plan](district-emergency-response-plan.md)
 * [Load Balancing Corona Patients against healthcare facilities in a District](load-balancing-corona-patients-against-healthcare-facilities-in-a-district.md)
+
+## Go Live Check List
+
 * [Checklist for setting up Digital War Rooms at Collectorates](checklist-for-setting-up-digital-war-rooms-at-collectorates.md)
 * [Preparedness and Go Live Checklist for FLTC's.](go-live-checklist-once-model-is-ready.md)
 
@@ -32,15 +35,13 @@
 * [TeleMedicine Network](centralised-facilities/telemedicine.md)
 * [Resource Mobilisation](centralised-facilities/resource-mobilisation.md)
 * [Funeral Management](centralised-facilities/funeral-management.md)
+* [Covid 19 Spread Modelling](centralised-facilities/covid-19-spread-modelling.md)
 
-## Go Live Check List
+## Field Notes
 
-* [GoLive Checklist for BluePrint of First Line Treatment Center](go-live-check-list/golive.md)
-* [Things to Clarify](go-live-check-list/things-to-add-clarify-into-this-document.md)
-* [Features for CCC V1.1](go-live-check-list/features-for-ccc-v1.1.md)
-* [State Disaster Management Authority](go-live-check-list/state-disaster-management-authority.md)
-* [Covid 19 Spread Modelling](go-live-check-list/covid-19-spread-modelling.md)
-* [Emergency Evacuation Plan](emergency-evacuation-plan.md)
-* [Brainstorming Notes](brainstorming-notes.md)
-* [Field Operational Notes](field-operational-notes.md)
+* [Emergency Evacuation Plan](field-notes/emergency-evacuation-plan.md)
+* [Brainstorming Notes](field-notes/brainstorming-notes.md)
+* [Field Operational Notes](field-notes/field-operational-notes.md)
+* [Things to Clarify](field-notes/things-to-add-clarify-into-this-document.md)
+* [GoLive Checklist for BluePrint of First Line Treatment Center](field-notes/golive.md)
 

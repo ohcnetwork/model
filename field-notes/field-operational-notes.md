@@ -64,9 +64,9 @@ We have identified the following locations
   
 
 
-![Yacobian Hall at St: James Church](.gitbook/assets/screenshot-2020-04-04-at-11.31.20-am.png)
+![Yacobian Hall at St: James Church](../.gitbook/assets/screenshot-2020-04-04-at-11.31.20-am.png)
 
-![Short Stay Homes at Rajagiri College](.gitbook/assets/screenshot-2020-04-04-at-11.31.47-am.png)
+![Short Stay Homes at Rajagiri College](../.gitbook/assets/screenshot-2020-04-04-at-11.31.47-am.png)
 
 
 
