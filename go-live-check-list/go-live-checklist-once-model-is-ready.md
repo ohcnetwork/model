@@ -1,17 +1,33 @@
 ---
 description: >-
-  This is the process flow that is assisted by the Corona Safe network software
-  to make a physical center "Go Live" and become a part of the Corona Care
-  Network.
+  This is the process flow for a First Line Treatment Center to be setup
+  physically, people identified and trained and then center reaches operation
+  readiness for  "Go Live".
 ---
 
-# CCC Go Live Checklist
+# Preparedness and Go Live Checklist for FLTC's.
+
+### There are two stages for FLTC to Go Live in a District.  **Stage -1 :** **Preparedness to Go Live** **Stage -2 :** Activation and Go Live
+
+### **Details of Stage - 1**
+
+1.
+
+2. 
+
+3.
+
+4.
 
 
 
-There are 10 steps to make a center **Go Live**
+District Emergency Operations Control Room has to inform the Village Panchayat Medical Officer to be ready for setting up a FLTC 48 hours before they estimate a center has to go live.  
+  
+This decision is made base on the Secondary centers filling up to capacity..
 
-| 1 | Get approval from Head of Institution |
+The following is the Protocol to setup and activate the center for Go Live.
+
+| 1 |  |
 | :--- | :--- |
 | 2 | Identify the Center Head/ Administrator  |
 | 3 | Do a physical site survey of facilities available and plan capacity |
@@ -22,4 +38,6 @@ There are 10 steps to make a center **Go Live**
 | 8 | Health Department issues letter to make the center live based on data submitted |
 | 9 | Trial Run an onsite Familiarisation of the Corona Care Center by the Volunteers |
 | 10. | Announce that the Corona Care Center has achieved "Go Live" |
+
+
 
