@@ -19,9 +19,6 @@ Team is divided into two categories based on whether they are operating Inside t
 | 5 | 1 Public Relations Officer | Oversee Public Relations such as media and general public.  Assist the Center Head in co-ordination with Government Agencies and Volunteers | Ward Member . |
 | 6 | 6 Support Volunteers who are multitasking | Support, Patient Management work amongst the patients Ensuring Utilities like Power and Water at the center. Inventory Management of the Center Waste generated is disposed properly through the Waste Management Unit. Ensuring that correct data is quickly entered into the system so that the master database is populated accurately. | General volunteers can become a support staff  2 people work-in 8 hours shifts.Ideally an engineering student who is interested in computer science and data modelling is the best person for this role.  If such a student is not available, Anyone who can use a computer and enter data online at www.coronasafe.network platform is also a right person for this role.  1 people work in 8 hour shifts. |
 
-&lt;!--td {border: 1px solid \#ccc;}br {mso-data-placement:same-cell;}--&gt;
-
-  
   
 The Center Head also plans for 21 additional people as well who will be ready to step in in Week\#2.  
   
