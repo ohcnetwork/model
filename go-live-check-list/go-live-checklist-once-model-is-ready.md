@@ -9,7 +9,7 @@ description: >-
 
 ## **Preparedness and Go Live Checklist for FLTC's.**
 
-## **The Protocols to activate a FLTC has 12 steps in two two stages.  Stage -1 : 8 steps for Preparedness for Activation  Stage -2 : 4 steps to become Alert for Activation and Go Live**
+## **The Protocols to activate a FLTC has 12 steps in two two stages.  Stage -1 : 8 steps for Preparedness for Activation  Stage -2 :** 4 steps to become Alert for Activation and Go Live
 
 **‌**  
 
