@@ -12,7 +12,7 @@ Team is divided into two categories based on whether they are operating Inside t
 
 | Sl | Role | KRA | Notes |
 | :--- | :--- | :--- | :--- |
-| 1 | 1 Doctor on call round the clock | Support the medical decisions.  Final Year/Medical Internship students can volunteer here. | Doctors works in twelve hour shifts 2 Doctors in the morning and 1 doctor for night duty. |
+| 1 | 1 Doctor on call  | Support the medical decisions.  Final Year/Medical Internship students can volunteer here. | Strategy of setting up FLTC's is to create a basic capacity to avoid overloading of hospital system. |
 | 2 | 3 Nurse & 3 Nursing Assistants | Nurse will head the clinical decisions at the center. Nurses/Nursing Students Lab Technicians Pharmacists Medical Students can serve. | People who need round the clock injections are more sick and needs to be taken to a hospital and not treated here.  2 people work-in 8 hours shifts |
 | 3 | 6 people for Cleaning | Ensuring that the center is clean and tidy | Support of Kudumbasree Members may be sought. 2poeple work in 8 hours shifts |
 | 4 | 1 Center Head | Ensure that the center runs smoothly by ordinating with various government agencies for things like Food and Water Supplies Medical Supplies Electricity Ambulance \(Land and Air\) | A non-medical person who can ensure that right number of people, supplies and can co-ordinate with the government that things are running smoothly. This person is the Administrative Authority/CEO in Charge |
