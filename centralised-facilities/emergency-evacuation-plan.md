@@ -21,7 +21,9 @@ This form once submitted will be verified physically on the ground at the Villag
 The most important is to have two things.
 
 1. A room with attached bathroom for self isolation at home. 
-2. Not having anyone who is in the vulnerable category.
+2. Not having anyone who is in the vulnerable category at home
+
+This physical verification on the ground will be done by 
 
 If the person is not having a place to stay, then they can access CoronaSafe Stays and then stay in either government setup hostels \(free of cost for staying with food from community kitchens\) or take a place to stay in a hotel with varying room rates from 1000 per night \(with 3 times food\) to 4000 per night.
 
