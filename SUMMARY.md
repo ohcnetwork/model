@@ -36,10 +36,10 @@
 * [Resource Mobilisation](centralised-facilities/resource-mobilisation.md)
 * [Funeral Management](centralised-facilities/funeral-management.md)
 * [Covid 19 Spread Modelling](centralised-facilities/covid-19-spread-modelling.md)
+* [Emergency Evacuation Plan](centralised-facilities/emergency-evacuation-plan.md)
 
 ## Field Notes
 
-* [Emergency Evacuation Plan](field-notes/emergency-evacuation-plan.md)
 * [Brainstorming Notes](field-notes/brainstorming-notes.md)
 * [Field Operational Notes](field-notes/field-operational-notes.md)
 * [Things to Clarify](field-notes/things-to-add-clarify-into-this-document.md)
