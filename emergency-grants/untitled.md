@@ -8,7 +8,9 @@ description: >-
 
 CoronaSafe Network is one of the 21 initiatives that has been awarded an ACT Grant  as of 18th April 2020.  
   
-Utilisation of funds is towards setting up of First Line Treatment Centers managed by the district administration, procurement of hardware/equipment required, reimbursements of fuel and other bills on actuals and other discretionary expenditure required for emergency operating purposes in accordance with guidelines communicated by ACT.
+Utilisation of funds is towards setting up of First Line Treatment Centers, procurement of hardware/equipment required, reimbursements of fuel and other bills on actuals and other discretionary expenditure required for emergency operating purposes in accordance with guidelines communicated by ACT. 
+
+All expenses are towards meeting the operating goals of the war strategy and approved by the District Programme Manager, National Health Mission.
 
 The funds granted by ACT are managed through a society and will be subject to all financial audits and mandatory disclosures as required by law.  
   
