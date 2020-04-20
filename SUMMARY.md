@@ -51,6 +51,5 @@
 
 ## Findings and Observations
 
-* [How to run a mock drill](findings-and-observations/how-to-run-a-mock-drill/README.md)
-  * [Findings and Observations](findings-and-observations/how-to-run-a-mock-drill/findings-and-observations.md)
+* [How to run a mock drill](findings-and-observations/how-to-run-a-mock-drill.md)
 
