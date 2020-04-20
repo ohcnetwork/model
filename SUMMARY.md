@@ -47,5 +47,6 @@
 
 ## Emergency Grants
 
+* [Findings and Observations](emergency-grants/findings-and-observations.md)
 * [ACT](emergency-grants/untitled.md)
 
