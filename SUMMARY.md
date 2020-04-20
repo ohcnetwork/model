@@ -47,6 +47,10 @@
 
 ## Emergency Grants
 
-* [Findings and Observations](emergency-grants/findings-and-observations.md)
 * [ACT](emergency-grants/untitled.md)
+
+## Findings and Observations
+
+* [How to run a mock drill](findings-and-observations/how-to-run-a-mock-drill/README.md)
+  * [Findings and Observations](findings-and-observations/how-to-run-a-mock-drill/findings-and-observations.md)
 
