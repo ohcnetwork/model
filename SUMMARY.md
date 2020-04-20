@@ -49,9 +49,9 @@
 
 * [ACT](emergency-grants/untitled.md)
 
-## Findings and Observations
+## District Administration
 
-* [How to run a mock drill](findings-and-observations/how-to-run-a-mock-drill.md)
-* [This is where i start..](findings-and-observations/this-is-where-i-start...md)
-* [SOP for Airport](findings-and-observations/sop-for-airport.md)
+* [How to run a mock drill](district-administration/how-to-run-a-mock-drill.md)
+* [This is where i start..](district-administration/this-is-where-i-start...md)
+* [SOP for Airport](district-administration/sop-for-airport.md)
 
