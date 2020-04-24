@@ -51,7 +51,7 @@
 
 ## District Administration
 
-* [Roll Out Plan for EKM](district-administration/roll-out-plan-for-ekm.md)
+* [Phase wise Roll Out Plan for EKM](district-administration/roll-out-plan-for-ekm.md)
 * [How to run a mock drill](district-administration/how-to-run-a-mock-drill.md)
 * [SOP for Airport](district-administration/sop-for-airport.md)
 
