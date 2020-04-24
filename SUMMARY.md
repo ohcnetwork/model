@@ -51,8 +51,7 @@
 
 ## District Administration
 
-* [How to run a mock drill](district-administration/how-to-run-a-mock-drill.md)
-* [This is where i start..](district-administration/this-is-where-i-start...md)
-* [SOP for Airport](district-administration/sop-for-airport.md)
 * [Roll Out Plan for EKM](district-administration/roll-out-plan-for-ekm.md)
+* [How to run a mock drill](district-administration/how-to-run-a-mock-drill.md)
+* [SOP for Airport](district-administration/sop-for-airport.md)
 
