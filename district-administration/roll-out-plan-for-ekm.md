@@ -27,9 +27,10 @@ This goes live by 24th 4pm.
 * [ ] Video has to be created by Suhas for registration
 * [ ] Training on Corona Management and Training on Software use has to be provided
 
-3. **Phase 3 Roll Out Plan**
+3. **Information Dissimenation on First Line Treatment Centers**
 
-1. **Emergency Telemedicine Syste**
-
+* [ ] Three paragraphs on Why, What and When will be launch FLTC's. 
+* [ ] Circulate the videos and documentation on FLTC's to panchayat secretaries
+* [ ] 
  
 
