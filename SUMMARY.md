@@ -37,6 +37,7 @@
 * [Funeral Management](centralised-facilities/funeral-management.md)
 * [Covid 19 Spread Modelling](centralised-facilities/covid-19-spread-modelling.md)
 * [Emergency Evacuation Plan](centralised-facilities/emergency-evacuation-plan.md)
+* [Trucks Management System](centralised-facilities/trucks-management-system.md)
 
 ## Field Notes
 
