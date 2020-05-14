@@ -58,6 +58,14 @@ The goal is to develop the minimum viable product on the ground which can be eas
 3. Manpower Identification and Training
 4. Inventory Management
 
-We have to mobilise inventory planning for common items at the Village Panchayat at each district to enable rapid mobilisation.   
+We have to mobilise inventory planning for common items at the Village Panchayat at each district to enable rapid mobilisation. 
+
+**Architectural Documents for FLTCs**
+
+**The detailed architecture documents for FLTC can be downloaded below.**
+
+{% file src="../.gitbook/assets/coronasafe-fltc-architectural-plan-v1.0.pdf" caption="CoronaSafe FLTC Architecture Plan" %}
+
+  
 ****
 
