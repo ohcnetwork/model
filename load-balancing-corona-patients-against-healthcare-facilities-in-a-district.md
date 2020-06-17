@@ -148,7 +148,9 @@ description: >-
         be further decentralised from Panchayat to Ward Level.</td>
     </tr>
   </tbody>
-</table>**Things to do: Protocol Videos which show both facility and procedure to be made on** 
+</table>
+
+**Things to do: Protocol Videos which show both facility and procedure to be made on** 
 
 * [ ] **How to do home isolation : Coordinating with Innocent** 
 * [ ] **How to do isolation at Short Stay Homes: Dulquer Salman** 

@@ -93,7 +93,9 @@ Team is divided into two categories based on whether they are operating Inside t
         <br />1 people work in 8 hour shifts.</td>
     </tr>
   </tbody>
-</table>We have to ensure that each PHC has a telemedicine system with a mobile and sim phone.  
+</table>
+
+We have to ensure that each PHC has a telemedicine system with a mobile and sim phone.  
   
 The Center Head also plans for 21 additional people as well who will be ready to step in in Week\#2.  
   

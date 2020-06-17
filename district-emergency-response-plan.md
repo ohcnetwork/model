@@ -139,7 +139,9 @@ C. Patients in Government sector healthcare institutions who wish to transfer th
       </td>
     </tr>
   </tbody>
-</table>  
+</table>
+
+  
 **Isolation Facility at House \(Only if ALL the following are feasible\)**
 
 1. Single bath attached room inside the house dedicated for the person to be in isolation.
@@ -265,3 +267,4 @@ C. Patients in Government sector healthcare institutions who wish to transfer th
     </tr>
   </tbody>
 </table>
+

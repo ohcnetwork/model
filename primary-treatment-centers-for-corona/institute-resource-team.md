@@ -96,7 +96,9 @@ description: >-
       <td style="text-align:left">Air Force</td>
     </tr>
   </tbody>
-</table>|  |
+</table>
+
+|  |
 | :--- |
 
 
