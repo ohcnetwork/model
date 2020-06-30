@@ -10,6 +10,8 @@ description: >-
 
 {% file src=".gitbook/assets/covid19-ernakulam-emergency-response-plan-6th-april-2020.pdf" caption="District Emergency Response Plan" %}
 
+{% file src=".gitbook/assets/ernakulam-district-surge-plan-ver-7.pdf" caption="Ernakulam District Surge Plan" %}
+
 ## **Categorisation of Health Care Institutions  for Covid Response Plan \(Ernakulam District\)** 
 
 **Background:** The healthcare institutions which respond to the Covid Emergency have been classified into three plans. \(Plan A, B and C\).
