@@ -60,6 +60,7 @@
 
 ## Government Orders
 
+* [Minutes](government-orders/minutes.md)
 * [GO & Circulars](government-orders/go.md)
 
 ## Training Documents
