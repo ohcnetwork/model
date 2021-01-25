@@ -41,6 +41,7 @@
 * [Emergency Evacuation Plan](centralised-facilities/emergency-evacuation-plan.md)
 * [Trucks Management System](centralised-facilities/trucks-management-system.md)
 * [Integrated Sample Management System](centralised-facilities/integrated-sample-management-system.md)
+* [Palliative](centralised-facilities/palliative.md)
 
 ## Field Notes
 
