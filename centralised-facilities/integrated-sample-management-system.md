@@ -1,4 +1,4 @@
-# Product Outline: CoronaSafe Sample Management System
+# CoronaSafe Integrated Sample Management and diagnostic System
 
 **Integrated Sample Management and Diagnostic System** was introduced in Ernakulam in 2019. The Sample Management and Diagnostic System comprises a network of sample collection centers \(the spokes\) and various testing centers \(Govt.Hospitals/labs\) \(the hubs\) and also the logistical system transporting the sample within this network. Result dissemination is also another facet of this Sample Management System.
 

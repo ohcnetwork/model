@@ -40,7 +40,7 @@
 * [Covid 19 Spread Modelling](centralised-facilities/covid-19-spread-modelling.md)
 * [Emergency Evacuation Plan](centralised-facilities/emergency-evacuation-plan.md)
 * [Trucks Management System](centralised-facilities/trucks-management-system.md)
-* [Product Outline: CoronaSafe Sample Management System](centralised-facilities/integrated-sample-management-system.md)
+* [CoronaSafe Integrated Sample Management and diagnostic System](centralised-facilities/integrated-sample-management-system.md)
 * [Palliative](centralised-facilities/palliative.md)
 
 ## Field Notes
