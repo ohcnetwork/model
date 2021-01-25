@@ -19,33 +19,15 @@ New hubs may be added or removed from this list depending on circumstances.
 
 ![](../.gitbook/assets/2.jpeg)
 
-\(ABOVE:Example of a referral form for newborn metabolic screening\)
+\(ABOVE: Example of a referral form for newborn metabolic screening\)
 
-![](../.gitbook/assets/3.png)![](../.gitbook/assets/4.png)
+![](../.gitbook/assets/3.png)
 
-![](../.gitbook/assets/5.png)
+\(Example of the referral form sent with Widal Sample for dengue test\)
 
-\( LEFT: Example of the referral form sent with Widal Sample for dengue test
+![](../.gitbook/assets/4.png)
 
-RIGHT: Example of the referral form for biopsy sample\)
-
-### 
-
-### 
-
-### ![](../.gitbook/assets/6.png)
-
-### 
-
-### \(Example of a request letter issued from the spoke to the hub\)
-
-### 
-
-### 
-
-### 
-
-### 
+\(Example of the referral form for biopsy sample\)
 
 ### Current workflow of the System:
 
@@ -271,9 +253,5 @@ Firstly, listing all the users and the main screens visible to them:
 * Concerns about the driver/vehicle
 * Roaster of vehicles
 
-### Screens:
-
-#### Home Screen:
-
-![](../.gitbook/assets/10.png)
+#### 
 
