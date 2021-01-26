@@ -54,6 +54,7 @@ New hubs may be added or removed from this list depending on circumstances.
 1. Physical registers are maintained at each of the spokes, each of the vehicles and also at each of the hubs.Therefore there are 3 logs maintained:
    1. Spoke incoming and outgoing register. \(Smaller sample collection centers around a spoke will transport the samples to the spoke for transportation to the hub. Eg: PHCs around 18 CHCs are asked to transport the samples to the respective CHCs for pickup\)
    2. Vehicle incoming and outgoing register.
+   3. Hub incoming and result intimation register.
 
 ![](../.gitbook/assets/8.png)
 
@@ -63,9 +64,7 @@ New hubs may be added or removed from this list depending on circumstances.
 
 \(Example of vehicle outgoing register\)
 
-* 1. Hub incoming and result intimation register.
-
-1. The register records entries for each time a sample moves from a spoke to the vehicle and from the vehicle to the hub and then once the result is communicated by the hub. \( pen and book method\)
+The register records entries for each time a sample moves from a spoke to the vehicle and from the vehicle to the hub and then once the result is communicated by the hub. \( pen and paper method\)
 
 ### Major shortfalls in the current system:
 
@@ -119,7 +118,7 @@ Therefore the system facing the vehicle drivers must have the following:
 2. The system must aid the driver to navigate the route while continuously logging the information of the trip, through GPS technology.
 3. Upon reaching a spoke, the driver must receive the details of the outgoing boxes entered by the staff at the spoke, verify the information received by examining the boxes of samples \(or by simply scanning the QR code on the boxes and samples and allow the system to compare it to the information scanned by the staff at the spoke\) and authenticate that the identified boxes of samples are indeed handed over to the vehicle. Any mismatch in the information recorded by the driver and the staff will raise a red flag immediately.
 4. Similarly, at the hub, the driver again shares the list of the Boxes and samples \(preferably by scanning the QR code\) and hands over the boxes to the staff at the hub who in turn authenticates that the identified boxes and samples have indeed been handed over to the hub.
-5. There must be an option for the driver to ask for a backup vehicle at any point in a live trip, in case of any mechanical issue or accidents. The driver must be able to immediately call a back-up vehicle so that the sample reaches the hubs on time. All the information visible to the driver about the route and the samples must now be visible to the back-up driver, once he has reported to the location for transfer of charge.
+5. There must be an option for the driver to ask for a backup vehicle at any point in a live trip, in case of any mechanical issue or accidents. The driver must be able to immediately call a back-up vehicle so that the sample reaches the hubs on time. All the information visible to the driver about the route and the samples must now be visible to the back-up driver, once he has reported to the location for the transfer of charge.
 
 #### III: Transportation Vendor :
 
@@ -172,7 +171,7 @@ Therefore the system facing the staff at the hub must have the following feature
 
 * **For transportation:**
 
-1. A smart phone with GPS, internet connection and camera that can scan QR Codes.
+1. A smartphone with GPS, internet connection and camera that can scan QR Codes.
 2. A phone charging system in the vehicle to charge the smartphone.
 
 ### 
