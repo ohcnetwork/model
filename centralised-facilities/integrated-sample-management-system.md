@@ -192,66 +192,9 @@ Here, the map feature will be introduced to optimise the navigation and route of
 
 ### Wire Frame for the tool:
 
-Firstly, listing all the users and the main screens visible to them:
+The draft wireframe for the tool is available at,
 
-#### 1: Staff at Spoke
-
-* Log-in
-* Registering the spoke
-* Creating other users
-* Create new sample
-* Sample log
-* Request pick-up, \(log drop at another spoke\)
-* View details of car and driver
-* Alert when vehicle arrives
-* Pick-up authentication \(own samples + collected samples\)
-* File concern about Vehicle
-
-#### 2: Vehicle Driver \(Mobile Friendly Interface\)
-
-* Log-in
-* List of samples to pick up
-* Route map and navigation
-* Arrival at spoke, details of samples to be picked up there
-* Confirming receipt of sample
-* Arrival at Hub, details of samples to be dropped off
-* Confirming delivery
-* Completion of trip
-* Request Backup vehicle
-* Route Log with details of sample
-
-#### 3: Transportation vendor:
-
-* Log-in
-* Register vehicle
-* Register driver and create log-in credential
-* Create roaster of vehicle and drivers for duty
-* Log of trips \(with km and time\)
-* Complaints about driver/vehicle, field to respond
-* Alert if backup vehicle is requested, and assigning backup vehicle/driver
-
-#### 4: Staff at Hub:
-
-* Log-in
-* Registering the hub
-* Creating other users
-* Sample log
-* Alert on incoming samples
-* View details of car and driver
-* Alert when vehicle arrives
-* delivery authentication
-* Update the result
-* File concern about Vehicle
-
-#### 5: System administrator:
-
-* Log-in
-* Create log-in for driver
-* Summary logs of all facilities
-* Logs of vehicles
-* Dashboard of total sample flowing
-* Concerns about the driver/vehicle
-* Roaster of vehicles
+[https://drive.google.com/file/d/1oWGG1fJ-5B73vzmANjirJ8fyw9NmD-Q6/view?usp=sharing](https://drive.google.com/file/d/1oWGG1fJ-5B73vzmANjirJ8fyw9NmD-Q6/view?usp=sharing)
 
 #### 
 
