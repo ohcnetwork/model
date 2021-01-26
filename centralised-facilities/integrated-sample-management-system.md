@@ -74,6 +74,11 @@ New hubs may be added or removed from this list depending on circumstances.
 3. **Uniquely identifying the sample** is difficult without a unique tag. There is a high human error happening here. There have been many reports filed about missing samples, misplaced and misidentified samples. This detrimentally affects the efficiency of the system.
 4. **Communication of results** is sent by the hub to the spokes from where it further reaches the patients. Various channels of communication and procedures are used to communicate the result from the hubs to the spokes and then to the patients. A more uniform and streamlined system of result dissemination would ease the work of the hubs and also makes the testing process more prompt to benefit the patient.
 
+**Sources:** 
+
+* Mrs. Honey, Staff of NHM and the system co-ordinator for the Sample Management System
+* Mr. Manoj, Transportation Vendor and driver for the Sample Management System
+
 ## Proposed: CoronaSafe Sample Management System
 
 This is a paperless tech-enabled system of sample management.
