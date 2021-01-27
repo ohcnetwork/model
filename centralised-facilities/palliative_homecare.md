@@ -1,8 +1,8 @@
 # Palliative/Homecare Syste
 
-**Project Outline**
+## **Project Outline**
 
-**Introduction**:
+### **Introduction**:
 
 NHM wants to create a Central software system wherein they’re able to digitalise patient management for set categories \(set categories like palliative/homecare, psychiatry, dialysis, infectious diseases etc\).
 
@@ -10,7 +10,7 @@ NHM also wants to integrate other existing systems like telemedicine, sample man
 
 To begin with, prioritising Palliative Care/Homecare as a subset, let’s discuss what's expected.
 
-_**Some Jargons:**_
+### _**Some Jargons:**_
 
 **Community Nurse/Primary nurse:** Designated nurse for a PHC, who is specialized in palliative care/home care.
 
@@ -43,28 +43,29 @@ Apart from Community nurse, all other categories are Govt employees, Community n
 * LHI \(Lady Health Inspector\)
 * Health Supervisor \( He/she is tagged to a block, meaning 2-3 CHCs will have a common Health Supervisor\)
 
-**Current Process:**
+### **Current Process:**
 
 Community nurse in a PHC maintains a few registers;
 
-1. Primary Nominal register \(kept within PHC/CHC/G.H\)
+1. **Primary Nominal register** \(kept within PHC/CHC/G.H\)
 
 ![](../.gitbook/assets/0.jpeg)
 
-1. Note: In G.H \(General Hospital Ernakulam\), as some patient’s come from other districts, they keep a separate O.P register - for patients who get diagnosed and later they will be referred to respective PHC in their panchayat. Such patients visit G.H as it’s nearer for them.
+Note: In G.H \(General Hospital Ernakulam\), as some patient’s come from other districts, they keep a **separate O.P register** - for patients who get diagnosed and later they will be referred to respective PHC in their panchayat. Such patients visit G.H as it’s nearer for them.
 
 ![](../.gitbook/assets/1.jpeg)
 
-1. Only if the patient needs homecare, the patient's name is added to the Primary Follow up register. In case after treatment, if the patient needs no Homecare - patient’s follow up will be tagged as SOS.
-   1. Primary nurse’s follow up register
+2. Only if the patient needs homecare, the patient's name is added to the **Primary Follow up** register. In case after treatment, if the patient needs no homecare - patient’s follow up will be tagged as SOS.
+
+2.1 Primary nurse’s follow up register - also called **Primary Follow up register**
 
 ![](../.gitbook/assets/2%20%281%29.jpeg)
 
-* 1. Secondary nurse’s follow up register
+2.2 Secondary nurse’s follow up register - called **Secondary follow up register**
 
 ![](../.gitbook/assets/3.jpeg)
 
-1. Patient case sheet: Each patient has a case sheet which is maintained within PHC/CHC. This contains the information - on patient history with milestones. Past records of the patient - pertaining to homecare/palliative. Let’s say for eg if patient had cancer, we need to have - \(also attaching samples below\)
+3. **Patient Treatment Summary** sheet: Each patient has a case sheet which is maintained within PHC/CHC. This contains the information - on patient history with milestones. Past records of the patient - pertaining to homecare/palliative. Let’s say for eg if patient had cancer, we need to have - \(also attaching samples below\)
 
 - Date of diagnosis
 
@@ -78,48 +79,54 @@ Community nurse in a PHC maintains a few registers;
 
 - Other details \(details on what the form captures  below\) -
 
-* 1. Images of Treatment summary card: for Primary nurse -
+* Images of **Primary Treatment Summary** sheet : for Primary nurse -
 
  ![](../.gitbook/assets/4.jpeg)![](../.gitbook/assets/5.jpeg)![](../.gitbook/assets/6.jpeg)![](../.gitbook/assets/7.jpeg)
 
-4.2 Images of Treatment summary card: for Secondary nurse -
+* Images of **Secondary Treatment Summary** card: for Secondary nurse -
 
 ![](../.gitbook/assets/8.jpeg)![](../.gitbook/assets/9.jpeg)![](../.gitbook/assets/10.jpeg)
 
-1. Inside both kinds of **treatment summary sheets**, there are **reports**, which look like -
-   1. Treatment report is a one page file which is updated every month/bi-weekly/weekly/daily - depending on the patient's health condition. Details in such a report are;
-      1. Register no
-      2. Date
-      3. Patient’s general health status
-      4. Patient’s current difficulties, diagnosis
-      5. Primary details -
-         1. Food habits
-         2. Sleep
-         3. Excretion
-         4. Urination
-      6. Physical examination
-         1. BP
-         2. Pulse
-         3. GRBS
-         4. GRBS
-         5. Personal hygiene
-         6. Mouth hygiene
-         7. Pubic hygiene
-      7. Medicines
-      8. Treatment summary
-      9. Care Plan
+4. Inside both kinds of **treatment summary sheets**, there are **reports** \( reports are common for Primary and Secondary nurses\), which look like -
+
+* Treatment report is a one page file which is updated every month/bi-weekly/weekly/daily - depending on the patient's health condition. Details in such a report are;
+
+  1. Register no
+  2. Date
+  3. Patient’s general health status
+  4. Patient’s current difficulties, diagnosis
+  5. Primary details -
+     1. Food habits
+     2. Sleep
+     3. Excretion
+     4. Urination
+  6. Physical examination
+     1. BP
+     2. Pulse
+     3. GRBS
+     4. GRBS
+     5. Personal hygiene
+     6. Mouth hygiene
+     7. Pubic hygiene
+  7. Medicines
+  8. Treatment summary
+  9. Care Plan
+
+
+
+  **Sample** of a report below - 
 
 ![](../.gitbook/assets/11.jpeg)![](../.gitbook/assets/12.jpeg)
 
-6. In case the patient is suggested by the primary nurse that treatment needs to be given by a secondary nurse, the primary nurse can refer to the corresponding CHC’s secondary nurse.
+6. In case if primary nurse suggests that treatment needs to be done by a secondary nurse, the primary nurse can refer to the corresponding CHC’s secondary nurse.
 
-7. Sometimes in CHC, the physiotherapist will be involved in providing reports and suggesting the way forward for patients. He has a different report -
+7. Sometimes in CHC, the physiotherapist will be involved in providing reports and suggesting the way forward for patients. He has a different report - \(yet to be added\)
 
-8. In CHCs, if the Medical officer \(doctor\) in charge takes cares of the patient - his report is added to the case sheet too -
+8. In CHCs, if the Medical officer \(doctor\) in charge - if needed, takes cares of the patient - this **doctor's report** is added to the **Primary/Secondary Treatment Summary card** too -
 
 ![](../.gitbook/assets/13.jpeg)![](../.gitbook/assets/14.jpeg)
 
-So to summarize, the community nurse visits patients in a particular locality every month. Currently, the community nurse has to go through every case sheet - need to segregate patients based on locality and then see who needs care urgently from these records manually, and visit maximum 8 of them in a day. While visiting, if a patient needs expert care, they note it down and inform their corresponding specialist nurse to visit this patient. In case the patient visits CHC, medical officer/physiotherapist’s care is provided to the patient and the reports they use are provided above.
+So, to summarize, the community nurse visits patients in a particular locality every month. Currently, the community nurse has to go through every case sheet - need to segregate patients based on locality and then see who needs care urgently from these records manually, and visit maximum 8 of them in a day. While visiting, if a patient needs expert care, they note it down and inform their corresponding specialist nurse to visit this patient. In case the patient visits CHC, medical officer/physiotherapist’s care is provided to the patient and the reports they use are provided above.
 
 There are 18,000 such patients in Ernakulam currently, excluding the floating population. If we can bring a platform to handle this, patient numbers will be more than 50,000.
 
