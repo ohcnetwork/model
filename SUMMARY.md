@@ -41,7 +41,7 @@
 * [Emergency Evacuation Plan](centralised-facilities/emergency-evacuation-plan.md)
 * [Trucks Management System](centralised-facilities/trucks-management-system.md)
 * [CoronaSafe Integrated Sample Management and diagnostic System](centralised-facilities/integrated-sample-management-system.md)
-* [Palliative](centralised-facilities/palliative.md)
+* [Palliative/Homecare Syste](centralised-facilities/palliative_homecare.md)
 
 ## Field Notes
 
