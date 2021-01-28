@@ -29,6 +29,10 @@ New hubs may be added or removed from this list depending on circumstances.
 
 \(Example of the referral form for biopsy sample\)
 
+
+
+![Example of referral form for CBNAAT test](https://lh3.googleusercontent.com/mfLUYWq_2bBFhHdC42KAj-26f9xMwI_LvksmZdBLHU7scDmgJswyDnYrv_DZUzTB9OebbdgVqXLkTh3i4Q4dRLRPapAgDOulIqz7RSo_rkHp6Fk53c-M5JU0KcG3JK-sgKAMidU)
+
 ### Current workflow of the System:
 
 #### Sample Flow:
