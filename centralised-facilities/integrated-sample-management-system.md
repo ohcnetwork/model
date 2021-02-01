@@ -192,7 +192,7 @@ The first version to be rolled out is the system that communicates the number of
 
 In the second phase we will introduce the feature to uniquely identify samples.
 
-Result dessimination may also be added at this stage.
+Result dissemination may also be added at this stage.
 
 #### Phase 3:
 
