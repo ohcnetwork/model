@@ -1,4 +1,4 @@
-# Palliative/Homecare System
+# ARIKE: Palliative/Homecare System
 
 ## **Project Outline**
 
