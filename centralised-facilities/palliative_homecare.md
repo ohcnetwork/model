@@ -1,4 +1,4 @@
-# Palliative/Homecare Syste
+# Palliative/Homecare System
 
 ## **Project Outline**
 
