@@ -42,6 +42,7 @@
 * [Trucks Management System](centralised-facilities/trucks-management-system.md)
 * [Integrated Sample Management and diagnostic System](centralised-facilities/integrated-sample-management-system.md)
 * [ARIKE: Palliative/Homecare System](centralised-facilities/palliative_homecare.md)
+* [Critical Care](centralised-facilities/critical-care.md)
 
 ## Field Notes
 
