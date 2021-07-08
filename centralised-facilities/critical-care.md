@@ -35,13 +35,17 @@ A patient's information/vitals from the ICU in a remote area would be captured, 
 
 ## Digital Version
 
-
+![Mock UI](../.gitbook/assets/cc-ui.png)
 
 {% file src="../.gitbook/assets/coronasafe-module-vds-1-.pdf" caption="Mock UI" %}
+
+![Dashboard](../.gitbook/assets/cc-dashboard.png)
 
 {% file src="../.gitbook/assets/ccr-data-visualization.pdf" caption="Dashboard Preview" %}
 
   
   
-A detailed explanation of each input. [Link](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTqV1adSFDg0I4g4_oUn8jBBQYr7zubxPlCYQFKHmfQaiCzxYthJSD8xbFmDJWTLfyVqXUwKCzSYh2W/pubhtml?gid=0&single=true)
+A detailed explanation of each input. [Link](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTqV1adSFDg0I4g4_oUn8jBBQYr7zubxPlCYQFKHmfQaiCzxYthJSD8xbFmDJWTLfyVqXUwKCzSYh2W/pubhtml?gid=0&single=true)  
+  
+Track Progress at: [https://github.com/coronasafe/care\_fe/pull/1436](https://github.com/coronasafe/care_fe/pull/1436)
 
